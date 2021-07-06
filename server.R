@@ -6,6 +6,24 @@ server = function(input, output,session) {
     as.matrix(filter(Profile,Profile$`Consultant Name`== input$c1))
     })
   
+    # show statistics using infoBox
+    output$maxBox <- renderInfoBox({
+      max_value <- max(state_stat[,input$selected])
+      max_state <- 
+        state_stat$state.name[state_stat[,input$selected] == max_value]
+      infoBox(max_state, max_value, icon = icon("hand-o-up"))
+    })
+    output$minBox <- renderInfoBox({
+      min_value <- min(state_stat[,input$selected])
+      min_state <- 
+        state_stat$state.name[state_stat[,input$selected] == min_value]
+      infoBox(min_state, min_value, icon = icon("hand-o-down"))
+    })
+    output$avgBox <- renderInfoBox({
+      infoBox(paste("AVG.", input$selected),
+              mean(state_stat[,input$selected]), 
+              icon = icon("calculator"), fill = TRUE)})
+  
     # List_of_Consultant
     output$ex1 <- DT::renderDataTable(
         DT::datatable(List_of_Consultant,filter = 'top', options = list(pageLength = 15),rownames = FALSE)
@@ -117,7 +135,7 @@ server = function(input, output,session) {
       g
     })
     
-   #Output a skill distribution  
+   #Output a skill plot  
     output$SkillPlot2 <- renderPlotly({
       
       Skill_Level3 = RMaster %>% subset(., select=c('Ename','Python','Machine Learning','Deep Learning','Data Analysis','Asp.Net',
@@ -149,27 +167,6 @@ server = function(input, output,session) {
           showlegend=TRUE
         )
     })
-    
-    # update selections
-    # updatePickerInput(session=session,inputId = "p4",choices = unique(Client_Project2$'Demanding Domain Skill'), selected = c("Country"))
-    
-    # show statistics using infoBox
-    output$maxBox <- renderInfoBox({
-      max_value <- max(state_stat[,input$selected])
-      max_state <- 
-        state_stat$state.name[state_stat[,input$selected] == max_value]
-      infoBox(max_state, max_value, icon = icon("hand-o-up"))
-    })
-    output$minBox <- renderInfoBox({
-      min_value <- min(state_stat[,input$selected])
-      min_state <- 
-        state_stat$state.name[state_stat[,input$selected] == min_value]
-      infoBox(min_state, min_value, icon = icon("hand-o-down"))
-    })
-    output$avgBox <- renderInfoBox({
-      infoBox(paste("AVG.", input$selected),
-              mean(state_stat[,input$selected]), 
-              icon = icon("calculator"), fill = TRUE)})
     
     # Output a Experience plot
     output$EPlot <- renderPlot({
@@ -244,8 +241,6 @@ server = function(input, output,session) {
     })
     
     # Output a treemap
-    
-
     output$treemap <- renderPlot({
     
     t <- ggplot(data = TPP, mapping = aes(
@@ -271,7 +266,6 @@ server = function(input, output,session) {
     })
     
     # Output a skill comparison plot
- 
     output$SkillPlot3 <- renderPlotly({
       
       Skill_Level4 = RMaster %>% subset(., select=c('Ename','Python','Machine Learning','Deep Learning','Data Analysis','Asp.Net',
