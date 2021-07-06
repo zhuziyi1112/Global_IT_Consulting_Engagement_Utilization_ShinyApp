@@ -1,0 +1,8 @@
+The two treemaps represent how the demands look like for each IT sectors across countires. 
+
+- By IT domain skill / sector / investment 
+- By Countries
+
+Pro: This gives the partner a pretty sense about the reasonable direction that how the budgets should be re-allocated.
+Con: It's good to acquire the supply-side of data from the firm internally so the comparison between demand and supply can be more insightful. 
+

@@ -1,0 +1,2 @@
+This is a shiny app I have developed which showcases how to make a practical dashboard using R shiny. 
+The app itself explores the dummy enterprise data provided by Kaggle datasets. 

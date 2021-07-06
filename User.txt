@@ -1,0 +1,4 @@
+You are the managing partner of the global IT consulting firm who is responsible for business strategy planning and people development. 
+Your problem is that it is a relatively subjective process to determine the strategic focus area of IT investments (resource engagement, infrastructure, R&D, and training, etc.). 
+Also, in order to allocate effectively the OPEX/CAPEX budgets to each team / each type of engagement within the entire firm across different countries/offices, 
+there is a lack of high-level overview of IT engagements all over the world. 
