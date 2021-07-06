@@ -1,0 +1,1001 @@
+"Eid","Ename","Experience","Total_projects","Rating","Area_of_Interest_1","Area_of_Interest_2","Area_of_Interest_3","Language1","Language2","Language3","AI_project_count","ML_project_count","JS_project_count","Java_project_count","DotNet_project_count","Mobile_project_count","Designation","Python","Machine Learning","Deep Learning","Data Analysis","Asp.Net","Ado.Net","VB.Net","C#","Java","Spring Boot","Hibernate","NLP","CV","JS","React","Node","Angular","Dart","Flutter","Vb.Net"
+1,"Dana Bond",2,2,1,"DotNet","JS","AI","English","Hindi","Tamil",0,1,1,0,0,0,"Programmer-3",1,1,1,1,1,1,0,1,1,0,0,1,1,3,3,3,3,0,0,1
+2,"Jesus Hampton",9,13,1.4,"DotNet","AI","JS","English","Hindi","Malayalam",4,3,0,2,3,1,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,3,3,1,1,1,1,1,1,4
+3,"Teresa Munoz",15,16,1.1,"Machine Learning","JS","Java","English","Kannada","Chinese",3,3,1,3,5,1,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,1,1,3,3,3,3,1,1,1
+4,"Annette Dipietro",18,19,1.1,"DotNet","Machine Learning","Mobile","English","Chinese","Tamil",4,4,2,3,3,3,"Team Lead",3,3,3,3,4,4,0,4,1,1,1,1,1,1,1,1,1,2,2,4
+5,"Jennifer Fortner",22,15,0.7,"Mobile","Java","JS","English","Chinese","Telugu",3,4,3,1,1,3,"Deployment-2",1,1,1,1,1,1,0,1,3,3,3,1,1,2,2,2,2,4,4,1
+6,"Mary Todd",7,13,1.9,"AI","Java","Machine Learning","English","Chinese","Hindi",2,5,1,1,1,3,"Programmer-1",2,2,2,2,1,1,0,1,3,3,3,4,4,1,1,1,1,1,1,1
+7,"Nicolas Fulcher",2,2,1,"AI","Mobile","DotNet","English","Hindi","Telugu",1,0,1,0,0,0,"Programmer-3",1,0,0,0,1,1,0,1,1,0,0,4,4,1,1,1,1,1,1,1
+8,"Bernice Bousquet",3,4,1.3,"DotNet","Mobile","Java","English","Malayalam","Hindi",1,0,1,1,1,0,"Programmer-2",1,0,0,0,4,4,0,4,2,2,2,1,1,1,1,1,1,1,1,4
+9,"William Berger",2,5,2.5,"JS","DotNet","AI","English","Tamil","Malayalam",1,2,1,1,0,0,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,2,2,4,4,4,4,0,0,1
+10,"Kennith Hamilton",3,8,2.7,"Mobile","Machine Learning","JS","English","Kannada","Telugu",0,2,3,3,0,0,"Programmer-2",3,3,3,3,0,0,0,1,1,1,1,0,0,2,2,2,2,1,1,0
+11,"Shannon Berryhill",7,17,2.4,"JS","Machine Learning","Mobile","English","Japenese","Tamil",2,3,4,7,0,1,"Programmer-1",3,3,3,3,0,0,0,1,1,1,1,1,1,4,4,4,4,2,2,0
+12,"Rachel Morse",3,6,2,"DotNet","Java","JS","English","Telugu","Chinese",2,1,0,1,0,2,"Programmer-2",1,1,1,1,1,1,0,1,3,3,3,1,1,1,1,1,1,1,1,1
+13,"Robert Wilson",11,8,0.7,"Java","Mobile","JS","English","Telugu","Kannada",2,1,1,4,0,0,"Programmer-3",1,1,1,1,0,0,0,1,4,4,4,1,1,2,2,2,2,1,1,0
+14,"Shirley Mcmahon",8,6,0.8,"Java","JS","Machine Learning","English","Malayalam","Hindi",1,0,4,0,0,1,"Programmer-3",1,1,1,1,0,0,0,1,1,1,1,1,1,3,3,3,3,1,1,0
+15,"Jeffery Parikh",6,8,1.3,"DotNet","Java","Mobile","English","Telugu","Hindi",2,1,3,1,0,1,"Programmer-2",1,1,1,1,1,1,0,1,3,3,3,1,1,1,1,1,1,2,2,1
+16,"Shannon Campo",18,26,1.4,"JS","Machine Learning","Java","English","Tamil","Malayalam",2,7,5,5,2,5,"Team Lead",3,3,3,3,1,1,0,1,2,2,2,1,1,4,4,4,4,1,1,1
+17,"Charles Vine",15,6,0.4,"AI","Mobile","Machine Learning","English","Malayalam","Telugu",2,1,2,1,0,0,"Testing and Debugging",2,2,2,2,0,0,0,1,1,1,1,4,4,1,1,1,1,1,1,0
+18,"John Peters",16,19,1.2,"DotNet","JS","Mobile","English","Malayalam","Japenese",6,1,3,3,2,4,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,1,1,3,3,3,3,2,2,4
+19,"Lawrence Litzenberg",21,21,1,"Java","Machine Learning","JS","English","Chinese","Hindi",2,3,6,5,4,1,"Deployment-1",3,3,3,3,1,1,0,1,4,4,4,1,1,2,2,2,2,1,1,1
+20,"Michael Harpole",22,23,1,"AI","Mobile","DotNet","English","Kannada","Malayalam",3,1,8,5,5,1,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,4,4,1,1,1,1,3,3,2
+21,"Jeanne Tovar",24,27,1.1,"Machine Learning","Mobile","DotNet","English","Kannada","Chinese",9,5,2,3,1,7,"Team Lead",4,4,4,4,2,2,0,2,1,1,1,1,1,1,1,1,1,3,3,2
+22,"Patricia Shepherd",3,5,1.7,"Java","JS","Machine Learning","English","Telugu","Hindi",1,0,1,2,0,1,"Programmer-2",1,1,1,1,0,0,0,1,4,4,4,1,1,3,3,3,3,1,1,0
+23,"John Pina",6,19,3.2,"Machine Learning","Java","DotNet","English","Telugu","Kannada",2,3,3,1,4,6,"Programmer-1",4,4,4,4,2,2,0,2,3,3,3,1,1,1,1,1,1,1,1,2
+24,"Alan Denny",15,13,0.9,"Mobile","JS","Java","English","Japenese","Hindi",3,4,0,3,2,1,"Deployment-1",1,1,1,1,1,1,0,1,2,2,2,1,1,1,1,1,1,4,4,1
+25,"Rogelio Singletary",19,26,1.4,"Machine Learning","DotNet","AI","English","Malayalam","Tamil",2,8,7,4,2,3,"Team Lead",4,4,4,4,3,3,0,3,1,1,1,2,2,1,1,1,1,1,1,3
+26,"John Trout",4,9,2.3,"Mobile","JS","AI","English","Malayalam","Tamil",3,0,4,1,1,0,"Programmer-2",1,0,0,0,1,1,0,1,1,1,1,2,2,3,3,3,3,1,1,1
+27,"Roberta Barnes",11,6,0.5,"AI","Mobile","Java","English","Telugu","Japenese",2,1,1,0,1,1,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,4,4,1,1,1,1,3,3,1
+28,"Corinne Burnley",16,19,1.2,"Mobile","AI","Machine Learning","English","Japenese","Hindi",8,2,4,2,0,3,"Team Lead",2,2,2,2,0,0,0,1,1,1,1,3,3,1,1,1,1,4,4,0
+29,"Sandra Matthews",13,13,1,"Java","JS","Machine Learning","English","Chinese","Tamil",1,3,1,2,3,3,"Deployment-1",2,2,2,2,1,1,0,1,4,4,4,1,1,3,3,3,3,1,1,1
+30,"Digna Williams",19,24,1.3,"Java","AI","DotNet","English","Kannada","Malayalam",5,5,2,3,2,7,"Team Lead",1,1,1,1,2,2,0,2,4,4,4,3,3,1,1,1,1,1,1,2
+31,"Anna Carmona",14,14,1,"AI","Mobile","Machine Learning","English","Malayalam","Tamil",5,2,3,2,1,1,"Deployment-2",2,2,2,2,1,1,0,1,1,1,1,4,4,1,1,1,1,3,3,1
+32,"George Hill",11,7,0.6,"Machine Learning","Java","AI","English","Kannada","Chinese",2,2,0,1,1,1,"Programmer-3",4,4,4,4,1,1,0,1,3,3,3,2,2,1,0,0,0,1,1,1
+33,"Norma Runyan",19,22,1.2,"Mobile","AI","JS","English","Tamil","Hindi",2,2,5,5,4,4,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,3,3,2,2,2,2,4,4,1
+34,"Sandra Mosher",13,6,0.5,"Machine Learning","DotNet","AI","English","Chinese","Hindi",2,1,1,0,1,1,"Testing and Debugging",4,4,4,4,3,3,0,3,1,0,0,2,2,1,1,1,1,1,1,3
+35,"Elsie Holman",4,3,0.8,"Java","JS","DotNet","English","Kannada","Malayalam",2,0,0,1,0,0,"Programmer-3",1,0,0,0,1,1,0,1,4,4,4,1,1,1,1,1,1,0,0,1
+36,"Tony Hefferon",3,7,2.3,"Mobile","Java","AI","English","Kannada","Japenese",1,3,0,1,2,0,"Programmer-2",1,1,1,1,1,1,0,1,3,3,3,2,2,1,0,0,0,1,1,1
+37,"Joseph Parsons",4,6,1.5,"AI","Java","Mobile","English","Hindi","Tamil",1,1,1,2,1,0,"Programmer-2",1,1,1,1,1,1,0,1,3,3,3,4,4,1,1,1,1,1,1,1
+38,"Jose Buresh",18,27,1.5,"JS","AI","Mobile","English","Japenese","Telugu",7,4,4,6,4,2,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,3,3,4,4,4,4,2,2,1
+39,"Larry Barton",17,28,1.6,"AI","DotNet","Java","English","Malayalam","Telugu",7,5,7,5,3,1,"Project Manager",1,1,1,1,3,3,0,3,2,2,2,4,4,1,1,1,1,1,1,3
+40,"Lillian Rork",15,16,1.1,"JS","AI","DotNet","English","Japenese","Chinese",5,0,2,3,2,4,"Team Lead",1,0,0,0,2,2,0,2,1,1,1,3,3,4,4,4,4,1,1,2
+41,"Maria Sikes",14,8,0.6,"Machine Learning","Mobile","AI","English","Telugu","Tamil",0,1,3,1,1,2,"Programmer-3",4,4,4,4,1,1,0,1,1,1,1,1,1,1,1,1,1,3,3,1
+42,"Felicia Lampe",13,12,0.9,"Mobile","AI","DotNet","English","Japenese","Kannada",6,2,1,0,1,2,"Testing and Debugging",1,1,1,1,2,2,0,2,1,0,0,3,3,1,1,1,1,4,4,2
+43,"Maria Williamson",3,8,2.7,"DotNet","JS","AI","English","Chinese","Kannada",2,2,2,1,0,1,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,2,2,3,3,3,3,1,1,1
+44,"Kathryn Ehrhart",24,24,1,"JS","Mobile","Machine Learning","English","Chinese","Kannada",7,2,4,4,4,3,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,1,1,4,4,4,4,3,3,1
+45,"Christine Geronimo",13,18,1.4,"Java","JS","Mobile","English","Hindi","Japenese",4,3,2,4,1,4,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,1,1,3,3,3,3,2,2,1
+46,"Danielle Farmer",15,15,1,"Mobile","Machine Learning","AI","English","Tamil","Chinese",3,3,4,2,3,0,"Deployment-1",3,3,3,3,1,1,0,1,1,1,1,2,2,1,1,1,1,1,1,1
+47,"Alice Jordan",18,27,1.5,"JS","DotNet","Machine Learning","English","Telugu","Tamil",5,4,3,10,4,1,"Team Lead",2,2,2,2,3,3,0,3,1,1,1,1,1,4,4,4,4,1,1,3
+48,"Donna Garza",12,6,0.5,"JS","Java","Machine Learning","English","Chinese","Telugu",0,1,1,3,1,0,"Deployment-1",2,2,2,2,1,1,0,1,3,3,3,0,0,4,4,4,4,0,0,1
+49,"James Copper",14,5,0.4,"Java","JS","AI","English","Tamil","Telugu",0,0,1,0,2,2,"Testing and Debugging",1,0,0,0,1,1,0,1,1,1,1,1,1,3,3,3,3,1,1,1
+50,"Melody Jones",21,15,0.7,"Java","AI","DotNet","English","Hindi","Chinese",1,6,7,0,0,1,"Deployment-2",1,1,1,1,1,1,0,1,1,1,1,3,3,1,1,1,1,1,1,1
+51,"Barbara Amick",6,10,1.7,"AI","JS","Machine Learning","English","Chinese","Telugu",2,1,2,1,4,0,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,4,4,3,3,3,3,0,0,1
+52,"Melissa Montoya",16,22,1.4,"Mobile","AI","Java","English","Telugu","Malayalam",7,3,6,2,3,1,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,3,3,1,1,1,1,4,4,1
+53,"Samantha Vasquez",10,19,1.9,"JS","Mobile","AI","English","Malayalam","Kannada",4,7,2,2,2,2,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,2,2,4,4,4,4,3,3,1
+54,"Esperanza Galletti",16,24,1.5,"AI","Mobile","DotNet","English","Kannada","Hindi",8,4,4,2,3,3,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,4,4,1,1,1,1,3,3,2
+55,"Leroy Smith",11,16,1.5,"AI","Java","Mobile","English","Kannada","Telugu",3,2,4,3,3,1,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,4,4,1,1,1,1,2,2,1
+56,"Gertrude Curtis",4,8,2,"DotNet","Java","Machine Learning","English","Chinese","Kannada",1,4,3,0,0,0,"Programmer-2",2,2,2,2,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1
+57,"Yvonne Caron",8,16,2,"Java","Mobile","AI","English","Tamil","Chinese",3,4,4,1,4,0,"Programmer-1",1,1,1,1,1,1,0,1,4,4,4,2,2,1,1,1,1,1,1,1
+58,"Lisa Green",17,18,1.1,"AI","Mobile","Java","English","Kannada","Telugu",2,2,3,7,2,2,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,4,4,1,1,1,1,3,3,1
+59,"Clare Stockton",10,18,1.8,"JS","Java","Machine Learning","English","Japenese","Chinese",3,1,5,1,5,3,"Team Lead",2,2,2,2,1,1,0,1,3,3,3,1,1,4,4,4,4,1,1,1
+60,"Candace Odum",22,24,1.1,"Machine Learning","Mobile","JS","English","Chinese","Tamil",6,3,6,4,2,3,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,1,1,2,2,2,2,3,3,1
+61,"Linda Reck",6,6,1,"AI","DotNet","Mobile","English","Kannada","Hindi",3,0,0,1,1,1,"Programmer-3",1,0,0,0,3,3,0,3,1,1,1,4,4,1,0,0,0,2,2,3
+62,"Sallie Jennings",6,6,1,"Mobile","Java","JS","English","Telugu","Tamil",0,3,2,0,1,0,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,0,0,2,2,2,2,1,1,1
+63,"Tarsha Caines",23,19,0.8,"JS","DotNet","Mobile","English","Tamil","Kannada",3,5,3,3,2,3,"Deployment-1",1,1,1,1,3,3,0,3,1,1,1,1,1,4,4,4,4,2,2,3
+64,"Wayne Johnson",5,6,1.2,"Machine Learning","AI","JS","English","Japenese","Telugu",0,2,0,1,0,3,"Programmer-2",4,4,4,4,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0
+65,"Jesusita Adams",4,8,2,"Machine Learning","DotNet","Java","English","Tamil","Hindi",0,1,3,1,1,2,"Programmer-2",4,4,4,4,3,3,0,3,2,2,2,0,0,1,1,1,1,1,1,3
+66,"John Campos",10,11,1.1,"DotNet","Machine Learning","JS","English","Japenese","Malayalam",0,2,1,3,3,2,"Team Lead",3,3,3,3,4,4,0,4,1,1,1,0,0,2,2,2,2,1,1,4
+67,"Tabatha Pena",17,28,1.6,"Mobile","AI","DotNet","English","Kannada","Chinese",2,7,7,5,3,4,"Project Manager",1,1,1,1,2,2,0,2,1,1,1,3,3,1,1,1,1,4,4,2
+68,"Timothy Mcpherson",14,5,0.4,"DotNet","Mobile","Java","English","Hindi","Japenese",0,0,3,1,0,1,"Deployment-2",1,0,0,0,1,1,0,1,2,2,2,0,0,1,1,1,1,3,3,1
+69,"Brandon Wainwright",11,16,1.5,"DotNet","Machine Learning","JS","English","Hindi","Malayalam",4,0,4,4,2,2,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,1,1,2,2,2,2,1,1,4
+70,"Bruce Ellis",14,6,0.4,"Mobile","AI","DotNet","English","Telugu","Chinese",0,0,2,3,1,0,"Deployment-1",1,0,0,0,2,2,0,2,1,1,1,1,1,1,1,1,1,1,1,2
+71,"Robert Saddler",12,12,1,"AI","Mobile","JS","English","Kannada","Malayalam",3,2,4,0,0,3,"Deployment-2",1,1,1,1,0,0,0,1,1,0,0,4,4,2,2,2,2,3,3,0
+72,"Cathy Brown",23,27,1.2,"AI","DotNet","Machine Learning","English","Telugu","Kannada",8,1,3,8,5,2,"Team Lead",2,2,2,2,3,3,0,3,1,1,1,4,4,1,1,1,1,1,1,3
+73,"Marianne Welsh",24,21,0.9,"Java","DotNet","Machine Learning","English","Telugu","Malayalam",0,6,5,6,1,3,"Deployment-1",2,2,2,2,3,3,0,3,4,4,4,0,0,1,1,1,1,1,1,3
+74,"Antonio Mcclanan",19,15,0.8,"Mobile","Java","DotNet","English","Japenese","Hindi",5,1,4,3,1,1,"Deployment-1",1,1,1,1,2,2,0,2,3,3,3,1,1,1,1,1,1,4,4,2
+75,"Carol Defabio",23,26,1.1,"JS","Machine Learning","DotNet","English","Malayalam","Japenese",5,4,5,7,1,4,"Team Lead",3,3,3,3,2,2,0,2,1,1,1,1,1,4,4,4,4,1,1,2
+76,"Marion Hicks",16,20,1.3,"JS","Mobile","Machine Learning","English","Tamil","Chinese",5,4,2,4,1,4,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,1,1,4,4,4,4,3,3,1
+77,"Brian Sparks",8,18,2.3,"Machine Learning","DotNet","Mobile","English","Malayalam","Japenese",3,1,3,3,4,4,"Programmer-1",4,4,4,4,3,3,0,3,1,1,1,1,1,1,1,1,1,2,2,3
+78,"Alan Duncan",8,7,0.9,"AI","Machine Learning","Java","English","Tamil","Telugu",0,3,0,1,0,3,"Programmer-3",3,3,3,3,0,0,0,1,2,2,2,1,1,1,0,0,0,1,1,0
+79,"Lloyd Lahay",14,18,1.3,"AI","Java","Mobile","English","Chinese","Japenese",2,3,5,4,1,3,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,4,4,1,1,1,1,2,2,1
+80,"Melissa Cruz",2,6,3,"AI","Java","JS","English","Hindi","Malayalam",2,2,0,2,0,0,"Programmer-2",1,1,1,1,0,0,0,1,3,3,3,4,4,1,1,1,1,0,0,0
+81,"Patrick Scavone",17,26,1.5,"AI","Machine Learning","JS","English","Telugu","Kannada",5,4,4,3,6,4,"Project Manager",3,3,3,3,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+82,"Barrie Cosgrove",4,3,0.8,"JS","AI","Java","English","Tamil","Malayalam",0,2,0,1,0,0,"Programmer-3",1,1,1,1,0,0,0,1,2,2,2,1,1,1,1,1,1,0,0,0
+83,"Judy Minton",17,24,1.4,"AI","Machine Learning","DotNet","English","Hindi","Chinese",5,2,2,7,5,3,"Team Lead",3,3,3,3,2,2,0,2,1,1,1,4,4,1,1,1,1,1,1,2
+84,"Jose Durrant",5,3,0.6,"Machine Learning","Java","AI","English","Japenese","Telugu",1,0,2,0,0,0,"Programmer-3",1,1,1,1,0,0,0,1,1,1,1,2,2,1,1,1,1,0,0,0
+85,"Rebecca Marlow",9,18,2,"Mobile","Java","AI","English","Chinese","Telugu",4,6,3,3,1,1,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,2,2,1,1,1,1,4,4,1
+86,"Nancy Jackson",19,28,1.5,"Java","DotNet","JS","English","Malayalam","Hindi",5,2,0,10,6,5,"Team Lead",1,1,1,1,3,3,0,3,4,4,4,1,1,1,1,1,1,1,1,3
+87,"Kenneth Heyne",7,6,0.9,"Java","DotNet","JS","English","Japenese","Chinese",3,1,1,0,1,0,"Programmer-3",1,1,1,1,3,3,0,3,1,1,1,1,1,2,2,2,2,0,0,3
+88,"Kathryn Cottrell",14,10,0.7,"JS","Java","Machine Learning","English","Chinese","Tamil",2,1,3,3,1,0,"Deployment-1",2,2,2,2,1,1,0,1,3,3,3,1,1,4,4,4,4,0,0,1
+89,"Candace Robinson",17,17,1,"AI","Machine Learning","Java","English","Tamil","Japenese",1,0,5,4,4,3,"Deployment-1",1,1,1,1,1,1,0,1,2,2,2,4,4,1,1,1,1,1,1,1
+90,"Sarah Burkley",22,21,1,"JS","Machine Learning","Mobile","English","Kannada","Japenese",1,3,5,6,2,4,"Deployment-1",3,3,3,3,1,1,0,1,1,1,1,1,1,4,4,4,4,2,2,1
+91,"William Hawkins",17,16,0.9,"Java","JS","Machine Learning","English","Hindi","Tamil",3,3,3,3,2,2,"Deployment-1",2,2,2,2,1,1,0,1,4,4,4,1,1,3,3,3,3,1,1,1
+92,"Dominick Cruz",22,18,0.8,"AI","Machine Learning","JS","English","Kannada","Malayalam",2,1,3,4,4,4,"Deployment-1",3,3,3,3,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+93,"Jerry Parkinson",21,24,1.1,"JS","AI","Java","English","Malayalam","Japenese",3,6,5,3,3,4,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,3,3,4,4,4,4,1,1,1
+94,"William Wolf",9,15,1.7,"DotNet","Mobile","JS","English","Chinese","Kannada",3,2,3,4,2,1,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,1,1,2,2,2,2,3,3,4
+95,"Charles Braxton",24,17,0.7,"DotNet","AI","Machine Learning","English","Malayalam","Kannada",3,4,2,3,3,2,"Deployment-1",2,2,2,2,4,4,0,4,1,1,1,3,3,1,1,1,1,1,1,4
+96,"Diane Williams",7,9,1.3,"JS","DotNet","Machine Learning","English","Tamil","Kannada",1,2,2,1,0,3,"Programmer-2",2,2,2,2,1,1,0,1,1,1,1,1,1,4,4,4,4,1,1,1
+97,"Sarah Wilson",4,9,2.3,"AI","JS","Machine Learning","English","Kannada","Malayalam",4,1,1,0,1,2,"Programmer-2",2,2,2,2,1,1,0,1,1,0,0,4,4,3,3,3,3,1,1,1
+98,"Erika Brown",9,13,1.4,"AI","JS","Mobile","English","Malayalam","Kannada",3,3,3,2,0,2,"Team Lead",1,1,1,1,0,0,0,1,1,1,1,4,4,3,3,3,3,2,2,0
+99,"Paul Ortiz",13,19,1.5,"Mobile","AI","Java","English","Japenese","Hindi",7,5,2,1,1,3,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,3,3,1,1,1,1,4,4,1
+100,"Suzanne Devoe",19,29,1.5,"Mobile","DotNet","Java","English","Tamil","Telugu",5,7,6,2,1,8,"Project Manager",1,1,1,1,3,3,0,3,2,2,2,1,1,1,1,1,1,4,4,3
+101,"George Carbaugh",14,16,1.1,"Machine Learning","Java","Mobile","English","Kannada","Telugu",3,1,2,3,5,2,"Team Lead",4,4,4,4,1,1,0,1,3,3,3,1,1,1,1,1,1,2,2,1
+102,"Scott Alexander",17,23,1.4,"Java","AI","Mobile","English","Chinese","Japenese",4,5,2,3,5,4,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,3,3,1,1,1,1,2,2,1
+103,"Eric Keister",19,16,0.8,"Java","AI","DotNet","English","Chinese","Malayalam",5,4,2,3,0,2,"Deployment-1",1,1,1,1,1,1,0,1,4,4,4,3,3,1,1,1,1,1,1,1
+104,"Ben Osler",5,4,0.8,"Mobile","Machine Learning","DotNet","English","Japenese","Telugu",3,1,0,0,0,0,"Programmer-3",3,3,3,3,1,1,0,1,1,0,0,1,1,1,0,0,0,1,1,1
+105,"Anthony Roe",19,23,1.2,"AI","Mobile","DotNet","English","Chinese","Malayalam",2,2,8,5,5,1,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,4,4,1,1,1,1,3,3,2
+106,"Sue Bonn",14,12,0.9,"Mobile","AI","DotNet","English","Telugu","Japenese",3,2,2,2,3,0,"Deployment-1",1,1,1,1,2,2,0,2,1,1,1,3,3,1,1,1,1,1,1,2
+107,"Ila Emberling",19,15,0.8,"Machine Learning","JS","DotNet","English","Kannada","Japenese",2,3,2,4,3,1,"Deployment-1",4,4,4,4,2,2,0,2,1,1,1,1,1,3,3,3,3,1,1,2
+108,"Douglas Harrington",4,5,1.3,"JS","Java","DotNet","English","Telugu","Chinese",1,1,0,1,0,2,"Programmer-2",1,1,1,1,1,1,0,1,3,3,3,1,1,1,1,1,1,1,1,1
+109,"Francis Pounds",13,16,1.2,"Java","JS","AI","English","Kannada","Tamil",4,2,3,4,3,0,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,2,2,3,3,3,3,0,0,1
+110,"James Sachs",15,17,1.1,"Machine Learning","AI","JS","English","Malayalam","Tamil",4,2,2,2,5,2,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,3,3,2,2,2,2,1,1,1
+111,"Iris Meier",19,18,0.9,"Mobile","AI","DotNet","English","Japenese","Chinese",2,3,4,1,3,5,"Deployment-1",1,1,1,1,2,2,0,2,1,1,1,3,3,1,1,1,1,4,4,2
+112,"Mary Page",7,16,2.3,"Mobile","Java","DotNet","English","Japenese","Hindi",1,4,2,0,4,5,"Programmer-1",1,1,1,1,2,2,0,2,1,1,1,1,1,1,1,1,1,4,4,2
+113,"Norma Lewis",10,19,1.9,"AI","Java","Machine Learning","English","Japenese","Kannada",4,4,2,1,3,5,"Team Lead",2,2,2,2,1,1,0,1,3,3,3,4,4,1,1,1,1,1,1,1
+114,"Kimberly Lozano",2,4,2,"AI","Mobile","Java","English","Chinese","Japenese",2,0,2,0,0,0,"Programmer-2",1,0,0,0,0,0,0,1,1,1,1,4,4,1,1,1,1,1,1,0
+115,"Leo Pagan",7,18,2.6,"DotNet","Mobile","Machine Learning","English","Chinese","Malayalam",4,4,4,1,3,2,"Programmer-1",2,2,2,2,4,4,0,4,1,1,1,1,1,1,1,1,1,3,3,4
+116,"Rosalyn Garden",12,6,0.5,"Machine Learning","DotNet","Mobile","English","Kannada","Tamil",2,2,0,0,1,1,"Testing and Debugging",4,4,4,4,3,3,0,3,1,0,0,1,1,1,0,0,0,2,2,3
+117,"Violet Fisher",22,18,0.8,"Mobile","Machine Learning","Java","English","Tamil","Telugu",4,3,2,1,5,3,"Deployment-1",3,3,3,3,1,1,0,1,2,2,2,1,1,1,1,1,1,4,4,1
+118,"Floyd Fernandez",18,17,0.9,"JS","Mobile","Machine Learning","English","Japenese","Hindi",3,3,2,3,3,3,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,1,1,4,4,4,4,3,3,1
+119,"Linda Leung",3,5,1.7,"Mobile","Java","DotNet","English","Malayalam","Telugu",0,1,1,1,0,2,"Programmer-2",1,1,1,1,1,1,0,1,3,3,3,0,0,1,1,1,1,4,4,1
+120,"David Rankin",24,16,0.7,"Mobile","JS","Machine Learning","English","Kannada","Japenese",4,3,0,3,3,3,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,1,1,1,1,1,1,4,4,1
+121,"Melvin Gutierrez",11,8,0.7,"JS","Machine Learning","Mobile","English","Tamil","Hindi",1,3,0,2,2,0,"Programmer-3",3,3,3,3,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+122,"Andrea Christensen",6,13,2.2,"DotNet","Mobile","Machine Learning","English","Malayalam","Telugu",3,1,1,4,0,4,"Programmer-1",2,2,2,2,1,1,0,1,1,1,1,1,1,1,1,1,1,3,3,1
+123,"Laura Bosco",14,9,0.6,"Machine Learning","Mobile","JS","English","Kannada","Hindi",4,1,1,1,2,0,"Programmer-3",4,4,4,4,1,1,0,1,1,1,1,1,1,2,2,2,2,1,1,1
+124,"Robert Harrison",16,15,0.9,"DotNet","Mobile","Java","English","Malayalam","Chinese",1,2,3,4,0,5,"Deployment-1",1,1,1,1,1,1,0,1,2,2,2,1,1,1,1,1,1,3,3,1
+125,"Patricia Parks",4,2,0.5,"Machine Learning","AI","Mobile","English","Malayalam","Kannada",0,2,0,0,0,0,"Testing and Debugging",4,4,4,4,0,0,0,1,1,0,0,1,1,1,0,0,0,1,1,0
+126,"Johnna Haag",18,18,1,"JS","Java","Mobile","English","Kannada","Hindi",3,5,3,5,1,1,"Deployment-1",1,1,1,1,1,1,0,1,3,3,3,1,1,4,4,4,4,2,2,1
+127,"Marcy Martin",20,19,1,"DotNet","JS","Machine Learning","English","Hindi","Malayalam",4,4,0,5,5,1,"Deployment-1",2,2,2,2,4,4,0,4,1,1,1,1,1,1,1,1,1,1,1,4
+128,"Mary Vaughan",21,21,1,"Machine Learning","AI","Java","English","Chinese","Hindi",4,3,5,2,5,2,"Deployment-1",4,4,4,4,1,1,0,1,2,2,2,3,3,1,1,1,1,1,1,1
+129,"Michael Flatt",6,16,2.7,"Java","Machine Learning","Mobile","English","Tamil","Chinese",2,2,3,3,3,3,"Programmer-1",3,3,3,3,1,1,0,1,4,4,4,1,1,1,1,1,1,2,2,1
+130,"Debbie Pulver",7,5,0.7,"Mobile","Machine Learning","Java","English","Kannada","Hindi",2,1,0,0,1,1,"Programmer-3",3,3,3,3,1,1,0,1,1,1,1,1,1,1,0,0,0,4,4,1
+131,"Jean Blow",9,11,1.2,"AI","DotNet","Mobile","English","Malayalam","Chinese",4,3,2,0,2,0,"Team Lead",1,1,1,1,3,3,0,3,1,0,0,4,4,1,1,1,1,1,1,3
+132,"John Lebarron",6,10,1.7,"AI","Mobile","JS","English","Chinese","Tamil",2,2,3,1,2,0,"Deployment-2",1,1,1,1,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+133,"Barbara Washington",17,25,1.5,"Java","Mobile","AI","English","Chinese","Tamil",6,5,4,4,1,5,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,2,2,1,1,1,1,3,3,1
+134,"Michele Garguilo",2,8,4,"JS","Mobile","Java","English","Tamil","Japenese",1,3,2,0,2,0,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,1,1,4,4,4,4,1,1,1
+135,"Erick Shaw",2,7,3.5,"Machine Learning","Java","JS","English","Malayalam","Chinese",0,3,0,1,2,1,"Programmer-2",4,4,4,4,1,1,0,1,3,3,3,0,0,1,1,1,1,1,1,1
+136,"Tiffany Secrest",15,8,0.5,"Java","JS","DotNet","English","Telugu","Malayalam",0,2,2,3,1,0,"Programmer-3",1,1,1,1,2,2,0,2,4,4,4,0,0,3,3,3,3,0,0,2
+137,"Daniel Roberge",14,5,0.4,"AI","Machine Learning","JS","English","Malayalam","Japenese",0,1,3,0,0,1,"Deployment-2",3,3,3,3,0,0,0,1,1,0,0,1,1,2,2,2,2,1,1,0
+138,"Jennifer Collins",19,29,1.5,"AI","JS","Machine Learning","English","Malayalam","Kannada",5,4,6,5,4,5,"Project Manager",2,2,2,2,1,1,0,1,1,1,1,4,4,3,3,3,3,1,1,1
+139,"Melinda Johnson",5,4,0.8,"Machine Learning","Java","AI","English","Japenese","Kannada",0,0,3,0,1,0,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1
+140,"Tami Williams",6,7,1.2,"Mobile","AI","Machine Learning","English","Hindi","Chinese",1,1,0,3,1,1,"Programmer-2",2,2,2,2,1,1,0,1,1,1,1,3,3,1,0,0,0,4,4,1
+141,"Clyde Young",8,11,1.4,"Java","JS","AI","English","Tamil","Japenese",2,0,3,5,0,1,"Deployment-1",1,0,0,0,0,0,0,1,4,4,4,2,2,3,3,3,3,1,1,0
+142,"Brian Vaughan",20,28,1.4,"DotNet","Mobile","Java","English","Chinese","Kannada",4,3,3,7,5,6,"Team Lead",1,1,1,1,4,4,0,4,2,2,2,1,1,1,1,1,1,3,3,4
+143,"Donna Morgia",18,29,1.6,"DotNet","JS","Mobile","English","Kannada","Japenese",4,5,6,5,6,3,"Project Manager",1,1,1,1,4,4,0,4,1,1,1,1,1,3,3,3,3,2,2,4
+144,"Louise Woody",22,16,0.7,"Mobile","Java","AI","English","Japenese","Malayalam",5,2,1,2,4,2,"Deployment-1",1,1,1,1,1,1,0,1,3,3,3,2,2,1,1,1,1,4,4,1
+145,"Rose Kelly",6,5,0.8,"AI","Machine Learning","Mobile","English","Kannada","Telugu",1,1,0,0,2,1,"Programmer-3",3,3,3,3,1,1,0,1,1,0,0,4,4,1,0,0,0,2,2,1
+146,"Lucy Montoya",11,12,1.1,"Mobile","AI","JS","English","Kannada","Telugu",2,2,3,0,3,2,"Team Lead",1,1,1,1,1,1,0,1,1,0,0,3,3,2,2,2,2,4,4,1
+147,"Heather Martinez",3,5,1.7,"Machine Learning","AI","Mobile","English","Malayalam","Chinese",1,1,2,1,0,0,"Programmer-2",4,4,4,4,0,0,0,1,1,1,1,3,3,1,1,1,1,1,1,0
+148,"Estelle Lamm",3,3,1,"Java","JS","DotNet","English","Kannada","Telugu",0,1,2,0,0,0,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,0,0,3,3,3,3,0,0,1
+149,"William Champion",5,4,0.8,"Mobile","Java","AI","English","Tamil","Hindi",1,0,0,1,2,0,"Programmer-3",1,0,0,0,1,1,0,1,3,3,3,2,2,1,0,0,0,1,1,1
+150,"Theron Degennaro",21,28,1.3,"Mobile","Java","JS","English","Kannada","Chinese",1,6,3,8,2,8,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,1,1,2,2,2,2,4,4,1
+151,"Jeff Applebee",17,25,1.5,"Mobile","JS","Machine Learning","English","Tamil","Hindi",5,3,3,4,7,3,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,1,1,3,3,3,3,4,4,1
+152,"Cecilia Dale",23,22,1,"Java","DotNet","Mobile","English","Telugu","Malayalam",0,3,6,6,4,3,"Deployment-1",1,1,1,1,3,3,0,3,4,4,4,0,0,1,1,1,1,2,2,3
+153,"John Ervin",24,27,1.1,"Mobile","Java","JS","English","Japenese","Hindi",3,5,5,3,5,6,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,1,1,2,2,2,2,4,4,1
+154,"Earl Wood",9,11,1.2,"Java","Machine Learning","DotNet","English","Chinese","Malayalam",1,1,2,2,5,0,"Team Lead",3,3,3,3,2,2,0,2,4,4,4,1,1,1,1,1,1,0,0,2
+155,"Jeromy Muriel",7,5,0.7,"Java","AI","DotNet","English","Kannada","Hindi",1,1,0,1,1,1,"Programmer-3",1,1,1,1,2,2,0,2,4,4,4,3,3,1,0,0,0,1,1,2
+156,"Beryl Rogers",3,5,1.7,"Mobile","AI","JS","English","Japenese","Chinese",2,0,1,1,0,1,"Programmer-2",1,0,0,0,0,0,0,1,1,1,1,3,3,2,2,2,2,4,4,0
+157,"Hope Hicks",5,7,1.4,"DotNet","AI","Machine Learning","English","Kannada","Malayalam",1,4,0,0,1,1,"Programmer-2",2,2,2,2,4,4,0,4,1,0,0,3,3,1,0,0,0,1,1,4
+158,"Cora Jones",23,18,0.8,"JS","Mobile","DotNet","English","Tamil","Malayalam",4,3,1,5,2,3,"Deployment-1",1,1,1,1,2,2,0,2,1,1,1,1,1,4,4,4,4,3,3,2
+159,"Reuben Sparks",15,8,0.5,"Java","Machine Learning","AI","English","Malayalam","Tamil",2,1,2,2,0,1,"Programmer-3",3,3,3,3,0,0,0,1,4,4,4,2,2,1,1,1,1,1,1,0
+160,"Stacia Aita",16,23,1.4,"Mobile","Machine Learning","AI","English","Japenese","Tamil",6,6,5,2,4,0,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,2,2,1,1,1,1,1,1,1
+161,"Yolanda Kramer",15,17,1.1,"Mobile","Java","DotNet","English","Chinese","Kannada",5,6,1,0,3,2,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,1,1,1,1,1,1,4,4,2
+162,"Tracy Houston",5,6,1.2,"JS","Machine Learning","AI","English","Hindi","Chinese",2,1,0,1,1,1,"Programmer-2",3,3,3,3,1,1,0,1,1,1,1,2,2,1,1,1,1,1,1,1
+163,"David Berry",13,16,1.2,"AI","Mobile","Machine Learning","English","Tamil","Malayalam",2,3,3,2,5,1,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,4,4,1,1,1,1,3,3,1
+164,"Willis Ingram",4,9,2.3,"JS","Java","Machine Learning","English","Hindi","Japenese",0,0,3,4,1,1,"Programmer-2",1,1,1,1,1,1,0,1,3,3,3,0,0,4,4,4,4,1,1,1
+165,"Justin Scott",6,19,3.2,"Java","AI","DotNet","English","Telugu","Japenese",4,4,2,3,2,4,"Programmer-1",1,1,1,1,2,2,0,2,4,4,4,3,3,1,1,1,1,1,1,2
+166,"Wade Gass",3,5,1.7,"Machine Learning","Java","JS","English","Kannada","Chinese",0,0,1,1,2,1,"Programmer-2",1,1,1,1,1,1,0,1,3,3,3,0,0,2,2,2,2,1,1,1
+167,"Bobby Fields",11,13,1.2,"AI","Java","JS","English","Tamil","Telugu",4,1,1,2,1,4,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,4,4,2,2,2,2,1,1,1
+168,"Jacob Crouch",13,16,1.2,"Java","Machine Learning","AI","English","Hindi","Chinese",1,4,3,2,4,2,"Team Lead",3,3,3,3,1,1,0,1,4,4,4,2,2,1,1,1,1,1,1,1
+169,"Daniel Arvizu",19,26,1.4,"AI","Mobile","Machine Learning","English","Chinese","Tamil",5,3,6,8,4,0,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,4,4,1,1,1,1,1,1,1
+170,"Scott Brown",20,15,0.8,"Mobile","AI","DotNet","English","Japenese","Chinese",2,4,1,7,1,0,"Deployment-1",1,1,1,1,2,2,0,2,1,1,1,3,3,1,1,1,1,1,1,2
+171,"Donna Goddard",8,19,2.4,"Java","Machine Learning","JS","English","Tamil","Malayalam",4,3,2,1,6,3,"Programmer-1",3,3,3,3,1,1,0,1,4,4,4,1,1,2,2,2,2,1,1,1
+172,"Larry Jensen",23,28,1.2,"Mobile","DotNet","JS","English","Tamil","Telugu",2,7,8,7,4,0,"Team Lead",1,1,1,1,3,3,0,3,1,1,1,1,1,2,2,2,2,1,1,3
+173,"Susan Carrillo",5,4,0.8,"AI","JS","Machine Learning","English","Tamil","Kannada",1,1,0,2,0,0,"Programmer-3",2,2,2,2,0,0,0,1,1,1,1,4,4,1,1,1,1,0,0,0
+174,"Edward Gonzalez",6,9,1.5,"DotNet","AI","Machine Learning","English","Chinese","Malayalam",2,1,1,2,2,1,"Programmer-2",2,2,2,2,4,4,0,4,1,1,1,3,3,1,1,1,1,1,1,4
+175,"Carmen Brock",23,20,0.9,"Mobile","JS","DotNet","English","Malayalam","Telugu",6,0,5,3,4,2,"Deployment-1",1,0,0,0,2,2,0,2,1,1,1,1,1,3,3,3,3,4,4,2
+176,"Dan Christian",4,4,1,"JS","Mobile","Java","English","Hindi","Kannada",1,1,2,0,0,0,"Programmer-3",1,1,1,1,0,0,0,1,1,1,1,1,1,4,4,4,4,1,1,0
+177,"Raymond Volesky",15,19,1.3,"Java","AI","Machine Learning","English","Tamil","Telugu",1,8,3,3,2,2,"Team Lead",2,2,2,2,1,1,0,1,4,4,4,3,3,1,1,1,1,1,1,1
+178,"Freda Vega",14,7,0.5,"Java","AI","Machine Learning","English","Tamil","Chinese",4,2,0,0,0,1,"Testing and Debugging",2,2,2,2,0,0,0,1,1,1,1,3,3,1,0,0,0,1,1,0
+179,"Benny Mendoza",11,7,0.6,"DotNet","Machine Learning","Mobile","English","Hindi","Telugu",3,2,0,1,1,0,"Programmer-3",3,3,3,3,4,4,0,4,1,1,1,1,1,1,0,0,0,1,1,4
+180,"Marilyn Dec",6,17,2.8,"JS","DotNet","Mobile","English","Kannada","Chinese",0,3,4,4,5,1,"Programmer-1",1,1,1,1,3,3,0,3,1,1,1,0,0,4,4,4,4,2,2,3
+181,"Christina Cable",8,14,1.8,"JS","AI","Java","English","Malayalam","Chinese",3,3,2,2,3,1,"Programmer-1",1,1,1,1,1,1,0,1,2,2,2,3,3,4,4,4,4,1,1,1
+182,"Rita Sackett",4,7,1.8,"AI","DotNet","Machine Learning","English","Telugu","Tamil",2,2,1,1,1,0,"Programmer-2",2,2,2,2,3,3,0,3,1,1,1,4,4,1,1,1,1,0,0,3
+183,"Mary Martins",19,16,0.8,"Machine Learning","AI","JS","English","Hindi","Tamil",3,2,3,5,3,0,"Deployment-1",4,4,4,4,1,1,0,1,1,1,1,3,3,2,2,2,2,0,0,1
+184,"Natasha Wagner",11,19,1.7,"Machine Learning","AI","JS","English","Tamil","Telugu",6,3,1,2,2,5,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,3,3,2,2,2,2,1,1,1
+185,"Thomas Torres",7,10,1.4,"Java","Mobile","Machine Learning","English","Malayalam","Kannada",3,0,2,2,3,0,"Deployment-1",1,1,1,1,1,1,0,1,4,4,4,1,1,1,1,1,1,1,1,1
+186,"Larry Jopling",21,18,0.9,"JS","AI","DotNet","English","Chinese","Telugu",7,4,1,1,2,3,"Deployment-2",1,1,1,1,2,2,0,2,1,1,1,3,3,4,4,4,4,1,1,2
+187,"Mable Billiot",4,9,2.3,"DotNet","AI","Machine Learning","English","Malayalam","Tamil",0,1,6,2,0,0,"Programmer-2",2,2,2,2,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1
+188,"James Williams",8,17,2.1,"Machine Learning","Mobile","JS","English","Japenese","Telugu",3,1,3,4,3,3,"Programmer-1",4,4,4,4,1,1,0,1,1,1,1,1,1,2,2,2,2,3,3,1
+189,"Robin West",18,22,1.2,"DotNet","Mobile","JS","English","Chinese","Hindi",7,4,2,3,4,2,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,1,1,2,2,2,2,3,3,4
+190,"Amy Meyer",16,24,1.5,"DotNet","Machine Learning","AI","English","Tamil","Malayalam",6,5,3,3,5,2,"Team Lead",3,3,3,3,4,4,0,4,1,1,1,2,2,1,1,1,1,1,1,4
+191,"Sam Sanchez",13,16,1.2,"JS","DotNet","AI","English","Telugu","Tamil",2,2,2,3,4,3,"Team Lead",1,1,1,1,3,3,0,3,1,1,1,2,2,4,4,4,4,1,1,3
+192,"Melissa Hernandez",17,18,1.1,"Java","DotNet","Mobile","English","Tamil","Japenese",5,3,2,2,2,4,"Team Lead",1,1,1,1,3,3,0,3,4,4,4,1,1,1,1,1,1,2,2,3
+193,"Jessica Montgomery",22,23,1,"Java","DotNet","Machine Learning","English","Telugu","Kannada",5,2,3,4,5,4,"Team Lead",2,2,2,2,3,3,0,3,4,4,4,1,1,1,1,1,1,1,1,3
+194,"Latanya Brooks",7,12,1.7,"DotNet","Java","Machine Learning","English","Kannada","Hindi",5,0,0,3,3,1,"Programmer-1",1,1,1,1,4,4,0,4,3,3,3,1,1,1,0,0,0,1,1,4
+195,"Latonya Bradley",18,29,1.6,"JS","DotNet","Java","English","Kannada","Chinese",3,2,3,8,7,6,"Project Manager",1,1,1,1,3,3,0,3,2,2,2,1,1,4,4,4,4,1,1,3
+196,"Johnny Garcia",15,7,0.5,"Mobile","Machine Learning","AI","English","Telugu","Japenese",1,1,4,0,0,1,"Deployment-2",3,3,3,3,0,0,0,1,1,0,0,2,2,1,1,1,1,4,4,0
+197,"Gale Newell",13,17,1.3,"AI","DotNet","JS","English","Tamil","Kannada",5,3,2,4,1,2,"Team Lead",1,1,1,1,3,3,0,3,1,1,1,4,4,2,2,2,2,1,1,3
+198,"Ashley Lindsay",3,7,2.3,"AI","Machine Learning","Mobile","English","Telugu","Kannada",3,3,0,0,1,0,"Programmer-2",3,3,3,3,1,1,0,1,1,0,0,4,4,1,0,0,0,1,1,1
+199,"Jeffery Delisio",13,13,1,"Java","Machine Learning","JS","English","Telugu","Chinese",6,0,2,0,3,2,"Deployment-1",1,1,1,1,1,1,0,1,1,1,1,1,1,2,2,2,2,1,1,1
+200,"Linda Sharp",5,8,1.6,"JS","DotNet","AI","English","Telugu","Japenese",1,2,2,1,0,2,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,2,2,4,4,4,4,1,1,1
+201,"Christopher Ross",17,26,1.5,"Mobile","Java","Machine Learning","English","Hindi","Malayalam",2,9,3,1,5,6,"Project Manager",2,2,2,2,1,1,0,1,3,3,3,1,1,1,1,1,1,4,4,1
+202,"Laura Canon",18,23,1.3,"Mobile","Java","DotNet","English","Hindi","Malayalam",2,7,3,1,5,5,"Team Lead",1,1,1,1,2,2,0,2,3,3,3,1,1,1,1,1,1,4,4,2
+203,"Sharyn Brown",13,9,0.7,"DotNet","Java","AI","English","Chinese","Hindi",3,1,0,2,2,1,"Programmer-3",1,1,1,1,4,4,0,4,3,3,3,2,2,1,0,0,0,1,1,4
+204,"Antonio Steffan",7,17,2.4,"Java","AI","DotNet","English","Telugu","Kannada",4,3,4,2,2,2,"Programmer-1",1,1,1,1,2,2,0,2,4,4,4,3,3,1,1,1,1,1,1,2
+205,"Kathryn Shultz",3,5,1.7,"Mobile","Machine Learning","AI","English","Chinese","Kannada",0,2,0,2,1,0,"Programmer-2",3,3,3,3,1,1,0,1,1,1,1,1,1,1,0,0,0,1,1,1
+206,"John Short",12,19,1.6,"Machine Learning","DotNet","JS","English","Telugu","Japenese",6,3,0,1,6,3,"Team Lead",4,4,4,4,3,3,0,3,1,1,1,1,1,1,1,1,1,1,1,3
+207,"Danielle Keister",3,9,3,"DotNet","Mobile","Java","English","Hindi","Tamil",3,2,2,0,2,0,"Programmer-2",1,1,1,1,4,4,0,4,1,1,1,1,1,1,1,1,1,1,1,4
+208,"Eric Kouba",2,9,4.5,"Machine Learning","Mobile","JS","English","Hindi","Telugu",1,1,2,1,1,3,"Programmer-2",4,4,4,4,1,1,0,1,1,1,1,1,1,2,2,2,2,3,3,1
+209,"Julia Stanley",20,23,1.2,"AI","JS","Mobile","English","Chinese","Malayalam",3,5,4,4,3,4,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,4,4,3,3,3,3,2,2,1
+210,"Basil Welker",14,11,0.8,"Mobile","AI","JS","English","Kannada","Chinese",1,1,4,3,2,0,"Deployment-1",1,1,1,1,1,1,0,1,1,1,1,3,3,2,2,2,2,1,1,1
+211,"Nicholas Rondeau",12,12,1,"JS","AI","Java","English","Malayalam","Japenese",3,4,1,2,2,0,"Testing and Debugging",1,1,1,1,1,1,0,1,2,2,2,3,3,4,4,4,4,0,0,1
+212,"Andre Hughes",6,16,2.7,"Machine Learning","AI","DotNet","English","Hindi","Chinese",3,1,3,6,1,2,"Programmer-1",4,4,4,4,2,2,0,2,1,1,1,3,3,1,1,1,1,1,1,2
+213,"Celeste Cunningham",17,29,1.7,"DotNet","JS","Java","English","Chinese","Kannada",2,7,6,8,4,2,"Project Manager",1,1,1,1,4,4,0,4,2,2,2,1,1,3,3,3,3,1,1,4
+214,"Christine Lara",5,8,1.6,"Java","AI","JS","English","Japenese","Telugu",2,2,1,1,2,0,"Programmer-2",1,1,1,1,1,1,0,1,4,4,4,3,3,2,2,2,2,0,0,1
+215,"Lara Stancil",8,5,0.6,"Machine Learning","AI","DotNet","English","Malayalam","Telugu",0,3,1,0,1,0,"Programmer-3",4,4,4,4,2,2,0,2,1,0,0,1,1,1,1,1,1,0,0,2
+216,"Cynthia Contreras",12,14,1.2,"AI","Java","DotNet","English","Chinese","Tamil",4,2,3,4,1,0,"Team Lead",1,1,1,1,2,2,0,2,3,3,3,4,4,1,1,1,1,0,0,2
+217,"Jovita Golden",22,21,1,"JS","Java","DotNet","English","Tamil","Chinese",6,3,2,7,1,2,"Deployment-1",1,1,1,1,2,2,0,2,3,3,3,1,1,4,4,4,4,1,1,2
+218,"Karen Wood",13,8,0.6,"DotNet","Machine Learning","Java","English","Japenese","Malayalam",1,0,3,2,1,1,"Programmer-3",1,1,1,1,4,4,0,4,2,2,2,1,1,1,1,1,1,1,1,4
+219,"Tony Yoakum",17,28,1.6,"AI","Mobile","JS","English","Telugu","Malayalam",3,3,5,4,7,6,"Project Manager",1,1,1,1,1,1,0,1,1,1,1,4,4,2,2,2,2,3,3,1
+220,"Bobby Horner",14,18,1.3,"AI","DotNet","Java","English","Tamil","Telugu",4,4,1,4,1,4,"Team Lead",1,1,1,1,3,3,0,3,2,2,2,4,4,1,1,1,1,1,1,3
+221,"Christopher Farnam",13,15,1.2,"Machine Learning","JS","Java","English","Kannada","Japenese",3,2,3,2,1,4,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,1,1,3,3,3,3,1,1,1
+222,"Tonya Nelson",21,28,1.3,"Machine Learning","DotNet","JS","English","Kannada","Japenese",10,6,5,4,1,2,"Team Lead",4,4,4,4,3,3,0,3,1,1,1,1,1,2,2,2,2,1,1,3
+223,"Rita Ohmen",23,20,0.9,"Mobile","JS","DotNet","English","Tamil","Hindi",3,2,2,0,8,5,"Deployment-1",1,1,1,1,2,2,0,2,1,0,0,1,1,3,3,3,3,4,4,2
+224,"Jerry Brown",8,6,0.8,"Mobile","DotNet","JS","English","Chinese","Hindi",2,0,0,0,1,3,"Programmer-3",1,0,0,0,3,3,0,3,1,0,0,1,1,1,1,1,1,4,4,3
+225,"Mary Jones",18,23,1.3,"JS","Machine Learning","AI","English","Tamil","Japenese",2,5,0,6,4,6,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,2,2,1,1,1,1,1,1,1
+226,"Ileana Adams",23,17,0.7,"Machine Learning","JS","Mobile","English","Chinese","Japenese",3,3,4,3,3,1,"Deployment-1",4,4,4,4,1,1,0,1,1,1,1,1,1,3,3,3,3,2,2,1
+227,"Sandra Byrd",19,25,1.3,"Java","DotNet","AI","English","Kannada","Malayalam",5,5,5,5,3,2,"Team Lead",1,1,1,1,3,3,0,3,4,4,4,2,2,1,1,1,1,1,1,3
+228,"Tanya Bishop",8,11,1.4,"DotNet","Java","Machine Learning","English","Kannada","Japenese",2,2,2,3,1,1,"Deployment-1",2,2,2,2,4,4,0,4,3,3,3,1,1,1,1,1,1,1,1,4
+229,"Karen Ramsey",5,4,0.8,"Mobile","JS","Machine Learning","English","Kannada","Tamil",0,2,0,2,0,0,"Programmer-3",2,2,2,2,0,0,0,1,1,1,1,0,0,1,1,1,1,1,1,0
+230,"Daniel Somers",20,22,1.1,"Machine Learning","Mobile","DotNet","English","Telugu","Kannada",2,0,7,9,3,1,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,1,1,1,1,1,1,3,3,2
+231,"Melissa Ramirez",13,17,1.3,"Mobile","JS","Java","English","Japenese","Tamil",4,2,3,3,3,2,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,1,1,3,3,3,3,4,4,1
+232,"Robert Conover",24,24,1,"Java","Machine Learning","JS","English","Hindi","Malayalam",6,4,3,4,3,4,"Deployment-1",3,3,3,3,1,1,0,1,4,4,4,1,1,2,2,2,2,1,1,1
+233,"Earle Nehring",10,17,1.7,"Machine Learning","Mobile","Java","English","Kannada","Japenese",2,2,2,5,3,3,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,1,1,1,1,1,1,3,3,1
+234,"Margaret Wilhelm",24,29,1.2,"JS","AI","DotNet","English","Chinese","Hindi",3,6,9,5,6,0,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,3,3,4,4,4,4,0,0,2
+235,"Paul Kennon",5,5,1,"Java","Mobile","AI","English","Tamil","Malayalam",0,1,1,1,2,0,"Programmer-3",1,1,1,1,1,1,0,1,4,4,4,1,1,1,1,1,1,1,1,1
+236,"Sharon Evans",8,17,2.1,"Mobile","Java","Machine Learning","English","Hindi","Japenese",6,1,2,3,5,0,"Programmer-1",2,2,2,2,1,1,0,1,3,3,3,1,1,1,1,1,1,1,1,1
+237,"Gregory Pickett",5,3,0.6,"DotNet","Mobile","AI","English","Telugu","Japenese",0,1,2,0,0,0,"Programmer-3",1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1
+238,"Kay Thomas",20,24,1.2,"Java","Mobile","DotNet","English","Telugu","Malayalam",2,6,4,4,3,5,"Team Lead",1,1,1,1,2,2,0,2,4,4,4,1,1,1,1,1,1,3,3,2
+239,"Gwendolyn Barrow",17,28,1.6,"Machine Learning","AI","Mobile","English","Japenese","Tamil",4,6,4,4,6,4,"Project Manager",4,4,4,4,1,1,0,1,1,1,1,3,3,1,1,1,1,2,2,1
+240,"Ronald Smith",19,21,1.1,"DotNet","Mobile","AI","English","Hindi","Tamil",4,3,5,3,4,2,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,2,2,1,1,1,1,3,3,4
+241,"Robert Kelsey",23,25,1.1,"DotNet","Machine Learning","AI","English","Chinese","Malayalam",4,3,2,7,6,3,"Team Lead",3,3,3,3,4,4,0,4,1,1,1,2,2,1,1,1,1,1,1,4
+242,"Anthony Mooney",12,14,1.2,"Mobile","JS","Java","English","Chinese","Tamil",4,4,1,0,1,4,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,1,1,3,3,3,3,4,4,1
+243,"Dixie Medina",21,20,1,"AI","Mobile","Machine Learning","English","Japenese","Tamil",5,6,3,1,2,3,"Deployment-2",2,2,2,2,1,1,0,1,1,1,1,4,4,1,1,1,1,3,3,1
+244,"Beth Ebert",11,8,0.7,"Mobile","Java","JS","English","Malayalam","Tamil",2,1,1,1,1,2,"Programmer-3",1,1,1,1,1,1,0,1,3,3,3,1,1,2,2,2,2,4,4,1
+245,"George Thomas",21,17,0.8,"Java","Machine Learning","DotNet","English","Malayalam","Kannada",4,3,1,2,2,5,"Deployment-2",3,3,3,3,2,2,0,2,4,4,4,1,1,1,1,1,1,1,1,2
+246,"Joseph Gunderson",21,25,1.2,"Machine Learning","AI","Java","English","Chinese","Japenese",3,5,4,4,8,1,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,3,3,1,1,1,1,1,1,1
+247,"John Davis",3,7,2.3,"AI","Machine Learning","Mobile","English","Kannada","Telugu",3,2,0,1,0,1,"Programmer-2",3,3,3,3,0,0,0,1,1,1,1,4,4,1,0,0,0,2,2,0
+248,"Paul Gray",9,7,0.8,"JS","AI","DotNet","English","Hindi","Telugu",3,2,0,1,0,1,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,3,3,1,1,1,1,1,1,1
+249,"Susan Brown",23,15,0.7,"AI","DotNet","JS","English","Malayalam","Telugu",3,2,3,5,0,2,"Deployment-1",1,1,1,1,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+250,"Charles Merriweather",14,12,0.9,"Machine Learning","Mobile","DotNet","English","Malayalam","Chinese",5,1,0,4,1,1,"Deployment-1",4,4,4,4,2,2,0,2,1,1,1,1,1,1,0,0,0,3,3,2
+251,"Joan Swenson",19,29,1.5,"Machine Learning","JS","Mobile","English","Hindi","Telugu",6,1,10,3,8,1,"Project Manager",4,4,4,4,1,1,0,1,1,1,1,1,1,3,3,3,3,2,2,1
+252,"Robert Vallejo",18,27,1.5,"Mobile","Machine Learning","DotNet","English","Chinese","Kannada",6,4,4,5,3,5,"Team Lead",3,3,3,3,2,2,0,2,1,1,1,1,1,1,1,1,1,4,4,2
+253,"Oliver Lark",11,7,0.6,"Mobile","Java","JS","English","Hindi","Telugu",2,1,1,1,2,0,"Programmer-3",1,1,1,1,1,1,0,1,3,3,3,1,1,2,2,2,2,1,1,1
+254,"Maurice Anderson",24,29,1.2,"DotNet","Java","Machine Learning","English","Malayalam","Telugu",6,5,7,2,4,5,"Team Lead",2,2,2,2,4,4,0,4,3,3,3,1,1,1,1,1,1,1,1,4
+255,"Charles Bravo",11,10,0.9,"Machine Learning","DotNet","Mobile","English","Japenese","Hindi",0,2,2,2,2,2,"Testing and Debugging",4,4,4,4,3,3,0,3,1,1,1,0,0,1,1,1,1,2,2,3
+256,"Rachel Hunsberger",5,7,1.4,"DotNet","JS","Java","English","Chinese","Hindi",2,0,0,1,2,2,"Programmer-2",1,0,0,0,4,4,0,4,2,2,2,1,1,1,1,1,1,1,1,4
+257,"Rita Sawyer",8,9,1.1,"DotNet","JS","Mobile","English","Chinese","Malayalam",2,3,2,2,0,0,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,1,1,3,3,3,3,1,1,1
+258,"Ruby Bunch",23,26,1.1,"DotNet","Machine Learning","JS","English","Kannada","Malayalam",9,6,5,2,3,1,"Team Lead",3,3,3,3,4,4,0,4,1,1,1,1,1,2,2,2,2,1,1,4
+259,"Gladys Sloan",7,13,1.9,"AI","Machine Learning","DotNet","English","Telugu","Chinese",1,3,0,3,4,2,"Programmer-1",3,3,3,3,2,2,0,2,1,1,1,4,4,1,0,0,0,1,1,2
+260,"Leon Redd",8,12,1.5,"JS","Machine Learning","Mobile","English","Hindi","Telugu",2,3,4,1,1,1,"Deployment-2",3,3,3,3,1,1,0,1,1,1,1,1,1,4,4,4,4,2,2,1
+261,"Harvey Mclain",10,10,1,"AI","Mobile","Machine Learning","English","Tamil","Kannada",2,2,1,3,2,0,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,4,4,1,1,1,1,1,1,1
+262,"Brittany Cody",9,13,1.4,"AI","JS","Mobile","English","Hindi","Telugu",1,5,2,1,1,3,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,4,4,3,3,3,3,2,2,1
+263,"Philip Capozzoli",8,18,2.3,"DotNet","AI","JS","English","Tamil","Malayalam",7,2,1,4,2,2,"Programmer-1",1,1,1,1,4,4,0,4,1,1,1,3,3,2,2,2,2,1,1,4
+264,"Janice Foster",16,20,1.3,"AI","Mobile","Machine Learning","English","Tamil","Telugu",4,7,4,2,1,2,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,4,4,1,1,1,1,3,3,1
+265,"Robert Clodfelter",24,20,0.8,"Mobile","Java","AI","English","Japenese","Malayalam",4,3,3,5,3,2,"Deployment-1",1,1,1,1,1,1,0,1,3,3,3,2,2,1,1,1,1,4,4,1
+266,"Jerry Unruh",18,25,1.4,"Machine Learning","Mobile","JS","English","Chinese","Tamil",5,3,5,3,6,3,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,1,1,2,2,2,2,3,3,1
+267,"Charles Hajek",9,9,1,"Machine Learning","DotNet","JS","English","Japenese","Malayalam",2,1,0,3,2,1,"Programmer-3",4,4,4,4,3,3,0,3,1,1,1,1,1,1,1,1,1,1,1,3
+268,"Larry Reifsteck",24,25,1,"Machine Learning","JS","AI","English","Telugu","Japenese",8,5,4,4,2,2,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,2,2,3,3,3,3,1,1,1
+269,"Sue Cox",21,23,1.1,"DotNet","JS","Mobile","English","Telugu","Kannada",9,3,4,1,5,1,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,1,1,3,3,3,3,2,2,4
+270,"Barbara Wollschlager",5,4,0.8,"DotNet","AI","Java","English","Telugu","Tamil",0,3,0,0,1,0,"Programmer-3",1,1,1,1,4,4,0,4,1,1,1,1,1,1,0,0,0,0,0,4
+271,"Kent Travis",19,19,1,"DotNet","AI","Java","English","Japenese","Telugu",3,4,3,3,3,3,"Deployment-1",1,1,1,1,4,4,0,4,2,2,2,3,3,1,1,1,1,1,1,4
+272,"Gerald Craft",3,5,1.7,"DotNet","JS","Machine Learning","English","Japenese","Kannada",0,0,3,1,1,0,"Programmer-2",1,1,1,1,4,4,0,4,1,1,1,0,0,3,3,3,3,0,0,4
+273,"Jackie Menges",18,29,1.6,"DotNet","JS","Java","English","Hindi","Chinese",9,1,8,2,6,3,"Project Manager",1,1,1,1,4,4,0,4,2,2,2,1,1,3,3,3,3,1,1,4
+274,"Michael Kruse",7,15,2.1,"Mobile","DotNet","AI","English","Chinese","Japenese",1,7,3,2,2,0,"Programmer-1",1,1,1,1,3,3,0,3,1,1,1,2,2,1,1,1,1,1,1,3
+275,"Perry Nelson",3,5,1.7,"DotNet","Mobile","Java","English","Malayalam","Kannada",2,0,2,0,1,0,"Programmer-2",1,0,0,0,4,4,0,4,1,1,1,1,1,1,1,1,1,1,1,4
+276,"Ellie Demaio",6,11,1.8,"DotNet","Machine Learning","Mobile","English","Tamil","Malayalam",3,3,1,2,1,1,"Programmer-1",3,3,3,3,4,4,0,4,1,1,1,1,1,1,1,1,1,2,2,4
+277,"Karen Leonard",15,16,1.1,"AI","Java","Mobile","English","Kannada","Tamil",3,4,2,3,2,2,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,4,4,1,1,1,1,2,2,1
+278,"Edith Pacheco",9,11,1.2,"Machine Learning","Mobile","Java","English","Malayalam","Kannada",3,3,0,2,1,2,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,1,1,1,0,0,0,3,3,1
+279,"Miguel Thrasher",14,10,0.7,"Machine Learning","Java","AI","English","Kannada","Hindi",2,2,1,1,2,2,"Testing and Debugging",4,4,4,4,1,1,0,1,3,3,3,2,2,1,1,1,1,1,1,1
+280,"Catherine Scheller",11,7,0.6,"AI","DotNet","Java","English","Kannada","Japenese",3,1,0,0,2,1,"Programmer-3",1,1,1,1,3,3,0,3,1,1,1,4,4,1,0,0,0,1,1,3
+281,"Barbara Wing",9,6,0.7,"Java","AI","Mobile","English","Telugu","Japenese",2,1,0,1,1,1,"Programmer-3",1,1,1,1,1,1,0,1,4,4,4,3,3,1,0,0,0,2,2,1
+282,"Arturo Hemphill",18,26,1.4,"Java","Mobile","Machine Learning","English","Tamil","Chinese",3,4,8,3,4,4,"Team Lead",2,2,2,2,1,1,0,1,4,4,4,1,1,1,1,1,1,3,3,1
+283,"Randolph Glasgow",22,16,0.7,"AI","Java","DotNet","English","Hindi","Tamil",1,4,4,5,0,2,"Deployment-1",1,1,1,1,1,1,0,1,3,3,3,4,4,1,1,1,1,1,1,1
+284,"Glen Gautreau",10,13,1.3,"Java","Mobile","Machine Learning","English","Tamil","Telugu",4,1,4,0,3,1,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,1,1,1,1,1,1,3,3,1
+285,"Michelle Edgar",5,8,1.6,"JS","Mobile","Machine Learning","English","Kannada","Tamil",2,2,1,0,0,3,"Programmer-2",2,2,2,2,0,0,0,1,1,0,0,1,1,4,4,4,4,3,3,0
+286,"Steven Ramos",5,7,1.4,"JS","AI","Machine Learning","English","Malayalam","Hindi",0,4,2,1,0,0,"Programmer-2",2,2,2,2,0,0,0,1,1,1,1,1,1,4,4,4,4,0,0,0
+287,"Helene Schmalz",16,18,1.1,"Machine Learning","Java","AI","English","Tamil","Kannada",4,5,0,2,6,1,"Team Lead",4,4,4,4,1,1,0,1,3,3,3,2,2,1,0,0,0,1,1,1
+288,"Paul Anderson",21,20,1,"AI","JS","DotNet","English","Kannada","Telugu",4,1,7,4,1,3,"Deployment-1",1,1,1,1,2,2,0,2,1,1,1,4,4,3,3,3,3,1,1,2
+289,"Timothy Braziel",22,28,1.3,"JS","Machine Learning","DotNet","English","Kannada","Telugu",4,10,5,3,2,4,"Team Lead",3,3,3,3,2,2,0,2,1,1,1,1,1,4,4,4,4,1,1,2
+290,"Debra Rogers",4,3,0.8,"Mobile","AI","DotNet","English","Japenese","Kannada",1,0,2,0,0,0,"Programmer-3",1,0,0,0,1,1,0,1,1,0,0,3,3,1,1,1,1,1,1,1
+291,"Michael Wells",20,21,1.1,"Java","JS","DotNet","English","Japenese","Chinese",3,3,4,3,5,3,"Team Lead",1,1,1,1,2,2,0,2,4,4,4,1,1,3,3,3,3,1,1,2
+292,"Elsie Coney",7,18,2.6,"DotNet","AI","Mobile","English","Malayalam","Hindi",0,6,2,5,4,1,"Programmer-1",1,1,1,1,4,4,0,4,1,1,1,1,1,1,1,1,1,2,2,4
+293,"Michael Rolle",14,15,1.1,"DotNet","AI","JS","English","Kannada","Tamil",3,3,2,2,4,1,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,3,3,2,2,2,2,1,1,4
+294,"Elsie Cucco",19,27,1.4,"Machine Learning","Java","Mobile","English","Tamil","Japenese",3,7,2,2,5,8,"Team Lead",4,4,4,4,1,1,0,1,3,3,3,1,1,1,1,1,1,2,2,1
+295,"Roy Goins",2,2,1,"JS","Mobile","AI","English","Telugu","Japenese",1,0,1,0,0,0,"Programmer-3",1,0,0,0,0,0,0,1,1,0,0,2,2,4,4,4,4,1,1,0
+296,"Robert Caroll",2,4,2,"AI","Mobile","Machine Learning","English","Japenese","Chinese",0,1,1,0,2,0,"Programmer-2",2,2,2,2,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1
+297,"William Woods",22,19,0.9,"Mobile","DotNet","AI","English","Tamil","Malayalam",3,3,2,5,4,2,"Deployment-1",1,1,1,1,3,3,0,3,1,1,1,2,2,1,1,1,1,4,4,3
+298,"Curtis Milam",19,26,1.4,"DotNet","Java","Machine Learning","English","Kannada","Hindi",4,6,5,3,2,6,"Team Lead",2,2,2,2,4,4,0,4,3,3,3,1,1,1,1,1,1,1,1,4
+299,"Marie Johnson",17,20,1.2,"Mobile","Java","AI","English","Tamil","Hindi",3,1,4,5,4,3,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,2,2,1,1,1,1,4,4,1
+300,"Willie Fuoco",6,5,0.8,"Machine Learning","Java","AI","English","Chinese","Japenese",1,0,0,1,1,2,"Programmer-3",1,1,1,1,1,1,0,1,3,3,3,2,2,1,0,0,0,1,1,1
+301,"Jack Deyoung",2,6,3,"Mobile","JS","DotNet","English","Kannada","Tamil",1,1,2,1,0,1,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,1,1,3,3,3,3,4,4,1
+302,"Gary Dollard",17,22,1.3,"JS","AI","Java","English","Telugu","Hindi",5,6,2,3,1,5,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,3,3,4,4,4,4,1,1,1
+303,"Kum Ashcraft",14,17,1.2,"AI","Mobile","JS","English","Malayalam","Chinese",5,1,4,2,3,2,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,4,4,2,2,2,2,3,3,1
+304,"Dianne White",4,8,2,"DotNet","Machine Learning","JS","English","Hindi","Kannada",2,2,3,0,1,0,"Programmer-2",3,3,3,3,4,4,0,4,1,0,0,1,1,2,2,2,2,0,0,4
+305,"Patricia Bourgeois",20,19,1,"Machine Learning","Java","Mobile","English","Telugu","Tamil",3,9,2,2,1,2,"Testing and Debugging",4,4,4,4,1,1,0,1,3,3,3,1,1,1,1,1,1,2,2,1
+306,"Marie Cherry",15,19,1.3,"Machine Learning","Mobile","AI","English","Chinese","Kannada",1,3,2,3,3,7,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,2,2,1,1,1,1,3,3,1
+307,"James Magallon",3,2,0.7,"DotNet","JS","Java","English","Telugu","Malayalam",0,1,1,0,0,0,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,0,0,3,3,3,3,0,0,1
+308,"Virginia Mcshea",2,4,2,"Java","Mobile","DotNet","English","Kannada","Telugu",1,1,1,1,0,0,"Programmer-2",1,1,1,1,1,1,0,1,4,4,4,1,1,1,1,1,1,1,1,1
+309,"Doris Jean",9,14,1.6,"DotNet","Mobile","AI","English","Kannada","Tamil",5,1,5,2,0,1,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,2,2,1,1,1,1,3,3,1
+310,"Kathryn Gault",12,9,0.8,"Mobile","JS","DotNet","English","Telugu","Kannada",4,0,3,1,1,0,"Programmer-3",1,0,0,0,2,2,0,2,1,1,1,1,1,3,3,3,3,1,1,2
+311,"Ross Markow",4,4,1,"AI","Machine Learning","JS","English","Tamil","Hindi",1,0,1,0,2,0,"Programmer-3",1,1,1,1,1,1,0,1,1,0,0,4,4,2,2,2,2,0,0,1
+312,"Deena York",3,9,3,"Java","Machine Learning","JS","English","Hindi","Tamil",3,0,2,1,2,1,"Programmer-2",1,1,1,1,1,1,0,1,4,4,4,1,1,2,2,2,2,1,1,1
+313,"Michael Sisk",11,15,1.4,"Machine Learning","JS","DotNet","English","Hindi","Japenese",3,4,2,3,0,3,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,1,1,3,3,3,3,1,1,1
+314,"Sandie Bautista",21,24,1.1,"JS","Java","Mobile","English","Kannada","Telugu",6,2,4,4,4,4,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,1,1,4,4,4,4,2,2,1
+315,"Mary Rhea",20,29,1.5,"Mobile","Java","DotNet","English","Telugu","Tamil",1,5,4,5,6,8,"Team Lead",1,1,1,1,2,2,0,2,3,3,3,1,1,1,1,1,1,4,4,2
+316,"Louis Dupont",4,9,2.3,"Mobile","Machine Learning","DotNet","English","Telugu","Hindi",0,3,4,1,1,0,"Programmer-2",3,3,3,3,2,2,0,2,1,1,1,0,0,1,1,1,1,1,1,2
+317,"Kerri White",16,21,1.3,"JS","Java","Mobile","English","Hindi","Chinese",4,3,5,4,2,3,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,1,1,4,4,4,4,2,2,1
+318,"Huey Hill",13,18,1.4,"Machine Learning","Java","JS","English","Chinese","Kannada",4,2,2,1,5,4,"Team Lead",4,4,4,4,1,1,0,1,3,3,3,1,1,2,2,2,2,1,1,1
+319,"Neil Elton",6,11,1.8,"Java","JS","Mobile","English","Kannada","Malayalam",1,1,3,2,2,2,"Programmer-1",1,1,1,1,1,1,0,1,4,4,4,1,1,3,3,3,3,2,2,1
+320,"George Mitchell",16,24,1.5,"Java","Mobile","AI","English","Malayalam","Tamil",8,6,1,3,4,2,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,2,2,1,1,1,1,3,3,1
+321,"Adrian Cooley",21,28,1.3,"Machine Learning","DotNet","Mobile","English","Japenese","Chinese",3,3,2,5,4,11,"Team Lead",4,4,4,4,3,3,0,3,1,1,1,1,1,1,1,1,1,2,2,3
+322,"Eric Conrad",4,3,0.8,"JS","Java","AI","English","Hindi","Malayalam",1,0,1,1,0,0,"Programmer-3",1,0,0,0,0,0,0,1,3,3,3,2,2,4,4,4,4,0,0,0
+323,"Marie Sanchez",14,11,0.8,"DotNet","Java","Machine Learning","English","Hindi","Tamil",2,1,3,2,1,2,"Deployment-2",2,2,2,2,4,4,0,4,3,3,3,1,1,1,1,1,1,1,1,4
+324,"Gloria Jones",12,8,0.7,"Java","Machine Learning","Mobile","English","Telugu","Tamil",2,0,2,1,2,1,"Programmer-3",1,1,1,1,1,1,0,1,4,4,4,1,1,1,1,1,1,2,2,1
+325,"Cindy Mata",2,6,3,"Mobile","Machine Learning","DotNet","English","Telugu","Kannada",4,0,0,0,2,0,"Programmer-2",1,1,1,1,2,2,0,2,1,0,0,1,1,1,0,0,0,1,1,2
+326,"Leila Oakes",22,28,1.3,"Mobile","JS","DotNet","English","Chinese","Japenese",0,5,10,7,4,2,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,0,0,3,3,3,3,4,4,2
+327,"Lucille Lunsford",10,13,1.3,"AI","Java","Machine Learning","English","Chinese","Japenese",5,1,2,3,1,1,"Team Lead",2,2,2,2,1,1,0,1,3,3,3,4,4,1,1,1,1,1,1,1
+328,"Sonia Anderson",18,16,0.9,"Java","Machine Learning","Mobile","English","Kannada","Malayalam",1,2,1,6,2,4,"Deployment-1",3,3,3,3,1,1,0,1,4,4,4,1,1,1,1,1,1,2,2,1
+329,"Barbara Pritt",12,14,1.2,"JS","AI","Java","English","Tamil","Hindi",3,4,1,2,3,1,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,3,3,4,4,4,4,1,1,1
+330,"Holly Wakefield",11,7,0.6,"AI","Machine Learning","JS","English","Japenese","Malayalam",2,0,2,2,0,1,"Programmer-3",1,1,1,1,0,0,0,1,1,1,1,4,4,2,2,2,2,1,1,0
+331,"Elaine Aliaga",7,18,2.6,"Java","Mobile","Machine Learning","English","Kannada","Tamil",6,2,1,4,2,3,"Programmer-1",2,2,2,2,1,1,0,1,4,4,4,1,1,1,1,1,1,3,3,1
+332,"Vincent Hatley",14,12,0.9,"Machine Learning","JS","AI","English","Kannada","Hindi",2,1,2,3,0,4,"Deployment-1",4,4,4,4,0,0,0,1,1,1,1,2,2,3,3,3,3,1,1,0
+333,"Gilbert Hudnall",23,16,0.7,"Mobile","JS","AI","English","Hindi","Kannada",3,9,0,1,1,2,"Testing and Debugging",1,1,1,1,1,1,0,1,1,1,1,2,2,1,1,1,1,4,4,1
+334,"Robbie Dew",18,22,1.2,"Mobile","Java","Machine Learning","English","Chinese","Kannada",3,4,4,4,4,3,"Team Lead",2,2,2,2,1,1,0,1,3,3,3,1,1,1,1,1,1,4,4,1
+335,"Steven Buck",23,25,1.1,"DotNet","JS","Java","English","Chinese","Kannada",6,2,4,2,7,4,"Team Lead",1,1,1,1,4,4,0,4,2,2,2,1,1,3,3,3,3,1,1,4
+336,"Joseph Stone",23,15,0.7,"JS","Machine Learning","Mobile","English","Hindi","Chinese",3,4,3,0,3,2,"Deployment-1",3,3,3,3,1,1,0,1,1,0,0,1,1,4,4,4,4,2,2,1
+337,"Bruce Arnold",8,16,2,"AI","Mobile","Machine Learning","English","Kannada","Chinese",3,3,2,3,4,1,"Programmer-1",2,2,2,2,1,1,0,1,1,1,1,4,4,1,1,1,1,3,3,1
+338,"William Grenier",12,17,1.4,"Mobile","DotNet","JS","English","Tamil","Telugu",2,2,6,2,1,4,"Team Lead",1,1,1,1,3,3,0,3,1,1,1,1,1,2,2,2,2,4,4,3
+339,"Juan Aragon",16,27,1.7,"AI","DotNet","Mobile","English","Malayalam","Telugu",7,5,5,5,3,2,"Project Manager",1,1,1,1,3,3,0,3,1,1,1,4,4,1,1,1,1,2,2,3
+340,"Brain Moe",13,10,0.8,"AI","JS","Java","English","Japenese","Telugu",4,2,1,1,2,0,"Testing and Debugging",1,1,1,1,1,1,0,1,2,2,2,4,4,3,3,3,3,0,0,1
+341,"Michael Craddock",2,2,1,"Java","AI","Mobile","English","Malayalam","Chinese",2,0,0,0,0,0,"Programmer-3",1,0,0,0,0,0,0,1,1,1,1,3,3,1,0,0,0,1,1,0
+342,"Courtney Whelan",4,7,1.8,"DotNet","Java","JS","English","Tamil","Hindi",2,2,0,1,1,1,"Programmer-2",1,1,1,1,4,4,0,4,3,3,3,1,1,1,1,1,1,1,1,4
+343,"John Stevens",13,18,1.4,"AI","Java","Machine Learning","English","Chinese","Malayalam",5,1,5,3,0,4,"Team Lead",2,2,2,2,0,0,0,1,3,3,3,4,4,1,1,1,1,1,1,0
+344,"Katie Barton",12,5,0.4,"JS","Mobile","Machine Learning","English","Hindi","Chinese",1,0,1,1,1,1,"Testing and Debugging",1,1,1,1,1,1,0,1,1,1,1,1,1,4,4,4,4,3,3,1
+345,"Lori Spurlock",13,16,1.2,"AI","Java","Mobile","English","Malayalam","Japenese",2,2,5,1,4,2,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,4,4,1,1,1,1,2,2,1
+346,"Joshua Sand",8,18,2.3,"Mobile","DotNet","Java","English","Chinese","Telugu",4,1,4,3,0,6,"Programmer-1",1,1,1,1,1,1,0,1,2,2,2,1,1,1,1,1,1,4,4,1
+347,"Peggy Luna",18,21,1.2,"Java","Machine Learning","AI","English","Telugu","Malayalam",4,2,2,5,4,4,"Team Lead",3,3,3,3,1,1,0,1,4,4,4,2,2,1,1,1,1,1,1,1
+348,"Paul Mack",20,19,1,"AI","DotNet","JS","English","Chinese","Kannada",2,3,5,3,4,2,"Deployment-1",1,1,1,1,3,3,0,3,1,1,1,4,4,2,2,2,2,1,1,3
+349,"Peggy Clark",7,6,0.9,"Mobile","Machine Learning","AI","English","Tamil","Japenese",1,1,2,0,1,1,"Programmer-3",3,3,3,3,1,1,0,1,1,0,0,2,2,1,1,1,1,4,4,1
+350,"David Williams",4,8,2,"Mobile","Java","DotNet","English","Kannada","Hindi",0,2,3,1,0,2,"Programmer-2",1,1,1,1,1,1,0,1,3,3,3,0,0,1,1,1,1,4,4,1
+351,"Charles Amaya",15,8,0.5,"JS","AI","Machine Learning","English","Hindi","Malayalam",1,4,1,1,1,0,"Programmer-3",2,2,2,2,1,1,0,1,1,1,1,3,3,4,4,4,4,0,0,1
+352,"Rosella Perze",18,29,1.6,"Java","Machine Learning","AI","English","Telugu","Malayalam",1,5,10,5,4,4,"Project Manager",3,3,3,3,1,1,0,1,4,4,4,2,2,1,1,1,1,1,1,1
+353,"Sarah Young",14,9,0.6,"Java","Machine Learning","DotNet","English","Chinese","Tamil",0,1,2,4,2,0,"Programmer-3",3,3,3,3,2,2,0,2,4,4,4,0,0,1,1,1,1,0,0,2
+354,"Kathleen Wheeler",2,8,4,"JS","Java","DotNet","English","Telugu","Malayalam",2,3,1,1,1,0,"Programmer-2",1,1,1,1,2,2,0,2,3,3,3,1,1,4,4,4,4,0,0,2
+355,"Alaine Rehberg",23,16,0.7,"AI","Machine Learning","Mobile","English","Tamil","Japenese",2,4,5,1,2,2,"Deployment-2",3,3,3,3,1,1,0,1,1,1,1,4,4,1,1,1,1,2,2,1
+356,"Martha Wilson",6,15,2.5,"DotNet","JS","Machine Learning","English","Malayalam","Japenese",4,2,6,0,0,3,"Programmer-1",2,2,2,2,1,1,0,1,1,0,0,1,1,3,3,3,3,1,1,1
+357,"Anita Harrelson",4,5,1.3,"AI","Mobile","JS","English","Tamil","Japenese",0,0,1,0,1,3,"Programmer-2",1,0,0,0,1,1,0,1,1,0,0,1,1,2,2,2,2,3,3,1
+358,"Santos Goode",10,11,1.1,"Mobile","Java","Machine Learning","English","Japenese","Hindi",4,1,2,2,0,2,"Team Lead",2,2,2,2,0,0,0,1,3,3,3,1,1,1,1,1,1,4,4,0
+359,"Chad Gamache",7,7,1,"DotNet","AI","JS","English","Chinese","Japenese",1,2,1,1,2,0,"Programmer-3",1,1,1,1,4,4,0,4,1,1,1,3,3,2,2,2,2,0,0,4
+360,"Patricia Dudley",3,9,3,"AI","JS","DotNet","English","Kannada","Malayalam",2,2,2,2,1,0,"Programmer-2",1,1,1,1,2,2,0,2,1,1,1,4,4,3,3,3,3,0,0,2
+361,"Emilio Marra",7,11,1.6,"Java","JS","Machine Learning","English","Japenese","Tamil",2,1,2,2,3,1,"Programmer-1",2,2,2,2,1,1,0,1,4,4,4,1,1,3,3,3,3,1,1,1
+362,"Jason Burden",21,24,1.1,"DotNet","Mobile","AI","English","Tamil","Japenese",4,3,3,3,6,5,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,2,2,1,1,1,1,3,3,4
+363,"Johnetta Cheung",3,6,2,"AI","JS","Mobile","English","Telugu","Kannada",1,0,1,0,0,4,"Programmer-2",1,0,0,0,0,0,0,1,1,0,0,4,4,3,3,3,3,2,2,0
+364,"Martin Rosado",23,28,1.2,"JS","DotNet","Java","English","Malayalam","Kannada",4,4,6,6,4,4,"Team Lead",1,1,1,1,3,3,0,3,2,2,2,1,1,4,4,4,4,1,1,3
+365,"Casey Mcintyre",15,17,1.1,"AI","DotNet","Java","English","Hindi","Japenese",7,1,2,3,2,2,"Team Lead",1,1,1,1,3,3,0,3,2,2,2,4,4,1,1,1,1,1,1,3
+366,"Eleanor Davis",2,4,2,"DotNet","Mobile","AI","English","Telugu","Japenese",0,1,1,1,1,0,"Programmer-2",1,1,1,1,4,4,0,4,1,1,1,1,1,1,1,1,1,1,1,4
+367,"Reynaldo Hart",11,13,1.2,"JS","Java","Mobile","English","Hindi","Kannada",3,4,1,2,2,1,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,1,1,4,4,4,4,2,2,1
+368,"Harold Friedman",3,8,2.7,"AI","Machine Learning","Java","English","Chinese","Hindi",2,3,2,0,1,0,"Programmer-2",3,3,3,3,1,1,0,1,1,1,1,4,4,1,1,1,1,0,0,1
+369,"Faith Ramirez",7,14,2,"Mobile","AI","JS","English","Japenese","Telugu",5,2,2,0,5,0,"Programmer-1",1,1,1,1,1,1,0,1,1,0,0,3,3,2,2,2,2,1,1,1
+370,"Laura Reynolds",21,17,0.8,"Java","Machine Learning","JS","English","Malayalam","Japenese",6,5,1,2,1,2,"Testing and Debugging",3,3,3,3,1,1,0,1,4,4,4,1,1,2,2,2,2,1,1,1
+371,"Lawrence Armstrong",14,6,0.4,"AI","JS","Mobile","English","Malayalam","Telugu",4,0,0,0,1,1,"Testing and Debugging",1,0,0,0,1,1,0,1,1,0,0,4,4,1,1,1,1,2,2,1
+372,"Katie Pena",7,8,1.1,"JS","Machine Learning","Java","English","Tamil","Kannada",2,3,1,0,1,1,"Programmer-2",3,3,3,3,1,1,0,1,1,1,1,1,1,4,4,4,4,1,1,1
+373,"June Gehring",19,20,1.1,"Mobile","DotNet","Java","English","Chinese","Malayalam",2,5,2,4,5,2,"Team Lead",1,1,1,1,3,3,0,3,2,2,2,1,1,1,1,1,1,4,4,3
+374,"Jessica Tiffany",9,8,0.9,"AI","Java","Machine Learning","English","Japenese","Chinese",2,3,2,0,0,1,"Programmer-3",2,2,2,2,0,0,0,1,1,1,1,4,4,1,1,1,1,1,1,0
+375,"Willie Johnson",7,15,2.1,"DotNet","AI","Mobile","English","Hindi","Kannada",4,1,0,4,5,1,"Programmer-1",1,1,1,1,4,4,0,4,1,1,1,3,3,1,0,0,0,2,2,4
+376,"Pamela Scruggs",3,7,2.3,"Java","Mobile","DotNet","English","Chinese","Japenese",3,1,0,2,1,0,"Programmer-2",1,1,1,1,2,2,0,2,4,4,4,1,1,1,0,0,0,1,1,2
+377,"Kathy Price",9,7,0.8,"Machine Learning","AI","Mobile","English","Chinese","Japenese",3,1,1,0,1,1,"Programmer-3",4,4,4,4,1,1,0,1,1,0,0,3,3,1,1,1,1,2,2,1
+378,"Stacey Mcginty",18,23,1.3,"DotNet","Java","Mobile","English","Tamil","Japenese",5,3,2,5,5,3,"Team Lead",1,1,1,1,4,4,0,4,3,3,3,1,1,1,1,1,1,2,2,4
+379,"Joseph Pribble",12,6,0.5,"DotNet","Machine Learning","Mobile","English","Hindi","Tamil",1,0,2,1,2,0,"Testing and Debugging",1,1,1,1,4,4,0,4,1,1,1,1,1,1,1,1,1,1,1,4
+380,"Beatriz Bruss",9,9,1,"Java","Machine Learning","AI","English","Kannada","Japenese",1,2,1,2,2,1,"Programmer-3",3,3,3,3,1,1,0,1,4,4,4,2,2,1,1,1,1,1,1,1
+381,"Miriam Levan",18,17,0.9,"Mobile","DotNet","Java","English","Chinese","Kannada",4,1,7,0,2,3,"Deployment-2",1,1,1,1,3,3,0,3,1,1,1,1,1,1,1,1,1,4,4,3
+382,"Cathy Carns",6,15,2.5,"Mobile","Java","AI","English","Telugu","Japenese",2,3,4,3,1,2,"Programmer-1",1,1,1,1,1,1,0,1,3,3,3,2,2,1,1,1,1,4,4,1
+383,"Julio Tatom",21,15,0.7,"Machine Learning","JS","DotNet","English","Chinese","Tamil",2,0,6,1,4,2,"Deployment-1",1,1,1,1,2,2,0,2,1,1,1,1,1,3,3,3,3,1,1,2
+384,"John Hance",18,28,1.6,"Java","JS","Machine Learning","English","Japenese","Chinese",5,3,5,5,7,3,"Project Manager",2,2,2,2,1,1,0,1,4,4,4,1,1,3,3,3,3,1,1,1
+385,"Melissa Chean",2,5,2.5,"JS","DotNet","Machine Learning","English","Japenese","Kannada",2,1,0,0,0,2,"Programmer-2",2,2,2,2,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1
+386,"Marie Whitt",16,20,1.3,"DotNet","AI","JS","English","Chinese","Hindi",4,0,3,7,3,3,"Team Lead",1,0,0,0,4,4,0,4,1,1,1,3,3,2,2,2,2,1,1,4
+387,"Linda Richardson",23,17,0.7,"Java","DotNet","Mobile","English","Tamil","Hindi",4,1,6,2,2,2,"Deployment-2",1,1,1,1,3,3,0,3,4,4,4,1,1,1,1,1,1,2,2,3
+388,"Stephan Perez",23,17,0.7,"AI","DotNet","Machine Learning","English","Telugu","Japenese",5,1,1,3,1,6,"Deployment-1",2,2,2,2,3,3,0,3,1,1,1,4,4,1,1,1,1,1,1,3
+389,"Darin Becker",17,27,1.6,"Machine Learning","JS","Java","English","Telugu","Hindi",4,2,7,3,5,6,"Project Manager",4,4,4,4,1,1,0,1,2,2,2,1,1,3,3,3,3,1,1,1
+390,"Erin Bade",5,8,1.6,"Mobile","JS","DotNet","English","Telugu","Tamil",3,4,0,1,0,0,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+391,"Rosa Montgomery",24,29,1.2,"Machine Learning","AI","DotNet","English","Hindi","Chinese",3,5,10,2,3,6,"Team Lead",4,4,4,4,2,2,0,2,1,1,1,3,3,1,1,1,1,1,1,2
+392,"Charles Rose",3,2,0.7,"JS","AI","Mobile","English","Kannada","Chinese",0,0,2,0,0,0,"Programmer-3",1,0,0,0,0,0,0,1,1,0,0,1,1,4,4,4,4,1,1,0
+393,"Dana Alba",15,13,0.9,"Mobile","JS","Machine Learning","English","Telugu","Japenese",2,2,4,3,2,0,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,1,1,3,3,3,3,1,1,1
+394,"Armando Smith",24,21,0.9,"AI","Machine Learning","JS","English","Japenese","Kannada",6,4,4,4,1,2,"Deployment-1",3,3,3,3,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+395,"Beverly Klein",8,13,1.6,"Machine Learning","JS","Mobile","English","Chinese","Malayalam",2,4,2,2,1,2,"Programmer-1",4,4,4,4,1,1,0,1,1,1,1,1,1,3,3,3,3,2,2,1
+396,"Theron Smith",11,7,0.6,"Java","Mobile","AI","English","Chinese","Telugu",2,0,1,0,3,1,"Programmer-3",1,0,0,0,1,1,0,1,1,1,1,2,2,1,1,1,1,3,3,1
+397,"Cecilia Islam",5,6,1.2,"AI","JS","Java","English","Japenese","Tamil",0,2,0,1,2,1,"Programmer-2",1,1,1,1,1,1,0,1,2,2,2,1,1,1,1,1,1,1,1,1
+398,"Jose Clark",15,16,1.1,"Java","Machine Learning","JS","English","Kannada","Telugu",1,1,6,3,2,3,"Team Lead",3,3,3,3,1,1,0,1,4,4,4,1,1,2,2,2,2,1,1,1
+399,"Donna Farnsworth",4,6,1.5,"AI","JS","Machine Learning","English","Tamil","Japenese",3,1,1,1,0,0,"Programmer-2",2,2,2,2,0,0,0,1,1,1,1,4,4,3,3,3,3,0,0,0
+400,"Valerie Lacy",13,5,0.4,"Machine Learning","Mobile","DotNet","English","Tamil","Kannada",0,1,1,0,1,2,"Testing and Debugging",4,4,4,4,2,2,0,2,1,0,0,0,0,1,1,1,1,3,3,2
+401,"Nydia Schwing",14,19,1.4,"AI","Mobile","DotNet","English","Telugu","Japenese",4,7,2,6,0,0,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,4,4,1,1,1,1,1,1,1
+402,"Gary Sanchez",8,11,1.4,"Java","Machine Learning","AI","English","Hindi","Tamil",1,1,2,3,2,2,"Deployment-1",3,3,3,3,1,1,0,1,4,4,4,2,2,1,1,1,1,1,1,1
+403,"Cyrus Aragon",19,17,0.9,"Java","Machine Learning","Mobile","English","Chinese","Kannada",1,3,2,3,1,7,"Deployment-1",3,3,3,3,1,1,0,1,4,4,4,1,1,1,1,1,1,2,2,1
+404,"Ashley Hippen",23,22,1,"JS","AI","Mobile","English","Kannada","Hindi",1,3,6,3,5,4,"Deployment-1",1,1,1,1,1,1,0,1,1,1,1,3,3,4,4,4,4,2,2,1
+405,"Elena Cramer",19,17,0.9,"Mobile","DotNet","Java","English","Kannada","Telugu",7,4,0,4,1,1,"Deployment-1",1,1,1,1,3,3,0,3,2,2,2,1,1,1,0,0,0,4,4,3
+406,"Carl Matsuno",19,25,1.3,"Machine Learning","AI","Java","English","Japenese","Telugu",6,8,3,3,3,2,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,3,3,1,1,1,1,1,1,1
+407,"Laura Allen",24,27,1.1,"DotNet","AI","Machine Learning","English","Chinese","Hindi",2,7,6,3,2,7,"Team Lead",2,2,2,2,4,4,0,4,1,1,1,3,3,1,1,1,1,1,1,4
+408,"Annie Santana",9,7,0.8,"Machine Learning","JS","AI","English","Chinese","Telugu",3,1,0,1,2,0,"Programmer-3",4,4,4,4,1,1,0,1,1,1,1,2,2,1,1,1,1,0,0,1
+409,"Nancy Howe",4,8,2,"AI","Mobile","Java","English","Telugu","Tamil",2,1,2,1,0,2,"Programmer-2",1,1,1,1,0,0,0,1,2,2,2,4,4,1,1,1,1,3,3,0
+410,"Jerome Underwood",2,9,4.5,"Java","JS","DotNet","English","Hindi","Malayalam",2,4,1,0,2,0,"Programmer-2",1,1,1,1,2,2,0,2,1,1,1,1,1,3,3,3,3,0,0,2
+411,"Rosemary Romero",14,11,0.8,"AI","Java","DotNet","English","Hindi","Malayalam",1,3,3,2,0,2,"Deployment-2",1,1,1,1,1,1,0,1,3,3,3,4,4,1,1,1,1,1,1,1
+412,"Cynthia Malkin",13,7,0.5,"JS","Java","Machine Learning","English","Malayalam","Hindi",3,1,0,1,2,0,"Programmer-3",2,2,2,2,1,1,0,1,3,3,3,1,1,1,1,1,1,0,0,1
+413,"Dora Rainforth",18,19,1.1,"DotNet","Mobile","Java","English","Japenese","Tamil",3,5,2,3,4,2,"Team Lead",1,1,1,1,4,4,0,4,2,2,2,1,1,1,1,1,1,3,3,4
+414,"Dennis Bisonette",16,16,1,"JS","Mobile","AI","English","Kannada","Tamil",0,5,3,2,4,2,"Deployment-1",1,1,1,1,1,1,0,1,1,1,1,1,1,4,4,4,4,3,3,1
+415,"Gary Wallace",22,24,1.1,"Java","Mobile","DotNet","English","Malayalam","Hindi",3,3,7,4,5,2,"Team Lead",1,1,1,1,2,2,0,2,4,4,4,1,1,1,1,1,1,3,3,2
+416,"Cathy Small",10,15,1.5,"Machine Learning","Mobile","Java","English","Hindi","Tamil",5,0,2,3,1,4,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,1,1,1,1,1,1,3,3,1
+417,"Kenneth Tuten",5,3,0.6,"Machine Learning","AI","DotNet","English","Malayalam","Kannada",2,0,0,1,0,0,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,3,3,1,0,0,0,0,0,1
+418,"Mary Cush",24,18,0.8,"DotNet","JS","Machine Learning","English","Malayalam","Chinese",3,2,4,3,2,4,"Deployment-1",2,2,2,2,4,4,0,4,1,1,1,1,1,3,3,3,3,1,1,4
+419,"Peter Skeeter",18,15,0.8,"Machine Learning","AI","Java","English","Kannada","Japenese",5,1,2,3,2,2,"Deployment-1",4,4,4,4,1,1,0,1,2,2,2,3,3,1,1,1,1,1,1,1
+420,"Joan Mejia",10,18,1.8,"Machine Learning","Java","JS","English","Kannada","Tamil",2,6,1,4,1,4,"Team Lead",4,4,4,4,1,1,0,1,3,3,3,1,1,2,2,2,2,1,1,1
+421,"Theron Nelson",11,16,1.5,"Java","DotNet","Mobile","English","Japenese","Telugu",6,2,2,2,2,2,"Team Lead",1,1,1,1,3,3,0,3,4,4,4,1,1,1,1,1,1,2,2,3
+422,"Vivian Carver",15,8,0.5,"JS","Machine Learning","DotNet","English","Telugu","Japenese",2,0,0,1,2,3,"Programmer-3",1,1,1,1,2,2,0,2,1,1,1,1,1,1,1,1,1,1,1,2
+423,"Zachary Hafenstein",10,7,0.7,"Java","DotNet","Machine Learning","English","Japenese","Chinese",3,3,0,0,0,1,"Programmer-3",2,2,2,2,1,1,0,1,1,1,1,1,1,1,0,0,0,1,1,1
+424,"Amanda Stollings",4,2,0.5,"Mobile","Java","Machine Learning","English","Malayalam","Tamil",1,0,1,0,0,0,"Testing and Debugging",1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0
+425,"Frederick Davey",7,19,2.7,"JS","Mobile","Machine Learning","English","Malayalam","Telugu",3,2,3,3,4,4,"Programmer-1",2,2,2,2,1,1,0,1,1,1,1,1,1,4,4,4,4,3,3,1
+426,"Dominick Mckenzie",24,20,0.8,"JS","Java","Machine Learning","English","Chinese","Malayalam",3,4,3,2,4,4,"Deployment-1",2,2,2,2,1,1,0,1,3,3,3,1,1,4,4,4,4,1,1,1
+427,"Carol Keller",20,21,1.1,"DotNet","Machine Learning","JS","English","Kannada","Tamil",3,2,7,5,2,2,"Team Lead",3,3,3,3,4,4,0,4,1,1,1,1,1,2,2,2,2,1,1,4
+428,"Kera Cook",7,12,1.7,"AI","JS","Java","English","Telugu","Chinese",6,1,2,1,2,0,"Programmer-1",1,1,1,1,1,1,0,1,2,2,2,4,4,3,3,3,3,0,0,1
+429,"Mary Gunning",9,5,0.6,"AI","Machine Learning","Mobile","English","Tamil","Malayalam",2,2,1,0,0,0,"Programmer-3",3,3,3,3,0,0,0,1,1,0,0,4,4,1,1,1,1,1,1,0
+430,"Ann Marsh",23,28,1.2,"Machine Learning","Mobile","JS","English","Kannada","Malayalam",5,6,2,4,6,5,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,1,1,2,2,2,2,3,3,1
+431,"Ronald Gaughan",8,9,1.1,"AI","DotNet","JS","English","Japenese","Chinese",2,4,1,1,0,1,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+432,"Anna Crays",13,14,1.1,"Java","JS","AI","English","Hindi","Telugu",1,2,4,2,3,2,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,2,2,3,3,3,3,1,1,1
+433,"Robert Rezac",22,22,1,"JS","Mobile","Java","English","Chinese","Japenese",4,2,5,7,2,2,"Deployment-1",1,1,1,1,1,1,0,1,2,2,2,1,1,4,4,4,4,3,3,1
+434,"Janis Strickland",19,18,0.9,"Java","Mobile","Machine Learning","English","Kannada","Hindi",3,1,6,2,3,3,"Deployment-1",2,2,2,2,1,1,0,1,4,4,4,1,1,1,1,1,1,3,3,1
+435,"Frances Mackenzie",10,9,0.9,"Java","AI","Machine Learning","English","Japenese","Telugu",1,1,0,6,1,0,"Programmer-3",2,2,2,2,1,1,0,1,4,4,4,3,3,1,0,0,0,0,0,1
+436,"Joseph Marcum",19,25,1.3,"AI","Mobile","Java","English","Chinese","Japenese",1,4,3,7,5,5,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,4,4,1,1,1,1,3,3,1
+437,"Betty Rodriguez",11,5,0.5,"JS","DotNet","Java","English","Telugu","Tamil",0,1,2,0,1,1,"Testing and Debugging",1,1,1,1,3,3,0,3,1,1,1,0,0,4,4,4,4,1,1,3
+438,"Raul Knox",5,8,1.6,"AI","Mobile","JS","English","Japenese","Hindi",3,1,2,1,1,0,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+439,"Lisa Mondragon",11,12,1.1,"Java","Machine Learning","AI","English","Kannada","Malayalam",3,3,2,2,2,0,"Team Lead",3,3,3,3,1,1,0,1,4,4,4,2,2,1,1,1,1,0,0,1
+440,"Shannon Mcintosh",18,16,0.9,"Java","AI","DotNet","English","Kannada","Hindi",2,2,3,5,2,2,"Deployment-1",1,1,1,1,2,2,0,2,4,4,4,3,3,1,1,1,1,1,1,2
+441,"Leon Kramer",8,10,1.3,"JS","DotNet","Machine Learning","English","Japenese","Malayalam",2,2,1,1,4,0,"Deployment-1",2,2,2,2,3,3,0,3,1,1,1,1,1,4,4,4,4,0,0,3
+442,"John Fitzgerald",21,28,1.3,"AI","JS","DotNet","English","Chinese","Telugu",8,7,2,4,5,2,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,4,4,3,3,3,3,1,1,2
+443,"Rena Price",4,3,0.8,"JS","Java","AI","English","Japenese","Tamil",2,0,1,0,0,0,"Programmer-3",1,0,0,0,0,0,0,1,1,1,1,2,2,4,4,4,4,0,0,0
+444,"Susan Spears",23,22,1,"Mobile","JS","DotNet","English","Chinese","Telugu",2,4,5,1,5,5,"Deployment-1",1,1,1,1,2,2,0,2,1,1,1,1,1,3,3,3,3,4,4,2
+445,"Rose Brady",5,4,0.8,"DotNet","Java","JS","English","Japenese","Telugu",1,0,0,2,1,0,"Programmer-3",1,0,0,0,4,4,0,4,3,3,3,1,1,1,1,1,1,0,0,4
+446,"Jennifer Garcia",12,5,0.4,"DotNet","Java","Mobile","English","Japenese","Telugu",1,0,1,0,2,1,"Testing and Debugging",1,0,0,0,4,4,0,4,1,1,1,1,1,1,1,1,1,2,2,4
+447,"Lucille Tousom",19,24,1.3,"DotNet","Mobile","JS","English","Japenese","Malayalam",3,4,2,5,5,5,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,1,1,2,2,2,2,3,3,4
+448,"Helen Simpson",24,26,1.1,"DotNet","Mobile","AI","English","Hindi","Telugu",5,6,5,4,2,4,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,2,2,1,1,1,1,3,3,4
+449,"Mike Blaize",8,11,1.4,"AI","Mobile","JS","English","Tamil","Japenese",1,2,2,2,2,2,"Testing and Debugging",1,1,1,1,1,1,0,1,1,1,1,4,4,2,2,2,2,3,3,1
+450,"Benjamin Wilcoxen",17,15,0.9,"DotNet","AI","Java","English","Kannada","Telugu",2,1,1,7,3,1,"Deployment-1",1,1,1,1,4,4,0,4,2,2,2,3,3,1,1,1,1,1,1,4
+451,"Patricia Bonn",19,28,1.5,"Mobile","JS","Java","English","Malayalam","Hindi",4,5,6,7,3,3,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,1,1,3,3,3,3,4,4,1
+452,"Joe Ballard",11,11,1,"Mobile","Java","Machine Learning","English","Kannada","Chinese",2,0,1,5,1,2,"Deployment-1",1,1,1,1,1,1,0,1,3,3,3,1,1,1,1,1,1,4,4,1
+453,"Norma Symes",21,20,1,"Mobile","Machine Learning","JS","English","Malayalam","Japenese",3,3,1,6,3,4,"Deployment-1",3,3,3,3,1,1,0,1,1,1,1,1,1,2,2,2,2,4,4,1
+454,"Jennifer Wood",10,6,0.6,"Java","JS","DotNet","English","Telugu","Japenese",3,2,0,0,1,0,"Programmer-3",1,1,1,1,2,2,0,2,1,1,1,1,1,1,1,1,1,0,0,2
+455,"Heather Gonzalez",17,21,1.2,"Java","Machine Learning","DotNet","English","Telugu","Chinese",5,4,6,1,1,4,"Team Lead",3,3,3,3,2,2,0,2,4,4,4,1,1,1,1,1,1,1,1,2
+456,"Nicholas Durbin",18,21,1.2,"Java","Machine Learning","DotNet","English","Chinese","Hindi",4,6,1,3,3,4,"Team Lead",3,3,3,3,2,2,0,2,4,4,4,1,1,1,1,1,1,1,1,2
+457,"Arnold Witaszek",8,9,1.1,"Mobile","Machine Learning","AI","English","Tamil","Kannada",3,2,1,1,1,1,"Programmer-2",3,3,3,3,1,1,0,1,1,1,1,2,2,1,1,1,1,4,4,1
+458,"William Buchanan",21,20,1,"DotNet","Mobile","AI","English","Kannada","Tamil",3,6,2,3,2,4,"Deployment-1",1,1,1,1,4,4,0,4,1,1,1,2,2,1,1,1,1,3,3,4
+459,"Linda Nunmaker",17,27,1.6,"Java","AI","JS","English","Malayalam","Chinese",4,6,4,3,4,6,"Project Manager",1,1,1,1,1,1,0,1,4,4,4,3,3,2,2,2,2,1,1,1
+460,"Rose Bailey",10,5,0.5,"Mobile","DotNet","JS","English","Tamil","Japenese",0,2,3,0,0,0,"Deployment-2",1,1,1,1,1,1,0,1,1,0,0,0,0,2,2,2,2,1,1,1
+461,"Adele Garren",9,6,0.7,"JS","AI","Mobile","English","Hindi","Telugu",1,0,0,3,1,1,"Programmer-3",1,0,0,0,1,1,0,1,1,1,1,3,3,1,1,1,1,2,2,1
+462,"Robert Good",12,10,0.8,"Machine Learning","Mobile","AI","English","Tamil","Japenese",1,3,2,2,2,0,"Testing and Debugging",4,4,4,4,1,1,0,1,1,1,1,2,2,1,1,1,1,1,1,1
+463,"Maria Deese",24,24,1,"AI","Machine Learning","Mobile","English","Hindi","Malayalam",2,9,3,1,5,4,"Deployment-1",3,3,3,3,1,1,0,1,1,1,1,4,4,1,1,1,1,2,2,1
+464,"John Gutierrez",21,23,1.1,"Java","AI","Machine Learning","English","Kannada","Telugu",3,6,5,3,5,1,"Team Lead",2,2,2,2,1,1,0,1,4,4,4,3,3,1,1,1,1,1,1,1
+465,"Rosa Bongiorno",8,7,0.9,"JS","Machine Learning","AI","English","Malayalam","Chinese",2,1,0,0,1,3,"Programmer-3",3,3,3,3,1,1,0,1,1,0,0,2,2,1,1,1,1,1,1,1
+466,"Beatriz Lee",8,5,0.6,"Machine Learning","AI","JS","English","Tamil","Telugu",1,1,2,0,0,1,"Programmer-3",4,4,4,4,0,0,0,1,1,0,0,3,3,2,2,2,2,1,1,0
+467,"Patricia Lewis",17,27,1.6,"Mobile","Machine Learning","JS","English","Hindi","Malayalam",3,7,7,5,3,2,"Project Manager",3,3,3,3,1,1,0,1,1,1,1,1,1,2,2,2,2,4,4,1
+468,"Robert Martin",5,9,1.8,"Mobile","DotNet","AI","English","Malayalam","Tamil",1,0,4,2,1,1,"Programmer-2",1,0,0,0,3,3,0,3,1,1,1,2,2,1,1,1,1,4,4,3
+469,"Corinne Slinkard",6,10,1.7,"Machine Learning","JS","DotNet","English","Hindi","Telugu",2,1,3,3,1,0,"Deployment-1",4,4,4,4,2,2,0,2,1,1,1,1,1,3,3,3,3,0,0,2
+470,"Tina Villalta",12,12,1,"JS","AI","Machine Learning","English","Tamil","Kannada",2,2,0,4,2,2,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,3,3,1,1,1,1,1,1,1
+471,"Naomi Risher",10,10,1,"Machine Learning","AI","Java","English","Telugu","Malayalam",4,2,1,2,0,1,"Testing and Debugging",4,4,4,4,0,0,0,1,2,2,2,3,3,1,1,1,1,1,1,0
+472,"Jimmie Johnston",18,21,1.2,"JS","DotNet","Mobile","English","Tamil","Chinese",6,5,2,2,4,2,"Team Lead",1,1,1,1,3,3,0,3,1,1,1,1,1,4,4,4,4,2,2,3
+473,"Deborah Coles",11,10,0.9,"Machine Learning","AI","DotNet","English","Hindi","Tamil",0,6,1,1,2,0,"Testing and Debugging",4,4,4,4,2,2,0,2,1,1,1,1,1,1,1,1,1,0,0,2
+474,"Thomas Salazar",9,10,1.1,"DotNet","Machine Learning","Mobile","English","Chinese","Japenese",3,1,2,0,2,2,"Team Lead",3,3,3,3,4,4,0,4,1,0,0,1,1,1,1,1,1,2,2,4
+475,"James Bevan",9,13,1.4,"Java","Mobile","DotNet","English","Japenese","Tamil",1,2,3,2,4,1,"Team Lead",1,1,1,1,2,2,0,2,4,4,4,1,1,1,1,1,1,3,3,2
+476,"Bryan Hanson",16,19,1.2,"Mobile","AI","Machine Learning","English","Chinese","Tamil",5,3,3,3,3,2,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,3,3,1,1,1,1,4,4,1
+477,"Jeffrey Denny",4,8,2,"Mobile","JS","Machine Learning","English","Japenese","Hindi",1,3,3,0,0,1,"Programmer-2",2,2,2,2,0,0,0,1,1,0,0,1,1,3,3,3,3,4,4,0
+478,"Kenneth Crossman",12,5,0.4,"JS","DotNet","Mobile","English","Japenese","Malayalam",0,1,1,1,0,2,"Testing and Debugging",1,1,1,1,1,1,0,1,1,1,1,0,0,4,4,4,4,2,2,1
+479,"James Mcgee",8,13,1.6,"Mobile","JS","Java","English","Chinese","Telugu",3,4,1,2,2,1,"Programmer-1",1,1,1,1,1,1,0,1,2,2,2,1,1,3,3,3,3,4,4,1
+480,"Celia Jackson",6,12,2,"AI","Java","Mobile","English","Chinese","Tamil",5,1,3,1,1,1,"Programmer-1",1,1,1,1,1,1,0,1,3,3,3,4,4,1,1,1,1,2,2,1
+481,"Terresa Wright",19,28,1.5,"AI","Machine Learning","DotNet","English","Malayalam","Japenese",6,2,4,5,5,6,"Team Lead",3,3,3,3,2,2,0,2,1,1,1,4,4,1,1,1,1,1,1,2
+482,"Jack Coffin",4,2,0.5,"JS","Machine Learning","Java","English","Japenese","Kannada",0,1,1,0,0,0,"Testing and Debugging",3,3,3,3,0,0,0,1,1,1,1,0,0,4,4,4,4,0,0,0
+483,"Pedro Clinton",7,9,1.3,"Machine Learning","JS","AI","English","Malayalam","Japenese",2,1,1,1,0,4,"Programmer-2",4,4,4,4,0,0,0,1,1,1,1,2,2,3,3,3,3,1,1,0
+484,"Patricia Dominguez",13,10,0.8,"JS","AI","Mobile","English","Telugu","Japenese",3,2,1,3,1,0,"Deployment-1",1,1,1,1,1,1,0,1,1,1,1,3,3,4,4,4,4,1,1,1
+485,"Phyllis Dekany",21,25,1.2,"DotNet","Java","JS","English","Chinese","Japenese",6,3,8,5,1,2,"Team Lead",1,1,1,1,4,4,0,4,3,3,3,1,1,2,2,2,2,1,1,4
+486,"Melvin Romero",20,17,0.9,"JS","Mobile","AI","English","Hindi","Telugu",1,4,5,1,5,1,"Deployment-1",1,1,1,1,1,1,0,1,1,1,1,2,2,4,4,4,4,3,3,1
+487,"Ruth Murray",4,9,2.3,"Java","JS","AI","English","Chinese","Tamil",4,2,0,2,0,1,"Programmer-2",1,1,1,1,0,0,0,1,4,4,4,2,2,1,1,1,1,1,1,0
+488,"Erin Quarles",24,23,1,"Java","Mobile","JS","English","Hindi","Telugu",3,3,7,0,6,4,"Deployment-1",1,1,1,1,1,1,0,1,1,1,1,1,1,2,2,2,2,3,3,1
+489,"Jimmy Klein",5,6,1.2,"Mobile","DotNet","Java","English","Tamil","Telugu",2,1,0,0,0,3,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,4,4,1
+490,"Cammie Farris",13,6,0.5,"DotNet","AI","Machine Learning","English","Kannada","Telugu",0,0,3,0,1,2,"Deployment-2",1,1,1,1,4,4,0,4,1,0,0,1,1,1,1,1,1,1,1,4
+491,"Gary Tabron",6,6,1,"AI","DotNet","Mobile","English","Kannada","Tamil",1,2,2,0,0,1,"Programmer-3",1,1,1,1,1,1,0,1,1,0,0,4,4,1,1,1,1,2,2,1
+492,"Eric Woodall",10,12,1.2,"Java","Machine Learning","AI","English","Kannada","Telugu",2,2,2,3,2,1,"Team Lead",3,3,3,3,1,1,0,1,4,4,4,2,2,1,1,1,1,1,1,1
+493,"Karie Keenan",8,8,1,"JS","Java","AI","English","Kannada","Malayalam",0,4,2,0,1,1,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,1,1,4,4,4,4,1,1,1
+494,"Carol Tretheway",3,2,0.7,"Java","DotNet","AI","English","Chinese","Kannada",1,0,1,0,0,0,"Programmer-3",1,0,0,0,1,1,0,1,1,1,1,2,2,1,1,1,1,0,0,1
+495,"Norene Mcfadden",10,8,0.8,"DotNet","Machine Learning","JS","English","Japenese","Telugu",1,1,4,1,0,1,"Programmer-3",3,3,3,3,1,1,0,1,1,1,1,1,1,2,2,2,2,1,1,1
+496,"Sherry Landers",13,19,1.5,"JS","Mobile","Machine Learning","English","Malayalam","Tamil",4,1,7,4,1,2,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,1,1,4,4,4,4,3,3,1
+497,"Dustin Harris",15,18,1.2,"DotNet","Machine Learning","AI","English","Chinese","Telugu",4,2,1,3,3,5,"Team Lead",3,3,3,3,4,4,0,4,1,1,1,2,2,1,1,1,1,1,1,4
+498,"Blanche Debaecke",11,7,0.6,"JS","AI","Machine Learning","English","Japenese","Malayalam",1,1,1,0,0,4,"Programmer-3",2,2,2,2,0,0,0,1,1,0,0,3,3,4,4,4,4,1,1,0
+499,"Melody Best",17,18,1.1,"AI","JS","Machine Learning","English","Malayalam","Chinese",5,1,3,4,3,2,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,4,4,3,3,3,3,1,1,1
+500,"Robert Woodberry",24,26,1.1,"DotNet","Java","AI","English","Japenese","Malayalam",4,6,3,6,5,2,"Team Lead",1,1,1,1,4,4,0,4,3,3,3,2,2,1,1,1,1,1,1,4
+501,"Tiffany Franklin",11,18,1.6,"Java","AI","JS","English","Kannada","Tamil",4,5,1,3,1,4,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,3,3,2,2,2,2,1,1,1
+502,"Jonathan Cropper",11,9,0.8,"Java","DotNet","JS","English","Malayalam","Japenese",3,3,1,1,1,0,"Programmer-3",1,1,1,1,3,3,0,3,4,4,4,1,1,2,2,2,2,0,0,3
+503,"Paul Moore",9,7,0.8,"Machine Learning","Mobile","AI","English","Tamil","Kannada",1,2,1,2,0,1,"Programmer-3",4,4,4,4,0,0,0,1,1,1,1,2,2,1,1,1,1,3,3,0
+504,"Jerry Baier",7,9,1.3,"DotNet","Mobile","Machine Learning","English","Chinese","Hindi",1,1,3,3,0,1,"Programmer-2",2,2,2,2,1,1,0,1,1,1,1,1,1,1,1,1,1,3,3,1
+505,"Sara Hernandez",7,14,2,"AI","JS","Java","English","Malayalam","Telugu",1,6,2,3,1,1,"Programmer-1",1,1,1,1,1,1,0,1,2,2,2,4,4,3,3,3,3,1,1,1
+506,"Orlando Schuld",9,14,1.6,"AI","DotNet","JS","English","Telugu","Hindi",1,2,3,1,5,2,"Team Lead",1,1,1,1,3,3,0,3,1,1,1,4,4,2,2,2,2,1,1,3
+507,"Thomas Nelson",9,19,2.1,"Machine Learning","DotNet","JS","English","Telugu","Japenese",4,2,2,3,4,4,"Team Lead",4,4,4,4,3,3,0,3,1,1,1,1,1,2,2,2,2,1,1,3
+508,"Patrick Constantini",22,28,1.3,"Machine Learning","Java","Mobile","English","Telugu","Kannada",3,8,2,3,5,7,"Team Lead",4,4,4,4,1,1,0,1,3,3,3,1,1,1,1,1,1,2,2,1
+509,"Rikki Felix",4,5,1.3,"Machine Learning","DotNet","JS","English","Tamil","Hindi",0,0,1,2,2,0,"Programmer-2",1,1,1,1,3,3,0,3,1,1,1,0,0,2,2,2,2,0,0,3
+510,"Dorothy Kenimer",21,21,1,"JS","Java","Mobile","English","Chinese","Japenese",5,2,6,4,2,2,"Deployment-1",1,1,1,1,1,1,0,1,3,3,3,1,1,4,4,4,4,2,2,1
+511,"Ronnie Modi",9,17,1.9,"AI","Java","Mobile","English","Telugu","Japenese",3,2,2,4,5,1,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,4,4,1,1,1,1,2,2,1
+512,"David Edmonds",23,29,1.3,"DotNet","Machine Learning","JS","English","Japenese","Chinese",8,3,6,2,5,5,"Team Lead",3,3,3,3,4,4,0,4,1,1,1,1,1,2,2,2,2,1,1,4
+513,"Larry Rodriguez",12,6,0.5,"AI","Mobile","DotNet","English","Japenese","Malayalam",3,1,2,0,0,0,"Testing and Debugging",1,1,1,1,1,1,0,1,1,0,0,4,4,1,1,1,1,1,1,1
+514,"Anna Bell",19,16,0.8,"AI","JS","DotNet","English","Japenese","Tamil",2,7,2,3,1,1,"Deployment-1",1,1,1,1,2,2,0,2,1,1,1,4,4,3,3,3,3,1,1,2
+515,"Lori Adams",7,7,1,"Mobile","Java","DotNet","English","Kannada","Japenese",1,3,1,0,0,2,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,4,4,1
+516,"Tamara Wright",13,16,1.2,"Machine Learning","DotNet","AI","English","Telugu","Tamil",1,2,3,5,4,1,"Team Lead",4,4,4,4,3,3,0,3,1,1,1,2,2,1,1,1,1,1,1,3
+517,"Clara Benoist",7,9,1.3,"DotNet","Mobile","Machine Learning","English","Chinese","Kannada",1,0,3,2,3,0,"Programmer-2",1,1,1,1,4,4,0,4,1,1,1,1,1,1,1,1,1,1,1,4
+518,"Dolores Lee",22,28,1.3,"AI","Machine Learning","Java","English","Telugu","Kannada",5,4,4,4,4,7,"Team Lead",3,3,3,3,1,1,0,1,2,2,2,4,4,1,1,1,1,1,1,1
+519,"Rakesh Raj",23,18,0.8,"JS","AI","Mobile","English","Telugu","Tamil",6,5,2,0,2,3,"Deployment-2",1,1,1,1,1,1,0,1,1,0,0,3,3,4,4,4,4,2,2,1
+520,"Leslie Johnson",9,14,1.6,"DotNet","Machine Learning","JS","English","Japenese","Telugu",2,2,4,3,2,1,"Team Lead",3,3,3,3,4,4,0,4,1,1,1,1,1,2,2,2,2,1,1,4
+521,"Edward Samons",4,8,2,"DotNet","Java","Machine Learning","English","Malayalam","Tamil",1,3,3,1,0,0,"Programmer-2",2,2,2,2,1,1,0,1,3,3,3,1,1,1,1,1,1,0,0,1
+522,"Berniece Cockrell",18,29,1.6,"Machine Learning","DotNet","JS","English","Chinese","Telugu",8,4,7,3,3,4,"Project Manager",4,4,4,4,3,3,0,3,1,1,1,1,1,2,2,2,2,1,1,3
+523,"Yoshiko Mcdonald",16,19,1.2,"Mobile","DotNet","Machine Learning","English","Kannada","Telugu",5,3,4,3,0,4,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,1,1,1,1,1,1,4,4,1
+524,"Angie Eberts",5,8,1.6,"DotNet","JS","Java","English","Tamil","Kannada",1,1,2,0,2,2,"Programmer-2",1,1,1,1,4,4,0,4,1,1,1,1,1,3,3,3,3,1,1,4
+525,"Diane Gregory",17,24,1.4,"DotNet","Mobile","Machine Learning","English","Kannada","Malayalam",5,3,3,8,4,1,"Team Lead",2,2,2,2,4,4,0,4,1,1,1,1,1,1,1,1,1,3,3,4
+526,"Kimberly Deen",2,9,4.5,"Machine Learning","JS","AI","English","Hindi","Telugu",0,1,5,1,2,0,"Programmer-2",4,4,4,4,1,1,0,1,1,1,1,1,1,3,3,3,3,0,0,1
+527,"Maureen Craddock",13,17,1.3,"Mobile","AI","DotNet","English","Tamil","Kannada",1,2,2,1,3,8,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,3,3,1,1,1,1,4,4,2
+528,"David Owens",20,22,1.1,"Java","JS","DotNet","English","Telugu","Japenese",5,4,6,1,3,3,"Team Lead",1,1,1,1,2,2,0,2,4,4,4,1,1,3,3,3,3,1,1,2
+529,"Doyle Werts",15,17,1.1,"Java","DotNet","JS","English","Chinese","Telugu",3,1,6,3,2,2,"Team Lead",1,1,1,1,3,3,0,3,4,4,4,1,1,2,2,2,2,1,1,3
+530,"Charlotte Suarez",17,18,1.1,"Mobile","JS","Java","English","Chinese","Hindi",2,4,4,6,1,1,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,1,1,3,3,3,3,4,4,1
+531,"Terry Laughlin",11,6,0.5,"Mobile","AI","DotNet","English","Tamil","Telugu",1,0,2,0,2,1,"Programmer-3",1,0,0,0,2,2,0,2,1,0,0,3,3,1,1,1,1,4,4,2
+532,"Angelina Scerra",14,13,0.9,"DotNet","Mobile","Machine Learning","English","Telugu","Chinese",5,2,1,4,1,0,"Deployment-1",2,2,2,2,4,4,0,4,1,1,1,1,1,1,1,1,1,1,1,4
+533,"Scott Billings",17,22,1.3,"Java","JS","AI","English","Telugu","Kannada",2,4,6,2,4,4,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,2,2,3,3,3,3,1,1,1
+534,"Laura Pouncey",13,15,1.2,"Java","Machine Learning","DotNet","English","Tamil","Chinese",4,1,2,5,2,1,"Team Lead",3,3,3,3,2,2,0,2,4,4,4,1,1,1,1,1,1,1,1,2
+535,"Ericka Burke",5,3,0.6,"DotNet","JS","Machine Learning","English","Chinese","Tamil",1,1,0,1,0,0,"Programmer-3",2,2,2,2,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1
+536,"Hazel Stanley",14,18,1.3,"Java","JS","DotNet","English","Tamil","Telugu",0,3,4,1,5,5,"Team Lead",1,1,1,1,2,2,0,2,4,4,4,0,0,3,3,3,3,1,1,2
+537,"Harry Vanhouten",14,16,1.1,"Machine Learning","JS","Java","English","Chinese","Japenese",3,6,1,3,2,1,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,1,1,3,3,3,3,1,1,1
+538,"Mary Palomo",10,9,0.9,"JS","AI","Mobile","English","Telugu","Kannada",0,2,2,3,1,1,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,1,1,4,4,4,4,2,2,1
+539,"Steven Manley",4,4,1,"DotNet","AI","Mobile","English","Tamil","Hindi",1,0,1,1,1,0,"Programmer-3",1,0,0,0,4,4,0,4,1,1,1,3,3,1,1,1,1,1,1,4
+540,"Brittany Vario",7,6,0.9,"Machine Learning","Mobile","AI","English","Malayalam","Tamil",1,0,0,2,0,3,"Programmer-3",1,1,1,1,0,0,0,1,1,1,1,2,2,1,0,0,0,3,3,0
+541,"Lloyd Baker",6,18,3,"DotNet","Java","Machine Learning","English","Malayalam","Chinese",3,1,4,4,5,1,"Programmer-1",2,2,2,2,4,4,0,4,3,3,3,1,1,1,1,1,1,1,1,4
+542,"Luke Strause",17,20,1.2,"AI","DotNet","Machine Learning","English","Malayalam","Telugu",7,6,1,3,2,1,"Team Lead",2,2,2,2,3,3,0,3,1,1,1,4,4,1,1,1,1,1,1,3
+543,"Elizabeth Kelly",9,7,0.8,"JS","DotNet","Java","English","Hindi","Tamil",4,1,1,1,0,0,"Programmer-3",1,1,1,1,1,1,0,1,2,2,2,1,1,4,4,4,4,0,0,1
+544,"Jane Truong",22,15,0.7,"Java","AI","JS","English","Japenese","Telugu",2,2,3,3,2,3,"Deployment-1",1,1,1,1,1,1,0,1,4,4,4,3,3,2,2,2,2,1,1,1
+545,"Gene Latimer",9,18,2,"AI","Machine Learning","Mobile","English","Malayalam","Telugu",3,1,4,3,3,4,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,4,4,1,1,1,1,2,2,1
+546,"Petra Gaskin",7,14,2,"Machine Learning","AI","DotNet","English","Malayalam","Kannada",2,2,6,1,0,3,"Programmer-1",4,4,4,4,1,1,0,1,1,1,1,3,3,1,1,1,1,1,1,1
+547,"Anna Chavez",23,15,0.7,"Machine Learning","DotNet","Mobile","English","Telugu","Hindi",2,1,4,5,2,1,"Deployment-1",4,4,4,4,3,3,0,3,1,1,1,1,1,1,1,1,1,2,2,3
+548,"Margaret Crowder",2,7,3.5,"AI","DotNet","JS","English","Chinese","Tamil",1,2,1,1,0,2,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+549,"Jean Smith",2,2,1,"Mobile","Machine Learning","JS","English","Chinese","Telugu",0,0,2,0,0,0,"Programmer-3",1,1,1,1,0,0,0,1,1,0,0,0,0,2,2,2,2,1,1,0
+550,"Esperanza Urreta",21,27,1.3,"DotNet","Java","Mobile","English","Hindi","Chinese",6,3,4,5,4,5,"Team Lead",1,1,1,1,4,4,0,4,3,3,3,1,1,1,1,1,1,2,2,4
+551,"Saundra Rodriguez",22,20,0.9,"DotNet","Machine Learning","Java","English","Hindi","Kannada",2,4,2,5,3,4,"Deployment-1",3,3,3,3,4,4,0,4,2,2,2,1,1,1,1,1,1,1,1,4
+552,"Freda Bass",7,10,1.4,"JS","DotNet","Mobile","English","Japenese","Tamil",1,2,1,4,2,0,"Deployment-1",1,1,1,1,3,3,0,3,1,1,1,1,1,4,4,4,4,1,1,3
+553,"Crystal Olvera",10,18,1.8,"AI","Java","JS","English","Tamil","Malayalam",3,3,0,5,2,5,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,4,4,1,1,1,1,1,1,1
+554,"Reginald Robinson",18,19,1.1,"Machine Learning","AI","Java","English","Japenese","Hindi",7,4,2,1,4,1,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,3,3,1,1,1,1,1,1,1
+555,"Zachary Harrell",23,20,0.9,"Machine Learning","JS","AI","English","Tamil","Telugu",4,3,4,0,6,3,"Deployment-1",4,4,4,4,1,1,0,1,1,0,0,2,2,3,3,3,3,1,1,1
+556,"Kenneth Frey",12,17,1.4,"Mobile","AI","DotNet","English","Telugu","Tamil",4,3,2,5,2,1,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,3,3,1,1,1,1,4,4,2
+557,"Grace Perigo",11,16,1.5,"AI","Mobile","Java","English","Telugu","Hindi",1,3,2,6,3,1,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,4,4,1,1,1,1,3,3,1
+558,"Mildred Beaudette",16,26,1.6,"JS","Mobile","Machine Learning","English","Kannada","Chinese",7,3,5,6,4,1,"Project Manager",2,2,2,2,1,1,0,1,1,1,1,1,1,4,4,4,4,3,3,1
+559,"Zachary Murphy",8,17,2.1,"DotNet","JS","Machine Learning","English","Telugu","Malayalam",2,4,3,2,4,2,"Programmer-1",2,2,2,2,4,4,0,4,1,1,1,1,1,3,3,3,3,1,1,4
+560,"Barbara Bell",19,28,1.5,"Java","DotNet","Mobile","English","Malayalam","Telugu",3,5,5,4,4,7,"Team Lead",1,1,1,1,3,3,0,3,4,4,4,1,1,1,1,1,1,2,2,3
+561,"Julie Flaherty",15,6,0.4,"AI","DotNet","Machine Learning","English","Chinese","Tamil",1,1,0,2,0,2,"Testing and Debugging",2,2,2,2,1,1,0,1,1,1,1,4,4,1,0,0,0,1,1,1
+562,"Holly Barrows",17,21,1.2,"Machine Learning","JS","Mobile","English","Telugu","Malayalam",5,3,5,2,3,3,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,1,1,3,3,3,3,2,2,1
+563,"Kristina Townley",7,10,1.4,"Java","AI","Mobile","English","Japenese","Telugu",2,1,4,2,1,0,"Deployment-2",1,1,1,1,1,1,0,1,4,4,4,3,3,1,1,1,1,1,1,1
+564,"Lindsay Jobe",18,15,0.8,"JS","Machine Learning","Mobile","English","Chinese","Kannada",1,6,0,2,3,3,"Deployment-1",3,3,3,3,1,1,0,1,1,1,1,1,1,1,1,1,1,2,2,1
+565,"Jennifer Moore",13,7,0.5,"DotNet","Mobile","JS","English","Telugu","Chinese",2,1,2,1,0,1,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,1,1,2,2,2,2,3,3,1
+566,"Bill Sukhu",13,17,1.3,"Java","Machine Learning","JS","English","Malayalam","Hindi",3,4,1,3,5,1,"Team Lead",3,3,3,3,1,1,0,1,4,4,4,1,1,2,2,2,2,1,1,1
+567,"Dolores Hickman",20,18,0.9,"Machine Learning","Mobile","Java","English","Telugu","Malayalam",3,5,5,1,0,4,"Deployment-2",4,4,4,4,0,0,0,1,2,2,2,1,1,1,1,1,1,3,3,0
+568,"Anthony Ludlow",16,16,1,"Java","Machine Learning","JS","English","Kannada","Chinese",5,3,2,3,2,1,"Deployment-1",3,3,3,3,1,1,0,1,4,4,4,1,1,2,2,2,2,1,1,1
+569,"Robert Clark",18,22,1.2,"JS","Machine Learning","AI","English","Kannada","Chinese",9,2,2,2,5,2,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,2,2,4,4,4,4,1,1,1
+570,"Larry Harris",15,15,1,"Java","Machine Learning","JS","English","Hindi","Malayalam",4,2,2,0,4,3,"Deployment-1",3,3,3,3,1,1,0,1,1,1,1,1,1,2,2,2,2,1,1,1
+571,"Derrick Carter",4,7,1.8,"Java","AI","DotNet","English","Hindi","Malayalam",0,3,0,0,0,4,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,1,1,1
+572,"Betsy Jackson",3,3,1,"DotNet","AI","Machine Learning","English","Kannada","Telugu",1,0,1,1,0,0,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,3,3,1,1,1,1,0,0,1
+573,"Minnie Rubin",12,9,0.8,"Machine Learning","Java","AI","English","Chinese","Tamil",2,3,2,0,2,0,"Programmer-3",4,4,4,4,1,1,0,1,1,1,1,2,2,1,1,1,1,0,0,1
+574,"Elsa Gilliland",18,26,1.4,"Mobile","DotNet","Java","English","Japenese","Tamil",4,5,3,4,2,8,"Team Lead",1,1,1,1,3,3,0,3,2,2,2,1,1,1,1,1,1,4,4,3
+575,"Darrell Desjardins",22,28,1.3,"AI","Machine Learning","Java","English","Chinese","Hindi",8,5,5,1,8,1,"Team Lead",3,3,3,3,1,1,0,1,2,2,2,4,4,1,1,1,1,1,1,1
+576,"Anita Pearsall",17,17,1,"JS","DotNet","Machine Learning","English","Tamil","Hindi",2,4,3,3,2,3,"Deployment-1",2,2,2,2,3,3,0,3,1,1,1,1,1,4,4,4,4,1,1,3
+577,"Sharon Scerbo",3,6,2,"DotNet","JS","AI","English","Telugu","Japenese",5,0,0,0,0,1,"Programmer-2",1,0,0,0,1,1,0,1,1,0,0,2,2,1,1,1,1,1,1,1
+578,"Brooke Rounds",18,23,1.3,"AI","Machine Learning","JS","English","Hindi","Japenese",2,3,5,6,2,5,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+579,"Allen Peterson",5,7,1.4,"AI","Machine Learning","Mobile","English","Kannada","Hindi",1,2,0,1,1,2,"Programmer-2",3,3,3,3,1,1,0,1,1,1,1,4,4,1,0,0,0,2,2,1
+580,"Norman Jones",14,10,0.7,"JS","Machine Learning","Java","English","Malayalam","Telugu",3,0,0,3,3,1,"Deployment-1",1,1,1,1,1,1,0,1,2,2,2,1,1,1,1,1,1,1,1,1
+581,"Margaret Miller",24,24,1,"JS","Machine Learning","Mobile","English","Malayalam","Telugu",2,4,5,4,4,5,"Deployment-1",3,3,3,3,1,1,0,1,1,1,1,1,1,4,4,4,4,2,2,1
+582,"David Lowry",6,5,0.8,"Java","Machine Learning","JS","English","Kannada","Telugu",1,2,1,0,0,1,"Programmer-3",3,3,3,3,0,0,0,1,1,1,1,1,1,2,2,2,2,1,1,0
+583,"Ray Scarnati",24,20,0.8,"AI","JS","Machine Learning","English","Telugu","Malayalam",1,2,4,7,4,2,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,4,4,3,3,3,3,1,1,1
+584,"Maria Blevins",8,6,0.8,"Java","JS","Machine Learning","English","Chinese","Japenese",2,1,1,0,1,1,"Programmer-3",2,2,2,2,1,1,0,1,1,1,1,1,1,3,3,3,3,1,1,1
+585,"Jenny Baxter",13,12,0.9,"JS","Java","DotNet","English","Chinese","Kannada",3,0,3,1,4,1,"Deployment-1",1,0,0,0,2,2,0,2,3,3,3,1,1,4,4,4,4,1,1,2
+586,"Sarah Marshall",23,16,0.7,"AI","JS","Machine Learning","English","Japenese","Telugu",4,5,1,3,1,2,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,4,4,3,3,3,3,1,1,1
+587,"William Britt",7,10,1.4,"Java","AI","JS","English","Chinese","Kannada",3,2,0,1,3,1,"Deployment-1",1,1,1,1,1,1,0,1,4,4,4,3,3,1,1,1,1,1,1,1
+588,"Dale Hardy",21,21,1,"Mobile","Java","Machine Learning","English","Japenese","Kannada",3,4,4,4,2,4,"Deployment-1",2,2,2,2,1,1,0,1,3,3,3,1,1,1,1,1,1,4,4,1
+589,"Mark Tacadina",24,20,0.8,"Java","Machine Learning","Mobile","English","Tamil","Hindi",2,6,4,2,2,4,"Deployment-2",3,3,3,3,1,1,0,1,4,4,4,1,1,1,1,1,1,2,2,1
+590,"Renee Jackson",2,2,1,"Java","JS","Mobile","English","Japenese","Hindi",1,0,1,0,0,0,"Programmer-3",1,0,0,0,0,0,0,1,1,1,1,1,1,3,3,3,3,1,1,0
+591,"Jessica Mitchell",6,19,3.2,"Java","DotNet","Machine Learning","English","Hindi","Chinese",7,4,1,4,2,1,"Programmer-1",2,2,2,2,3,3,0,3,4,4,4,1,1,1,1,1,1,1,1,3
+592,"Violet Vincent",22,19,0.9,"AI","Java","Machine Learning","English","Japenese","Tamil",2,3,2,5,5,2,"Deployment-1",2,2,2,2,1,1,0,1,3,3,3,4,4,1,1,1,1,1,1,1
+593,"Dorene Moore",12,17,1.4,"Machine Learning","Java","Mobile","English","Japenese","Tamil",4,6,0,1,2,4,"Team Lead",4,4,4,4,1,1,0,1,3,3,3,1,1,1,0,0,0,2,2,1
+594,"Elliot Parenteau",17,29,1.7,"DotNet","Mobile","JS","English","Malayalam","Kannada",7,3,5,5,4,5,"Project Manager",1,1,1,1,4,4,0,4,1,1,1,1,1,2,2,2,2,3,3,4
+595,"Mario Crafton",4,7,1.8,"Mobile","Machine Learning","AI","English","Malayalam","Japenese",0,4,0,1,1,1,"Programmer-2",3,3,3,3,1,1,0,1,1,1,1,1,1,1,0,0,0,4,4,1
+596,"Henry Williams",18,25,1.4,"Machine Learning","AI","Java","English","Malayalam","Kannada",4,7,3,5,4,2,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,3,3,1,1,1,1,1,1,1
+597,"Ruby Peters",5,8,1.6,"AI","JS","Mobile","English","Kannada","Chinese",1,4,0,0,2,1,"Programmer-2",1,1,1,1,1,1,0,1,1,0,0,4,4,1,1,1,1,2,2,1
+598,"Eunice Mullen",19,23,1.2,"JS","Machine Learning","Java","English","Malayalam","Telugu",2,2,7,3,5,4,"Team Lead",3,3,3,3,1,1,0,1,2,2,2,1,1,4,4,4,4,1,1,1
+599,"Betty Wood",20,26,1.3,"DotNet","JS","Java","English","Malayalam","Telugu",6,5,5,4,2,4,"Team Lead",1,1,1,1,4,4,0,4,2,2,2,1,1,3,3,3,3,1,1,4
+600,"Michael Everson",15,13,0.9,"Java","AI","JS","English","Hindi","Tamil",0,5,3,2,1,2,"Deployment-2",1,1,1,1,1,1,0,1,4,4,4,1,1,2,2,2,2,1,1,1
+601,"Jamal Kelley",3,5,1.7,"Java","JS","Machine Learning","English","Telugu","Japenese",1,0,2,0,2,0,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,1,1,3,3,3,3,0,0,1
+602,"Joe Ponce",4,7,1.8,"JS","AI","Mobile","English","Japenese","Chinese",3,2,0,2,0,0,"Programmer-2",1,1,1,1,0,0,0,1,1,1,1,3,3,1,1,1,1,1,1,0
+603,"Kevin Gonzales",21,23,1.1,"Java","Mobile","JS","English","Malayalam","Hindi",3,3,7,2,4,4,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,1,1,2,2,2,2,3,3,1
+604,"Rolando Jones",7,6,0.9,"Mobile","AI","Java","English","Chinese","Telugu",0,2,2,1,0,1,"Programmer-3",1,1,1,1,0,0,0,1,2,2,2,1,1,1,1,1,1,4,4,0
+605,"Dana Stout",22,20,0.9,"JS","Machine Learning","AI","English","Japenese","Hindi",3,4,4,4,4,1,"Deployment-1",3,3,3,3,1,1,0,1,1,1,1,2,2,4,4,4,4,1,1,1
+606,"Jessica Clark",6,13,2.2,"DotNet","AI","Mobile","English","Chinese","Malayalam",3,5,3,0,1,1,"Programmer-1",1,1,1,1,4,4,0,4,1,0,0,3,3,1,1,1,1,2,2,4
+607,"Manuel Jamison",10,12,1.2,"DotNet","Mobile","Java","English","Japenese","Tamil",2,4,2,0,3,1,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,1,1,1,1,1,1,3,3,4
+608,"Annette Watson",19,26,1.4,"JS","Mobile","Java","English","Chinese","Kannada",1,6,4,6,4,5,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,1,1,4,4,4,4,3,3,1
+609,"John Boisen",10,6,0.6,"Mobile","JS","Machine Learning","English","Chinese","Japenese",1,2,2,1,0,0,"Programmer-3",2,2,2,2,0,0,0,1,1,1,1,1,1,3,3,3,3,1,1,0
+610,"Indira Broaddus",4,3,0.8,"Machine Learning","AI","JS","English","Telugu","Chinese",2,1,0,0,0,0,"Programmer-3",4,4,4,4,0,0,0,1,1,0,0,3,3,1,1,1,1,0,0,0
+611,"Waldo Sanchez",4,6,1.5,"Java","AI","Machine Learning","English","Kannada","Tamil",5,0,1,0,0,0,"Programmer-2",1,1,1,1,0,0,0,1,1,1,1,3,3,1,1,1,1,0,0,0
+612,"Stephanie Rosenzweig",8,11,1.4,"Java","Mobile","AI","English","Chinese","Tamil",0,2,3,0,3,3,"Deployment-1",1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,3,3,1
+613,"Marie Mitchell",22,24,1.1,"Java","Mobile","Machine Learning","English","Tamil","Malayalam",6,1,2,5,4,6,"Team Lead",2,2,2,2,1,1,0,1,4,4,4,1,1,1,1,1,1,3,3,1
+614,"Shawn Shackelford",22,23,1,"JS","Mobile","DotNet","English","Kannada","Tamil",4,4,3,1,7,4,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,1,1,4,4,4,4,3,3,2
+615,"Karen Sumler",17,25,1.5,"DotNet","AI","Machine Learning","English","Tamil","Malayalam",6,9,4,1,3,2,"Team Lead",2,2,2,2,4,4,0,4,1,1,1,3,3,1,1,1,1,1,1,4
+616,"William Jeter",8,16,2,"AI","Mobile","JS","English","Hindi","Tamil",2,3,2,2,4,3,"Programmer-1",1,1,1,1,1,1,0,1,1,1,1,4,4,2,2,2,2,3,3,1
+617,"Sylvia Eubanks",16,22,1.4,"AI","DotNet","Java","English","Telugu","Kannada",4,1,2,4,7,4,"Team Lead",1,1,1,1,3,3,0,3,2,2,2,4,4,1,1,1,1,1,1,3
+618,"Gregory Nichols",22,28,1.3,"JS","Machine Learning","DotNet","English","Japenese","Tamil",6,4,2,8,5,3,"Team Lead",3,3,3,3,2,2,0,2,1,1,1,1,1,4,4,4,4,1,1,2
+619,"Kathy Cook",4,7,1.8,"Machine Learning","Java","DotNet","English","Tamil","Japenese",3,1,0,0,1,2,"Programmer-2",4,4,4,4,2,2,0,2,1,1,1,1,1,1,0,0,0,1,1,2
+620,"Alexander Graham",24,16,0.7,"AI","Mobile","Java","English","Chinese","Malayalam",4,4,3,2,3,0,"Deployment-1",1,1,1,1,1,1,0,1,2,2,2,4,4,1,1,1,1,1,1,1
+621,"Bennie Coffey",24,25,1,"Java","Machine Learning","DotNet","English","Hindi","Japenese",5,5,6,2,4,3,"Team Lead",3,3,3,3,2,2,0,2,4,4,4,1,1,1,1,1,1,1,1,2
+622,"Allison Patten",11,10,0.9,"DotNet","Mobile","AI","English","Telugu","Malayalam",3,1,1,3,1,1,"Deployment-1",1,1,1,1,4,4,0,4,1,1,1,2,2,1,1,1,1,3,3,4
+623,"James Cacy",5,2,0.4,"JS","Machine Learning","Java","English","Kannada","Japenese",1,1,0,0,0,0,"Testing and Debugging",3,3,3,3,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0
+624,"Terrell Timme",15,8,0.5,"AI","Java","Machine Learning","English","Japenese","Telugu",2,0,2,0,3,1,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,4,4,1,1,1,1,1,1,1
+625,"Ronald Milar",14,19,1.4,"AI","Mobile","JS","English","Telugu","Tamil",5,3,5,1,3,2,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,4,4,2,2,2,2,3,3,1
+626,"Craig Girouard",11,15,1.4,"Machine Learning","JS","Java","English","Kannada","Tamil",1,3,2,5,1,3,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,1,1,3,3,3,3,1,1,1
+627,"Shelby Hillery",17,29,1.7,"DotNet","Machine Learning","Mobile","English","Japenese","Telugu",8,3,6,3,1,8,"Project Manager",3,3,3,3,4,4,0,4,1,1,1,1,1,1,1,1,1,2,2,4
+628,"Patrick Biddle",10,16,1.6,"AI","DotNet","JS","English","Telugu","Tamil",3,0,2,5,3,3,"Team Lead",1,0,0,0,3,3,0,3,1,1,1,4,4,2,2,2,2,1,1,3
+629,"Michael Young",18,15,0.8,"Java","AI","JS","English","Tamil","Telugu",1,3,5,3,0,3,"Deployment-1",1,1,1,1,0,0,0,1,4,4,4,3,3,2,2,2,2,1,1,0
+630,"Elizabeth Morreale",19,21,1.1,"JS","Mobile","DotNet","English","Tamil","Kannada",6,1,4,4,4,2,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,1,1,4,4,4,4,3,3,2
+631,"David Abraham",12,9,0.8,"Mobile","AI","Java","English","Hindi","Japenese",0,0,4,3,1,1,"Programmer-3",1,0,0,0,1,1,0,1,2,2,2,1,1,1,1,1,1,4,4,1
+632,"Diana Burchett",5,7,1.4,"JS","Java","AI","English","Kannada","Tamil",3,3,1,0,0,0,"Programmer-2",1,1,1,1,0,0,0,1,1,1,1,2,2,4,4,4,4,0,0,0
+633,"Courtney Bergeron",21,15,0.7,"AI","DotNet","JS","English","Malayalam","Hindi",2,5,1,3,2,2,"Deployment-1",1,1,1,1,3,3,0,3,1,1,1,4,4,2,2,2,2,1,1,3
+634,"Clifford Boyd",2,9,4.5,"DotNet","Mobile","JS","English","Hindi","Tamil",2,2,2,1,0,2,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,1,1,2,2,2,2,3,3,1
+635,"Deann Jefferies",17,26,1.5,"DotNet","Mobile","JS","English","Telugu","Kannada",5,3,7,3,6,2,"Project Manager",1,1,1,1,4,4,0,4,1,1,1,1,1,2,2,2,2,3,3,4
+636,"Julius Latus",16,15,0.9,"Java","AI","Machine Learning","English","Malayalam","Telugu",1,3,0,2,5,4,"Deployment-1",2,2,2,2,1,1,0,1,4,4,4,3,3,1,0,0,0,1,1,1
+637,"Sandra Cottingham",15,15,1,"Machine Learning","Java","AI","English","Chinese","Malayalam",5,4,1,1,2,2,"Testing and Debugging",4,4,4,4,1,1,0,1,3,3,3,2,2,1,1,1,1,1,1,1
+638,"John Bennett",12,10,0.8,"Machine Learning","Mobile","Java","English","Tamil","Hindi",4,0,4,0,0,2,"Deployment-2",1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,3,3,0
+639,"Amanda Marble",23,17,0.7,"JS","Mobile","Java","English","Kannada","Tamil",3,3,4,3,1,3,"Deployment-1",1,1,1,1,1,1,0,1,2,2,2,1,1,4,4,4,4,3,3,1
+640,"Donald Carrier",7,15,2.1,"JS","AI","DotNet","English","Kannada","Hindi",1,4,3,3,4,0,"Programmer-1",1,1,1,1,2,2,0,2,1,1,1,3,3,4,4,4,4,0,0,2
+641,"Lillian Walker",24,16,0.7,"Java","Mobile","Machine Learning","English","Japenese","Kannada",3,3,2,2,2,4,"Deployment-2",2,2,2,2,1,1,0,1,4,4,4,1,1,1,1,1,1,3,3,1
+642,"Charles Hilde",19,26,1.4,"JS","DotNet","AI","English","Malayalam","Tamil",5,8,5,1,3,4,"Team Lead",1,1,1,1,3,3,0,3,1,1,1,2,2,4,4,4,4,1,1,3
+643,"Jeffrey Siddoway",6,15,2.5,"JS","DotNet","AI","English","Tamil","Kannada",5,0,4,3,2,1,"Programmer-1",1,0,0,0,3,3,0,3,1,1,1,2,2,4,4,4,4,1,1,3
+644,"James Keys",8,15,1.9,"JS","AI","Java","English","Kannada","Tamil",1,3,2,5,2,2,"Programmer-1",1,1,1,1,1,1,0,1,2,2,2,3,3,4,4,4,4,1,1,1
+645,"Sarah Cacioppo",2,4,2,"AI","Machine Learning","Mobile","English","Tamil","Telugu",0,0,2,1,1,0,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+646,"Evelyn Wallick",9,14,1.6,"AI","JS","Java","English","Tamil","Malayalam",2,1,2,1,3,5,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,4,4,3,3,3,3,1,1,1
+647,"Kyle Knott",6,14,2.3,"Machine Learning","Java","DotNet","English","Telugu","Kannada",5,2,3,1,3,0,"Programmer-1",4,4,4,4,2,2,0,2,3,3,3,1,1,1,1,1,1,0,0,2
+648,"Dorothy Rodriguez",19,27,1.4,"DotNet","AI","Machine Learning","English","Chinese","Telugu",4,6,6,4,3,4,"Team Lead",2,2,2,2,4,4,0,4,1,1,1,3,3,1,1,1,1,1,1,4
+649,"Charles Johnson",23,19,0.8,"AI","Machine Learning","Java","English","Kannada","Telugu",3,3,2,1,5,5,"Deployment-1",3,3,3,3,1,1,0,1,2,2,2,4,4,1,1,1,1,1,1,1
+650,"Jeff Porter",6,7,1.2,"Java","JS","DotNet","English","Chinese","Hindi",2,2,0,1,1,1,"Programmer-2",1,1,1,1,2,2,0,2,4,4,4,1,1,1,1,1,1,1,1,2
+651,"Marshall Russell",10,16,1.6,"Mobile","DotNet","Machine Learning","English","Japenese","Telugu",3,5,3,3,0,2,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,1,1,1,1,1,1,4,4,1
+652,"Mary Mcclain",5,5,1,"Mobile","DotNet","AI","English","Telugu","Hindi",1,1,2,1,0,0,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,2,2,1,1,1,1,1,1,1
+653,"Christopher Shultz",15,19,1.3,"Machine Learning","JS","AI","English","Kannada","Japenese",4,4,2,4,3,2,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,2,2,3,3,3,3,1,1,1
+654,"James White",7,11,1.6,"Mobile","AI","DotNet","English","Chinese","Malayalam",1,1,1,1,3,4,"Programmer-1",1,1,1,1,2,2,0,2,1,1,1,3,3,1,1,1,1,4,4,2
+655,"Jason Salas",2,7,3.5,"Java","Mobile","JS","English","Telugu","Hindi",1,1,0,2,2,1,"Programmer-2",1,1,1,1,1,1,0,1,4,4,4,1,1,1,1,1,1,3,3,1
+656,"Marjorie George",7,14,2,"Machine Learning","DotNet","Java","English","Hindi","Kannada",2,1,3,1,4,3,"Programmer-1",4,4,4,4,3,3,0,3,2,2,2,1,1,1,1,1,1,1,1,3
+657,"Bryan Staples",23,21,0.9,"JS","Machine Learning","Java","English","Hindi","Tamil",1,1,7,5,6,1,"Deployment-1",3,3,3,3,1,1,0,1,2,2,2,1,1,4,4,4,4,1,1,1
+658,"Rose Kirkland",22,25,1.1,"JS","Java","Machine Learning","English","Chinese","Tamil",4,2,5,4,5,5,"Team Lead",2,2,2,2,1,1,0,1,3,3,3,1,1,4,4,4,4,1,1,1
+659,"Jack Magana",19,22,1.2,"JS","Java","Machine Learning","English","Japenese","Kannada",4,3,6,3,2,4,"Team Lead",2,2,2,2,1,1,0,1,3,3,3,1,1,4,4,4,4,1,1,1
+660,"Tony Webb",16,19,1.2,"Mobile","Machine Learning","JS","English","Malayalam","Tamil",5,2,2,3,5,2,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,1,1,2,2,2,2,4,4,1
+661,"Jesus Cameron",3,4,1.3,"DotNet","Java","Mobile","English","Telugu","Malayalam",0,0,1,1,2,0,"Programmer-2",1,0,0,0,4,4,0,4,3,3,3,0,0,1,1,1,1,1,1,4
+662,"Carlos Verdin",21,16,0.8,"Mobile","AI","Machine Learning","English","Kannada","Malayalam",3,3,4,3,3,0,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,3,3,1,1,1,1,1,1,1
+663,"Joseph Frey",7,6,0.9,"Mobile","Java","AI","English","Japenese","Telugu",0,2,2,0,0,2,"Programmer-3",1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,4,4,0
+664,"Robert Lieberman",8,15,1.9,"JS","DotNet","Mobile","English","Chinese","Malayalam",2,5,1,5,1,1,"Programmer-1",1,1,1,1,3,3,0,3,1,1,1,1,1,4,4,4,4,2,2,3
+665,"Doris Alverez",12,5,0.4,"JS","Java","AI","English","Telugu","Japenese",3,0,0,1,1,0,"Testing and Debugging",1,0,0,0,1,1,0,1,3,3,3,2,2,1,1,1,1,0,0,1
+666,"Lynne Yanez",24,16,0.7,"Mobile","JS","Machine Learning","English","Hindi","Tamil",3,2,6,0,1,4,"Deployment-2",2,2,2,2,1,1,0,1,1,0,0,1,1,3,3,3,3,4,4,1
+667,"Gina Auten",11,15,1.4,"JS","Mobile","AI","English","Malayalam","Japenese",3,5,3,3,1,0,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,2,2,4,4,4,4,1,1,1
+668,"Charlie Smith",10,17,1.7,"Machine Learning","Mobile","AI","English","Telugu","Hindi",2,3,5,2,3,2,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,2,2,1,1,1,1,3,3,1
+669,"Charles Reid",18,23,1.3,"Java","DotNet","AI","English","Hindi","Japenese",5,1,3,5,4,5,"Team Lead",1,1,1,1,3,3,0,3,4,4,4,2,2,1,1,1,1,1,1,3
+670,"Milton Quigley",6,17,2.8,"AI","Mobile","Machine Learning","English","Japenese","Tamil",2,3,1,3,3,5,"Programmer-1",2,2,2,2,1,1,0,1,1,1,1,4,4,1,1,1,1,3,3,1
+671,"Deann Schmidt",12,13,1.1,"JS","DotNet","Java","English","Malayalam","Telugu",0,3,6,1,1,2,"Team Lead",1,1,1,1,3,3,0,3,2,2,2,0,0,4,4,4,4,1,1,3
+672,"Lucy Machen",14,15,1.1,"JS","Java","AI","English","Malayalam","Japenese",2,4,6,2,0,1,"Team Lead",1,1,1,1,0,0,0,1,3,3,3,2,2,4,4,4,4,1,1,0
+673,"Joe Harris",7,15,2.1,"JS","Java","DotNet","English","Malayalam","Japenese",2,2,3,5,1,2,"Programmer-1",1,1,1,1,2,2,0,2,3,3,3,1,1,4,4,4,4,1,1,2
+674,"Staci Beach",12,11,0.9,"Mobile","JS","DotNet","English","Hindi","Tamil",1,3,1,1,3,2,"Deployment-1",1,1,1,1,2,2,0,2,1,1,1,1,1,3,3,3,3,4,4,2
+675,"Helen Johnson",4,4,1,"AI","Machine Learning","Java","English","Tamil","Chinese",1,0,2,1,0,0,"Programmer-3",1,1,1,1,0,0,0,1,2,2,2,4,4,1,1,1,1,0,0,0
+676,"William Wojenski",6,6,1,"Mobile","JS","Java","English","Telugu","Kannada",1,1,2,1,0,1,"Programmer-3",1,1,1,1,0,0,0,1,2,2,2,1,1,3,3,3,3,4,4,0
+677,"Elizabeth Caldwell",22,23,1,"DotNet","AI","JS","English","Japenese","Chinese",4,4,2,5,5,3,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,3,3,2,2,2,2,1,1,4
+678,"Kathleen Yazzie",3,8,2.7,"Machine Learning","Java","Mobile","English","Tamil","Kannada",1,1,2,0,2,2,"Programmer-2",4,4,4,4,1,1,0,1,1,1,1,1,1,1,1,1,1,2,2,1
+679,"David Whitaker",6,14,2.3,"JS","Machine Learning","Java","English","Tamil","Malayalam",5,1,2,0,3,3,"Programmer-1",3,3,3,3,1,1,0,1,1,1,1,1,1,4,4,4,4,1,1,1
+680,"Robert Simon",7,12,1.7,"DotNet","Mobile","Java","English","Hindi","Kannada",6,1,1,1,3,0,"Programmer-1",1,1,1,1,4,4,0,4,2,2,2,1,1,1,1,1,1,1,1,4
+681,"Eric Smith",11,14,1.3,"Java","JS","Mobile","English","Kannada","Japenese",4,0,4,1,4,1,"Team Lead",1,0,0,0,1,1,0,1,4,4,4,1,1,3,3,3,3,2,2,1
+682,"Peter Ozuna",12,12,1,"JS","Java","DotNet","English","Kannada","Malayalam",2,5,2,1,0,2,"Testing and Debugging",1,1,1,1,1,1,0,1,3,3,3,1,1,4,4,4,4,1,1,1
+683,"Stephen Ross",12,13,1.1,"JS","AI","Mobile","English","Kannada","Tamil",3,6,1,1,1,1,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,3,3,4,4,4,4,2,2,1
+684,"Ronald Brown",13,8,0.6,"Machine Learning","Java","AI","English","Kannada","Chinese",2,2,3,1,0,0,"Programmer-3",4,4,4,4,0,0,0,1,3,3,3,2,2,1,1,1,1,0,0,0
+685,"Alberta Fanter",20,17,0.9,"Java","DotNet","AI","English","Tamil","Telugu",1,1,4,4,4,3,"Deployment-1",1,1,1,1,3,3,0,3,4,4,4,2,2,1,1,1,1,1,1,3
+686,"Jennifer Robinson",4,4,1,"AI","JS","Mobile","English","Tamil","Chinese",0,2,2,0,0,0,"Programmer-3",1,1,1,1,0,0,0,1,1,0,0,1,1,3,3,3,3,1,1,0
+687,"Andrew Lehman",14,11,0.8,"JS","DotNet","Java","English","Telugu","Hindi",2,1,2,3,0,3,"Deployment-1",1,1,1,1,1,1,0,1,2,2,2,1,1,4,4,4,4,1,1,1
+688,"James Medlock",2,3,1.5,"Mobile","Java","Machine Learning","English","Malayalam","Japenese",1,0,0,2,0,0,"Programmer-2",1,1,1,1,0,0,0,1,3,3,3,1,1,1,0,0,0,1,1,0
+689,"Brittany Thompkins",5,3,0.6,"DotNet","Machine Learning","JS","English","Hindi","Tamil",0,1,0,2,0,0,"Programmer-3",3,3,3,3,1,1,0,1,1,1,1,0,0,1,1,1,1,0,0,1
+690,"Brian Best",23,22,1,"Java","AI","Machine Learning","English","Telugu","Chinese",4,6,4,1,4,3,"Deployment-1",2,2,2,2,1,1,0,1,4,4,4,3,3,1,1,1,1,1,1,1
+691,"Ricky Lee",10,6,0.6,"JS","AI","Mobile","English","Japenese","Malayalam",1,0,0,3,0,2,"Programmer-3",1,0,0,0,0,0,0,1,1,1,1,3,3,1,1,1,1,2,2,0
+692,"Lillian Masom",15,8,0.5,"Mobile","Machine Learning","JS","English","Hindi","Kannada",2,3,1,0,1,1,"Programmer-3",3,3,3,3,1,1,0,1,1,0,0,1,1,2,2,2,2,4,4,1
+693,"Margaret Mettler",20,27,1.4,"AI","Mobile","JS","English","Kannada","Malayalam",2,6,7,5,4,3,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,4,4,2,2,2,2,3,3,1
+694,"Shane Jones",7,15,2.1,"Machine Learning","AI","JS","English","Kannada","Chinese",3,3,1,5,1,2,"Programmer-1",4,4,4,4,1,1,0,1,1,1,1,3,3,2,2,2,2,1,1,1
+695,"Michael Anderman",10,14,1.4,"Machine Learning","Java","JS","English","Hindi","Japenese",4,4,1,2,2,1,"Team Lead",4,4,4,4,1,1,0,1,3,3,3,1,1,2,2,2,2,1,1,1
+696,"Brandon Wallace",4,3,0.8,"DotNet","JS","Machine Learning","English","Japenese","Tamil",1,2,0,0,0,0,"Programmer-3",2,2,2,2,1,1,0,1,1,0,0,1,1,1,1,1,1,0,0,1
+697,"Elizabeth Yeend",17,18,1.1,"Mobile","Java","DotNet","English","Tamil","Telugu",5,1,2,2,5,3,"Team Lead",1,1,1,1,2,2,0,2,3,3,3,1,1,1,1,1,1,4,4,2
+698,"Katelyn Pearson",21,25,1.2,"AI","DotNet","Machine Learning","English","Kannada","Hindi",4,1,7,4,4,5,"Team Lead",2,2,2,2,3,3,0,3,1,1,1,4,4,1,1,1,1,1,1,3
+699,"Viola Montoya",8,16,2,"Mobile","Java","JS","English","Telugu","Hindi",1,1,6,4,2,2,"Programmer-1",1,1,1,1,1,1,0,1,3,3,3,1,1,2,2,2,2,4,4,1
+700,"Dana Amin",23,28,1.2,"JS","Java","AI","English","Hindi","Kannada",3,5,5,5,8,2,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,2,2,4,4,4,4,1,1,1
+701,"Martha Robinson",22,19,0.9,"Machine Learning","DotNet","AI","English","Japenese","Hindi",5,3,2,5,3,1,"Deployment-1",4,4,4,4,3,3,0,3,1,1,1,2,2,1,1,1,1,1,1,3
+702,"Rita Miller",11,9,0.8,"Java","Machine Learning","JS","English","Tamil","Telugu",2,0,3,3,0,1,"Programmer-3",1,1,1,1,0,0,0,1,4,4,4,1,1,2,2,2,2,1,1,0
+703,"Linda Crawford",21,23,1.1,"JS","Java","Mobile","English","Chinese","Malayalam",1,5,2,6,5,4,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,1,1,4,4,4,4,2,2,1
+704,"Jonathan Cochran",16,16,1,"Machine Learning","AI","Java","English","Tamil","Chinese",3,6,1,3,1,2,"Deployment-1",4,4,4,4,1,1,0,1,2,2,2,3,3,1,1,1,1,1,1,1
+705,"Mark Odell",14,9,0.6,"Machine Learning","Java","AI","English","Hindi","Kannada",1,1,3,1,2,1,"Programmer-3",4,4,4,4,1,1,0,1,3,3,3,2,2,1,1,1,1,1,1,1
+706,"Catherine Ellis",24,27,1.1,"JS","AI","DotNet","English","Japenese","Chinese",4,4,3,10,4,2,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,3,3,4,4,4,4,1,1,2
+707,"Christopher Stuckey",24,22,0.9,"AI","DotNet","JS","English","Japenese","Tamil",5,3,2,3,5,4,"Deployment-1",1,1,1,1,3,3,0,3,1,1,1,4,4,2,2,2,2,1,1,3
+708,"Pedro Mcginnis",7,12,1.7,"Mobile","AI","DotNet","English","Hindi","Japenese",2,2,4,1,2,1,"Programmer-1",1,1,1,1,2,2,0,2,1,1,1,3,3,1,1,1,1,4,4,2
+709,"Royce Bowers",8,6,0.8,"DotNet","Java","Mobile","English","Chinese","Telugu",4,2,0,0,0,0,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,1,1,1
+710,"Brendon Irvine",15,10,0.7,"Java","Machine Learning","AI","English","Malayalam","Telugu",1,2,1,2,2,2,"Testing and Debugging",3,3,3,3,1,1,0,1,4,4,4,2,2,1,1,1,1,1,1,1
+711,"Charles Daniels",21,15,0.7,"Machine Learning","Mobile","AI","English","Kannada","Chinese",0,3,6,2,1,3,"Deployment-2",4,4,4,4,1,1,0,1,1,1,1,1,1,1,1,1,1,3,3,1
+712,"John Gonzalez",6,16,2.7,"DotNet","Machine Learning","Mobile","English","Telugu","Chinese",4,3,3,3,2,1,"Programmer-1",3,3,3,3,4,4,0,4,1,1,1,1,1,1,1,1,1,2,2,4
+713,"Stanley Hooks",20,27,1.4,"Machine Learning","JS","AI","English","Malayalam","Hindi",5,5,7,5,3,2,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,2,2,3,3,3,3,1,1,1
+714,"George Prosser",15,15,1,"Mobile","DotNet","AI","English","Hindi","Chinese",4,2,2,3,3,1,"Deployment-1",1,1,1,1,3,3,0,3,1,1,1,2,2,1,1,1,1,4,4,3
+715,"Alexander Fitzsimmons",8,8,1,"AI","JS","Machine Learning","English","Hindi","Malayalam",1,5,1,1,0,0,"Programmer-3",2,2,2,2,0,0,0,1,1,1,1,4,4,3,3,3,3,0,0,0
+716,"Beth Short",15,16,1.1,"Java","AI","Machine Learning","English","Kannada","Tamil",1,4,4,2,5,0,"Team Lead",2,2,2,2,1,1,0,1,4,4,4,3,3,1,1,1,1,0,0,1
+717,"Russell Bacon",20,21,1.1,"AI","JS","Mobile","English","Chinese","Japenese",4,5,2,6,2,2,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,4,4,3,3,3,3,2,2,1
+718,"David Butler",7,11,1.6,"Java","DotNet","Machine Learning","English","Kannada","Telugu",2,1,1,2,2,3,"Programmer-1",2,2,2,2,3,3,0,3,4,4,4,1,1,1,1,1,1,1,1,3
+719,"Dina Mahoney",17,15,0.9,"JS","AI","Machine Learning","English","Tamil","Telugu",5,4,1,1,4,0,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,3,3,4,4,4,4,0,0,1
+720,"Carl Heyde",16,26,1.6,"Machine Learning","Mobile","Java","English","Kannada","Telugu",5,4,2,3,6,6,"Project Manager",4,4,4,4,1,1,0,1,2,2,2,1,1,1,1,1,1,3,3,1
+721,"Michael Ferguson",7,11,1.6,"AI","DotNet","JS","English","Telugu","Malayalam",2,3,2,1,0,3,"Programmer-1",1,1,1,1,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+722,"Maureen Johnson",4,3,0.8,"Java","JS","AI","English","Chinese","Malayalam",1,0,0,2,0,0,"Programmer-3",1,0,0,0,0,0,0,1,4,4,4,2,2,1,1,1,1,0,0,0
+723,"Katherine Cornell",18,27,1.5,"AI","DotNet","Java","English","Kannada","Chinese",4,4,6,5,4,4,"Team Lead",1,1,1,1,3,3,0,3,2,2,2,4,4,1,1,1,1,1,1,3
+724,"Roxanne Furr",2,2,1,"Mobile","Java","DotNet","English","Japenese","Telugu",0,0,2,0,0,0,"Programmer-3",1,0,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1
+725,"Sandra Onks",6,12,2,"DotNet","AI","JS","English","Kannada","Tamil",2,0,3,2,1,4,"Programmer-1",1,0,0,0,4,4,0,4,1,1,1,3,3,2,2,2,2,1,1,4
+726,"Mabel Duane",8,18,2.3,"DotNet","JS","AI","English","Telugu","Malayalam",4,5,3,2,0,4,"Programmer-1",1,1,1,1,1,1,0,1,1,1,1,2,2,3,3,3,3,1,1,1
+727,"Michael Harrison",21,26,1.2,"AI","Machine Learning","Java","English","Tamil","Telugu",8,4,3,4,1,6,"Team Lead",3,3,3,3,1,1,0,1,2,2,2,4,4,1,1,1,1,1,1,1
+728,"Linda Zane",24,18,0.8,"AI","Mobile","Java","English","Tamil","Chinese",5,2,5,3,2,1,"Deployment-1",1,1,1,1,1,1,0,1,2,2,2,4,4,1,1,1,1,3,3,1
+729,"Joni Eakin",20,29,1.5,"AI","Machine Learning","Mobile","English","Malayalam","Tamil",5,3,5,5,7,4,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,4,4,1,1,1,1,2,2,1
+730,"Rubin Centini",8,19,2.4,"Mobile","JS","AI","English","Malayalam","Telugu",1,3,3,2,7,3,"Programmer-1",1,1,1,1,1,1,0,1,1,1,1,2,2,3,3,3,3,4,4,1
+731,"Wayne Brandenberger",23,19,0.8,"DotNet","JS","Mobile","English","Telugu","Hindi",3,3,3,1,4,5,"Deployment-1",1,1,1,1,4,4,0,4,1,1,1,1,1,3,3,3,3,2,2,4
+732,"Susan Lassiter",8,17,2.1,"Java","Machine Learning","DotNet","English","Kannada","Telugu",5,1,3,1,5,2,"Programmer-1",3,3,3,3,2,2,0,2,4,4,4,1,1,1,1,1,1,1,1,2
+733,"David Hyneman",5,6,1.2,"DotNet","Mobile","Machine Learning","English","Japenese","Chinese",2,1,1,1,1,0,"Programmer-2",2,2,2,2,4,4,0,4,1,1,1,1,1,1,1,1,1,1,1,4
+734,"Esther Witherspoon",14,18,1.3,"DotNet","Machine Learning","Mobile","English","Kannada","Japenese",4,3,2,5,0,4,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,1,1,1,1,1,1,2,2,1
+735,"Ralph Harris",6,5,0.8,"Java","Machine Learning","DotNet","English","Japenese","Malayalam",1,0,0,0,3,1,"Programmer-3",1,1,1,1,2,2,0,2,1,1,1,1,1,1,0,0,0,1,1,2
+736,"China Lebovic",7,14,2,"Machine Learning","DotNet","JS","English","Malayalam","Hindi",1,4,5,2,1,1,"Programmer-1",4,4,4,4,3,3,0,3,1,1,1,1,1,2,2,2,2,1,1,3
+737,"Charles Connelly",9,18,2,"DotNet","Machine Learning","AI","English","Telugu","Chinese",2,5,4,2,3,2,"Team Lead",3,3,3,3,4,4,0,4,1,1,1,2,2,1,1,1,1,1,1,4
+738,"Nick William",23,15,0.7,"DotNet","Machine Learning","JS","English","Chinese","Malayalam",2,3,3,3,3,1,"Deployment-1",3,3,3,3,4,4,0,4,1,1,1,1,1,2,2,2,2,1,1,4
+739,"Simon Chapman",4,3,0.8,"Java","DotNet","AI","English","Hindi","Tamil",1,0,1,1,0,0,"Programmer-3",1,0,0,0,1,1,0,1,4,4,4,2,2,1,1,1,1,0,0,1
+740,"Gilbert Rowden",10,14,1.4,"Java","JS","Mobile","English","Telugu","Chinese",5,3,4,0,2,0,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,1,1,3,3,3,3,1,1,1
+741,"Raymond Rivera",15,12,0.8,"Mobile","DotNet","JS","English","Tamil","Chinese",5,1,1,1,3,1,"Deployment-1",1,1,1,1,3,3,0,3,1,1,1,1,1,2,2,2,2,4,4,3
+742,"Allen Hawkins",3,5,1.7,"Mobile","Machine Learning","AI","English","Japenese","Hindi",1,3,0,0,1,0,"Programmer-2",3,3,3,3,1,1,0,1,1,0,0,2,2,1,0,0,0,1,1,1
+743,"Larry Gibson",11,11,1,"DotNet","Mobile","Java","English","Hindi","Kannada",0,3,3,3,1,1,"Deployment-1",1,1,1,1,4,4,0,4,2,2,2,0,0,1,1,1,1,3,3,4
+744,"Karissa Taylor",2,4,2,"Machine Learning","DotNet","Mobile","English","Hindi","Chinese",1,1,0,2,0,0,"Programmer-2",4,4,4,4,1,1,0,1,1,1,1,1,1,1,0,0,0,1,1,1
+745,"Elias Trimble",17,29,1.7,"Machine Learning","Java","Mobile","English","Japenese","Kannada",5,3,3,4,5,9,"Project Manager",4,4,4,4,1,1,0,1,3,3,3,1,1,1,1,1,1,2,2,1
+746,"Paul Hicks",12,12,1,"Mobile","AI","Machine Learning","English","Japenese","Malayalam",3,2,4,1,1,1,"Deployment-2",2,2,2,2,1,1,0,1,1,1,1,3,3,1,1,1,1,4,4,1
+747,"Edwin Feldkamp",8,6,0.8,"DotNet","Mobile","JS","English","Tamil","Kannada",1,0,0,2,2,1,"Programmer-3",1,0,0,0,4,4,0,4,1,1,1,1,1,1,1,1,1,3,3,4
+748,"John Priest",23,17,0.7,"Machine Learning","AI","DotNet","English","Chinese","Tamil",4,3,3,4,2,1,"Deployment-1",4,4,4,4,2,2,0,2,1,1,1,3,3,1,1,1,1,1,1,2
+749,"Betty Yang",24,27,1.1,"Machine Learning","Mobile","DotNet","English","Kannada","Malayalam",3,7,6,8,1,2,"Team Lead",4,4,4,4,2,2,0,2,1,1,1,1,1,1,1,1,1,3,3,2
+750,"Jason Oneal",15,16,1.1,"Java","Mobile","Machine Learning","English","Telugu","Japenese",3,2,1,7,1,2,"Team Lead",2,2,2,2,1,1,0,1,4,4,4,1,1,1,1,1,1,3,3,1
+751,"Richard Vanicek",15,6,0.4,"Mobile","AI","Java","English","Japenese","Kannada",3,1,0,0,2,0,"Testing and Debugging",1,1,1,1,1,1,0,1,1,1,1,3,3,1,0,0,0,1,1,1
+752,"David Moore",13,7,0.5,"DotNet","JS","Mobile","English","Malayalam","Kannada",2,2,0,2,1,0,"Programmer-3",1,1,1,1,4,4,0,4,1,1,1,1,1,1,1,1,1,1,1,4
+753,"Walter Couch",10,9,0.9,"AI","Machine Learning","Mobile","English","Telugu","Kannada",3,2,1,2,1,0,"Programmer-3",3,3,3,3,1,1,0,1,1,1,1,4,4,1,1,1,1,1,1,1
+754,"Annette Oflaherty",12,16,1.3,"JS","DotNet","AI","English","Kannada","Tamil",2,3,3,2,3,3,"Team Lead",1,1,1,1,3,3,0,3,1,1,1,2,2,4,4,4,4,1,1,3
+755,"Duane Grant",11,19,1.7,"JS","Machine Learning","Mobile","English","Japenese","Hindi",3,5,5,1,1,4,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,1,1,4,4,4,4,2,2,1
+756,"Sean Virgilio",18,24,1.3,"JS","Java","DotNet","English","Telugu","Malayalam",3,2,3,7,5,4,"Team Lead",1,1,1,1,2,2,0,2,3,3,3,1,1,4,4,4,4,1,1,2
+757,"Ruby Davis",3,3,1,"Machine Learning","DotNet","Mobile","English","Chinese","Kannada",0,0,2,1,0,0,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1
+758,"Henry Wheeler",10,7,0.7,"Java","JS","AI","English","Hindi","Telugu",1,0,2,1,1,2,"Programmer-3",1,0,0,0,1,1,0,1,4,4,4,2,2,3,3,3,3,1,1,1
+759,"Shaun Vanhook",2,8,4,"Mobile","Machine Learning","DotNet","English","Hindi","Kannada",3,1,2,0,0,2,"Programmer-2",3,3,3,3,1,1,0,1,1,0,0,1,1,1,1,1,1,4,4,1
+760,"Jaime Manjarrez",19,29,1.5,"DotNet","Mobile","Java","English","Telugu","Hindi",1,6,8,7,4,3,"Project Manager",1,1,1,1,4,4,0,4,2,2,2,1,1,1,1,1,1,3,3,4
+761,"Josephine Johnson",23,21,0.9,"JS","Mobile","Java","English","Malayalam","Japenese",3,2,4,7,2,3,"Deployment-1",1,1,1,1,1,1,0,1,2,2,2,1,1,4,4,4,4,3,3,1
+762,"Clara Herring",6,16,2.7,"Machine Learning","JS","AI","English","Telugu","Japenese",3,2,5,3,2,1,"Programmer-1",4,4,4,4,1,1,0,1,1,1,1,2,2,3,3,3,3,1,1,1
+763,"James Stamdifer",16,25,1.6,"DotNet","Machine Learning","Java","English","Hindi","Chinese",6,2,4,7,4,2,"Project Manager",3,3,3,3,4,4,0,4,2,2,2,1,1,1,1,1,1,1,1,4
+764,"Kevin Cocks",5,5,1,"AI","JS","Mobile","English","Tamil","Malayalam",1,0,3,0,0,1,"Programmer-3",1,0,0,0,0,0,0,1,1,0,0,4,4,3,3,3,3,2,2,0
+765,"Daniel Cast",22,21,1,"DotNet","Machine Learning","JS","English","Japenese","Malayalam",5,4,4,2,2,4,"Deployment-2",3,3,3,3,4,4,0,4,1,1,1,1,1,2,2,2,2,1,1,4
+766,"Sarah Coates",23,24,1,"Mobile","Machine Learning","DotNet","English","Chinese","Hindi",4,0,2,12,4,2,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,1,1,1,1,1,1,4,4,2
+767,"Leo Nest",7,13,1.9,"DotNet","Machine Learning","Java","English","Chinese","Kannada",5,1,2,2,3,0,"Programmer-1",3,3,3,3,4,4,0,4,2,2,2,1,1,1,1,1,1,0,0,4
+768,"Sarah Gohn",24,26,1.1,"Mobile","Java","DotNet","English","Tamil","Malayalam",7,3,3,4,5,4,"Team Lead",1,1,1,1,2,2,0,2,3,3,3,1,1,1,1,1,1,4,4,2
+769,"Christian Medina",19,29,1.5,"AI","Java","Mobile","English","Malayalam","Kannada",8,5,5,2,2,7,"Project Manager",1,1,1,1,1,1,0,1,3,3,3,4,4,1,1,1,1,2,2,1
+770,"Edna Atwell",2,6,3,"JS","Mobile","DotNet","English","Telugu","Japenese",1,0,1,2,2,0,"Programmer-2",1,0,0,0,2,2,0,2,1,1,1,1,1,4,4,4,4,1,1,2
+771,"Tim Miller",10,18,1.8,"DotNet","AI","Machine Learning","English","Malayalam","Japenese",3,3,2,6,1,3,"Team Lead",2,2,2,2,4,4,0,4,1,1,1,3,3,1,1,1,1,1,1,4
+772,"Christy Delarosa",15,9,0.6,"JS","AI","Java","English","Japenese","Malayalam",0,0,6,1,1,1,"Programmer-3",1,0,0,0,1,1,0,1,2,2,2,1,1,4,4,4,4,1,1,1
+773,"Michael Graham",5,7,1.4,"Machine Learning","DotNet","Java","English","Chinese","Malayalam",0,3,1,1,2,0,"Programmer-2",4,4,4,4,3,3,0,3,2,2,2,0,0,1,1,1,1,0,0,3
+774,"Gary Lilly",16,18,1.1,"Mobile","JS","Machine Learning","English","Malayalam","Telugu",7,4,0,4,1,2,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,1,1,1,1,1,1,4,4,1
+775,"Steve Good",16,16,1,"AI","Mobile","Machine Learning","English","Hindi","Malayalam",3,3,1,2,4,3,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,4,4,1,1,1,1,3,3,1
+776,"Connie Hayes",4,8,2,"JS","DotNet","Mobile","English","Tamil","Malayalam",1,4,1,0,0,2,"Programmer-2",1,1,1,1,1,1,0,1,1,0,0,1,1,4,4,4,4,2,2,1
+777,"Elvis Elliam",14,18,1.3,"Java","DotNet","AI","English","Hindi","Japenese",6,1,6,3,1,1,"Team Lead",1,1,1,1,3,3,0,3,4,4,4,2,2,1,1,1,1,1,1,3
+778,"Cynthia Williams",8,7,0.9,"DotNet","Java","JS","English","Kannada","Japenese",1,4,1,0,1,0,"Programmer-3",1,1,1,1,4,4,0,4,1,1,1,1,1,2,2,2,2,0,0,4
+779,"Carl Granger",17,26,1.5,"AI","JS","Java","English","Tamil","Hindi",2,5,11,3,4,1,"Project Manager",1,1,1,1,1,1,0,1,2,2,2,4,4,3,3,3,3,1,1,1
+780,"Alison Marti",19,20,1.1,"AI","Mobile","Machine Learning","English","Malayalam","Telugu",7,3,2,3,3,2,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,4,4,1,1,1,1,3,3,1
+781,"Maryann Simmons",12,11,0.9,"DotNet","Java","Mobile","English","Malayalam","Japenese",1,3,2,2,1,2,"Testing and Debugging",1,1,1,1,4,4,0,4,3,3,3,1,1,1,1,1,1,2,2,4
+782,"Billie Lee",8,15,1.9,"Java","Mobile","JS","English","Hindi","Japenese",2,3,3,6,1,0,"Programmer-1",1,1,1,1,1,1,0,1,4,4,4,1,1,2,2,2,2,1,1,1
+783,"Maxine Person",2,4,2,"Java","Mobile","DotNet","English","Chinese","Tamil",0,1,2,1,0,0,"Programmer-2",1,1,1,1,1,1,0,1,4,4,4,0,0,1,1,1,1,1,1,1
+784,"Doreen Mcentyre",21,15,0.7,"Mobile","Java","JS","English","Tamil","Kannada",2,2,0,4,4,3,"Deployment-1",1,1,1,1,1,1,0,1,3,3,3,1,1,1,1,1,1,4,4,1
+785,"Linda Bales",21,24,1.1,"DotNet","Java","AI","English","Japenese","Chinese",3,7,4,2,4,4,"Team Lead",1,1,1,1,4,4,0,4,3,3,3,2,2,1,1,1,1,1,1,4
+786,"Justin Davis",19,17,0.9,"AI","Java","DotNet","English","Tamil","Hindi",3,2,3,7,1,1,"Deployment-1",1,1,1,1,2,2,0,2,3,3,3,4,4,1,1,1,1,1,1,2
+787,"Michael Avila",13,5,0.4,"Java","AI","JS","English","Malayalam","Hindi",1,0,0,1,1,2,"Testing and Debugging",1,0,0,0,1,1,0,1,4,4,4,3,3,1,1,1,1,1,1,1
+788,"William Mackey",18,25,1.4,"JS","Java","AI","English","Kannada","Chinese",7,5,3,6,2,2,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,2,2,4,4,4,4,1,1,1
+789,"Norman Cannon",22,17,0.8,"JS","Mobile","Machine Learning","English","Malayalam","Japenese",3,2,2,4,3,3,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,1,1,4,4,4,4,3,3,1
+790,"Lucy Kight",7,13,1.9,"DotNet","Machine Learning","Java","English","Kannada","Malayalam",0,2,0,4,1,6,"Programmer-1",3,3,3,3,4,4,0,4,2,2,2,0,0,1,0,0,0,1,1,4
+791,"Michael Joseph",12,17,1.4,"DotNet","Mobile","Machine Learning","English","Tamil","Malayalam",4,2,1,3,3,4,"Team Lead",2,2,2,2,4,4,0,4,1,1,1,1,1,1,1,1,1,3,3,4
+792,"Johnny Middleton",6,19,3.2,"AI","Machine Learning","DotNet","English","Kannada","Japenese",3,4,3,4,3,2,"Programmer-1",3,3,3,3,2,2,0,2,1,1,1,4,4,1,1,1,1,1,1,2
+793,"Heather Kovach",8,16,2,"Java","AI","DotNet","English","Kannada","Tamil",3,3,5,1,2,2,"Programmer-1",1,1,1,1,2,2,0,2,4,4,4,3,3,1,1,1,1,1,1,2
+794,"Sophia Massiah",9,18,2,"JS","Java","Mobile","English","Tamil","Hindi",3,4,2,3,5,1,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,1,1,4,4,4,4,2,2,1
+795,"Mamie Threlkeld",17,25,1.5,"Mobile","DotNet","AI","English","Chinese","Tamil",3,4,7,4,5,2,"Team Lead",1,1,1,1,3,3,0,3,1,1,1,2,2,1,1,1,1,4,4,3
+796,"Christian Tederous",24,18,0.8,"JS","Mobile","Machine Learning","English","Japenese","Telugu",4,1,2,1,5,5,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,1,1,4,4,4,4,3,3,1
+797,"Travis Amos",4,6,1.5,"Java","JS","Machine Learning","English","Malayalam","Tamil",3,0,0,0,2,1,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+798,"Charles Vandergriff",11,12,1.1,"AI","Machine Learning","Java","English","Japenese","Kannada",3,1,0,2,3,3,"Team Lead",3,3,3,3,1,1,0,1,2,2,2,4,4,1,0,0,0,1,1,1
+799,"Jimmie Williams",2,5,2.5,"DotNet","Machine Learning","AI","English","Chinese","Telugu",0,1,1,0,1,2,"Programmer-2",3,3,3,3,4,4,0,4,1,0,0,1,1,1,1,1,1,1,1,4
+800,"Barbara Jeter",21,16,0.8,"DotNet","Machine Learning","AI","English","Malayalam","Chinese",0,3,6,2,2,3,"Deployment-2",3,3,3,3,4,4,0,4,1,1,1,1,1,1,1,1,1,1,1,4
+801,"Pam Hicks",14,16,1.1,"Mobile","Machine Learning","AI","English","Chinese","Telugu",2,5,0,3,4,2,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,2,2,1,0,0,0,4,4,1
+802,"Christopher Timbers",15,18,1.2,"Java","Mobile","JS","English","Tamil","Hindi",3,2,2,2,3,6,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,1,1,2,2,2,2,3,3,1
+803,"Jerry Raymond",18,16,0.9,"Machine Learning","DotNet","Mobile","English","Japenese","Tamil",3,4,3,3,1,2,"Deployment-1",4,4,4,4,3,3,0,3,1,1,1,1,1,1,1,1,1,2,2,3
+804,"Mary Laswell",19,18,0.9,"JS","AI","Machine Learning","English","Telugu","Hindi",6,0,3,1,5,3,"Deployment-1",1,1,1,1,1,1,0,1,1,1,1,3,3,4,4,4,4,1,1,1
+805,"Charlotte Wortham",20,25,1.3,"DotNet","Java","AI","English","Malayalam","Telugu",2,3,6,4,4,6,"Team Lead",1,1,1,1,4,4,0,4,3,3,3,2,2,1,1,1,1,1,1,4
+806,"Garry Pollard",12,18,1.5,"AI","Java","JS","English","Telugu","Hindi",2,1,2,2,5,6,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,4,4,2,2,2,2,1,1,1
+807,"Helen Murdock",18,17,0.9,"DotNet","Mobile","Java","English","Tamil","Japenese",0,3,3,7,2,2,"Deployment-1",1,1,1,1,4,4,0,4,2,2,2,0,0,1,1,1,1,3,3,4
+808,"Kathleen English",3,9,3,"DotNet","Java","Machine Learning","English","Tamil","Hindi",1,1,4,3,0,0,"Programmer-2",2,2,2,2,1,1,0,1,3,3,3,1,1,1,1,1,1,0,0,1
+809,"Wallace Crowell",7,18,2.6,"Machine Learning","JS","DotNet","English","Malayalam","Japenese",4,4,3,2,1,4,"Programmer-1",4,4,4,4,2,2,0,2,1,1,1,1,1,3,3,3,3,1,1,2
+810,"David Dipiano",12,5,0.4,"AI","JS","Java","English","Telugu","Japenese",0,0,2,0,2,1,"Testing and Debugging",1,0,0,0,1,1,0,1,1,1,1,1,1,3,3,3,3,1,1,1
+811,"Donald Ruybal",21,22,1,"Machine Learning","Java","JS","English","Telugu","Hindi",7,3,4,1,4,3,"Team Lead",4,4,4,4,1,1,0,1,3,3,3,1,1,2,2,2,2,1,1,1
+812,"Lillian Mayer",3,5,1.7,"Java","Mobile","DotNet","English","Telugu","Kannada",0,0,1,3,1,0,"Programmer-2",1,0,0,0,2,2,0,2,4,4,4,0,0,1,1,1,1,1,1,2
+813,"Shelia Mead",13,6,0.5,"Machine Learning","AI","Mobile","English","Malayalam","Telugu",2,1,1,1,0,1,"Testing and Debugging",4,4,4,4,0,0,0,1,1,1,1,3,3,1,1,1,1,2,2,0
+814,"Bruce Stuart",20,15,0.8,"DotNet","Java","Machine Learning","English","Hindi","Chinese",1,4,4,5,1,0,"Deployment-1",2,2,2,2,4,4,0,4,3,3,3,1,1,1,1,1,1,0,0,4
+815,"Kenneth Mcclaine",16,17,1.1,"DotNet","AI","Mobile","English","Kannada","Japenese",2,5,2,1,4,3,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,3,3,1,1,1,1,2,2,4
+816,"Nancy Knight",21,15,0.7,"Machine Learning","Mobile","DotNet","English","Hindi","Kannada",3,5,1,4,0,2,"Deployment-1",4,4,4,4,1,1,0,1,1,1,1,1,1,1,1,1,1,3,3,1
+817,"William Vargas",11,12,1.1,"DotNet","Java","Mobile","English","Tamil","Chinese",5,2,0,1,3,1,"Team Lead",1,1,1,1,4,4,0,4,3,3,3,1,1,1,0,0,0,2,2,4
+818,"Brian Devine",21,26,1.2,"Machine Learning","JS","AI","English","Japenese","Chinese",6,4,3,6,3,4,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,2,2,3,3,3,3,1,1,1
+819,"Julie Mitchell",15,14,0.9,"Machine Learning","JS","Mobile","English","Hindi","Tamil",4,2,1,2,1,4,"Deployment-2",4,4,4,4,1,1,0,1,1,1,1,1,1,3,3,3,3,2,2,1
+820,"Bonnie Clark",3,7,2.3,"Machine Learning","Mobile","DotNet","English","Tamil","Japenese",2,1,2,0,0,2,"Programmer-2",4,4,4,4,1,1,0,1,1,0,0,1,1,1,1,1,1,3,3,1
+821,"Albert Coble",5,6,1.2,"Mobile","DotNet","Java","English","Japenese","Hindi",1,1,0,2,0,2,"Programmer-2",1,1,1,1,1,1,0,1,2,2,2,1,1,1,0,0,0,4,4,1
+822,"Charles Masker",24,15,0.6,"Machine Learning","DotNet","Java","English","Chinese","Kannada",3,2,4,3,3,0,"Deployment-1",4,4,4,4,3,3,0,3,2,2,2,1,1,1,1,1,1,0,0,3
+823,"Felix Lewis",7,16,2.3,"Machine Learning","AI","Java","English","Telugu","Hindi",3,2,2,3,6,0,"Programmer-1",4,4,4,4,1,1,0,1,2,2,2,3,3,1,1,1,1,0,0,1
+824,"Gary Blake",19,29,1.5,"Machine Learning","DotNet","Java","English","Japenese","Hindi",4,3,8,4,3,7,"Project Manager",4,4,4,4,3,3,0,3,2,2,2,1,1,1,1,1,1,1,1,3
+825,"Donald Cole",11,17,1.5,"JS","AI","Java","English","Malayalam","Tamil",1,3,5,0,3,5,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,3,3,4,4,4,4,1,1,1
+826,"James Smith",16,24,1.5,"Machine Learning","Mobile","Java","English","Hindi","Tamil",5,2,6,5,3,3,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,1,1,1,1,1,1,3,3,1
+827,"Beverly Oconnor",13,16,1.2,"JS","DotNet","AI","English","Hindi","Tamil",5,4,2,1,3,1,"Team Lead",1,1,1,1,3,3,0,3,1,1,1,2,2,4,4,4,4,1,1,3
+828,"Johnny Campbell",8,10,1.3,"Machine Learning","Mobile","JS","English","Tamil","Chinese",1,1,1,4,2,1,"Deployment-1",4,4,4,4,1,1,0,1,1,1,1,1,1,2,2,2,2,3,3,1
+829,"Joseph Huslander",4,6,1.5,"AI","Machine Learning","Mobile","English","Japenese","Malayalam",2,3,0,0,0,1,"Programmer-2",3,3,3,3,0,0,0,1,1,0,0,4,4,1,0,0,0,2,2,0
+830,"Alycia Green",15,16,1.1,"Java","JS","Mobile","English","Kannada","Japenese",5,0,2,2,6,1,"Team Lead",1,0,0,0,1,1,0,1,4,4,4,1,1,3,3,3,3,2,2,1
+831,"Chris Mchugh",14,8,0.6,"JS","Mobile","AI","English","Malayalam","Japenese",2,1,3,1,1,0,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,2,2,4,4,4,4,1,1,1
+832,"Karen Smith",23,29,1.3,"JS","Machine Learning","AI","English","Chinese","Japenese",5,6,6,1,5,6,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,2,2,4,4,4,4,1,1,1
+833,"Ida Cooper",7,14,2,"Java","Machine Learning","JS","English","Hindi","Tamil",2,3,6,2,0,1,"Programmer-1",3,3,3,3,0,0,0,1,4,4,4,1,1,2,2,2,2,1,1,0
+834,"Vickie Parker",7,15,2.1,"JS","Mobile","Java","English","Malayalam","Japenese",2,5,2,5,0,1,"Programmer-1",1,1,1,1,0,0,0,1,2,2,2,1,1,4,4,4,4,3,3,0
+835,"Ruth Jiron",21,29,1.4,"Java","Mobile","AI","English","Malayalam","Tamil",6,2,3,5,9,4,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,2,2,1,1,1,1,3,3,1
+836,"Elena Sheets",17,23,1.4,"AI","Machine Learning","JS","English","Malayalam","Tamil",5,3,3,2,5,5,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+837,"Lawrence Burns",4,2,0.5,"JS","AI","DotNet","English","Kannada","Tamil",0,1,1,0,0,0,"Testing and Debugging",1,1,1,1,1,1,0,1,1,0,0,1,1,4,4,4,4,0,0,1
+838,"Frank Aurand",13,9,0.7,"Mobile","JS","Machine Learning","English","Chinese","Malayalam",1,0,3,4,0,1,"Programmer-3",1,1,1,1,0,0,0,1,1,1,1,1,1,3,3,3,3,4,4,0
+839,"Melissa Apodaca",15,16,1.1,"AI","DotNet","Java","English","Japenese","Telugu",7,4,0,2,3,0,"Team Lead",1,1,1,1,3,3,0,3,2,2,2,4,4,1,0,0,0,0,0,3
+840,"Jared Powell",16,28,1.8,"JS","Machine Learning","Java","English","Malayalam","Tamil",3,7,6,5,4,3,"Project Manager",3,3,3,3,1,1,0,1,2,2,2,1,1,4,4,4,4,1,1,1
+841,"Maria Malone",24,23,1,"Machine Learning","JS","AI","English","Chinese","Telugu",3,3,2,4,6,5,"Deployment-1",4,4,4,4,1,1,0,1,1,1,1,2,2,3,3,3,3,1,1,1
+842,"John Hughes",19,20,1.1,"DotNet","AI","Java","English","Japenese","Kannada",5,1,4,3,2,5,"Team Lead",1,1,1,1,4,4,0,4,2,2,2,3,3,1,1,1,1,1,1,4
+843,"Anthony Baker",3,9,3,"JS","Mobile","Machine Learning","English","Telugu","Malayalam",3,2,3,1,0,0,"Programmer-2",2,2,2,2,0,0,0,1,1,1,1,1,1,4,4,4,4,1,1,0
+844,"Rebecca Barrett",6,9,1.5,"JS","Machine Learning","DotNet","English","Hindi","Tamil",2,2,1,0,4,0,"Programmer-2",3,3,3,3,2,2,0,2,1,0,0,1,1,4,4,4,4,0,0,2
+845,"Johnnie Gomez",3,5,1.7,"Machine Learning","Mobile","JS","English","Telugu","Chinese",1,0,2,2,0,0,"Programmer-2",1,1,1,1,0,0,0,1,1,1,1,1,1,2,2,2,2,1,1,0
+846,"Tonya Stroth",14,13,0.9,"JS","Mobile","Machine Learning","English","Kannada","Telugu",2,3,3,0,3,2,"Deployment-1",2,2,2,2,1,1,0,1,1,0,0,1,1,4,4,4,4,3,3,1
+847,"Deborah Williams",4,9,2.3,"Machine Learning","AI","Java","English","Chinese","Tamil",1,2,3,2,1,0,"Programmer-2",4,4,4,4,1,1,0,1,2,2,2,3,3,1,1,1,1,0,0,1
+848,"Rosemary Hughes",14,18,1.3,"AI","Java","DotNet","English","Hindi","Kannada",2,3,3,4,2,4,"Team Lead",1,1,1,1,2,2,0,2,3,3,3,4,4,1,1,1,1,1,1,2
+849,"Alma Martin",18,23,1.3,"AI","JS","Java","English","Tamil","Malayalam",4,3,4,2,5,5,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,4,4,3,3,3,3,1,1,1
+850,"Chris Short",3,4,1.3,"Mobile","DotNet","Java","English","Japenese","Chinese",1,0,1,0,2,0,"Programmer-2",1,0,0,0,3,3,0,3,1,1,1,1,1,1,1,1,1,1,1,3
+851,"Dustin Simmons",10,14,1.4,"Mobile","AI","DotNet","English","Malayalam","Chinese",1,3,2,2,1,5,"Team Lead",1,1,1,1,2,2,0,2,1,1,1,3,3,1,1,1,1,4,4,2
+852,"Fred Lashua",9,19,2.1,"Mobile","Java","JS","English","Malayalam","Japenese",4,4,1,5,5,0,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,1,1,2,2,2,2,1,1,1
+853,"Dong Moss",15,15,1,"Java","JS","AI","English","Telugu","Hindi",1,1,4,4,1,4,"Deployment-1",1,1,1,1,1,1,0,1,4,4,4,2,2,3,3,3,3,1,1,1
+854,"Jennifer Villela",8,5,0.6,"Machine Learning","Java","AI","English","Malayalam","Hindi",0,0,1,1,2,1,"Programmer-3",1,1,1,1,1,1,0,1,3,3,3,1,1,1,1,1,1,1,1,1
+855,"Dwain Karalis",2,8,4,"Mobile","DotNet","Java","English","Tamil","Chinese",2,0,3,1,1,1,"Programmer-2",1,0,0,0,3,3,0,3,2,2,2,1,1,1,1,1,1,4,4,3
+856,"Kathleen Dyches",13,19,1.5,"AI","JS","Mobile","English","Malayalam","Kannada",2,5,4,4,1,3,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,4,4,3,3,3,3,2,2,1
+857,"Don Walker",9,19,2.1,"Mobile","DotNet","JS","English","Malayalam","Chinese",5,3,0,2,4,5,"Team Lead",1,1,1,1,3,3,0,3,1,1,1,1,1,1,1,1,1,4,4,3
+858,"Floyd Mateo",17,26,1.5,"Machine Learning","Mobile","AI","English","Japenese","Tamil",3,4,3,8,3,5,"Project Manager",4,4,4,4,1,1,0,1,1,1,1,2,2,1,1,1,1,3,3,1
+859,"Roger Pigeon",14,15,1.1,"Machine Learning","JS","Java","English","Telugu","Chinese",5,0,4,2,2,2,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,1,1,3,3,3,3,1,1,1
+860,"Pamela Keener",16,21,1.3,"AI","Machine Learning","JS","English","Hindi","Chinese",4,1,4,4,5,3,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+861,"Tony Gray",2,2,1,"AI","Machine Learning","Java","English","Chinese","Tamil",1,0,1,0,0,0,"Programmer-3",1,1,1,1,0,0,0,1,1,1,1,4,4,1,1,1,1,0,0,0
+862,"Daniel Godsey",11,11,1,"AI","Mobile","Machine Learning","English","Malayalam","Hindi",2,1,2,1,3,2,"Deployment-1",2,2,2,2,1,1,0,1,1,1,1,4,4,1,1,1,1,3,3,1
+863,"Kevin Jablonski",16,28,1.8,"Machine Learning","Java","JS","English","Hindi","Japenese",5,4,7,7,5,0,"Project Manager",4,4,4,4,1,1,0,1,3,3,3,1,1,2,2,2,2,0,0,1
+864,"Sarah Wake",10,5,0.5,"Java","DotNet","JS","English","Telugu","Japenese",0,0,2,1,0,2,"Testing and Debugging",1,0,0,0,1,1,0,1,4,4,4,0,0,2,2,2,2,1,1,1
+865,"Eddie Wester",11,9,0.8,"JS","Machine Learning","DotNet","English","Japenese","Hindi",2,2,1,1,1,2,"Programmer-3",3,3,3,3,2,2,0,2,1,1,1,1,1,4,4,4,4,1,1,2
+866,"Sandra Rosas",6,14,2.3,"DotNet","AI","Mobile","English","Kannada","Malayalam",2,2,2,3,3,2,"Programmer-1",1,1,1,1,4,4,0,4,1,1,1,3,3,1,1,1,1,2,2,4
+867,"Jo Aiken",5,2,0.4,"Java","AI","Machine Learning","English","Kannada","Japenese",0,1,1,0,0,0,"Testing and Debugging",2,2,2,2,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0
+868,"Nina Stuzman",15,15,1,"DotNet","Machine Learning","JS","English","Hindi","Telugu",1,2,3,3,3,3,"Deployment-1",3,3,3,3,4,4,0,4,1,1,1,1,1,2,2,2,2,1,1,4
+869,"Scott Meeks",19,16,0.8,"DotNet","Java","JS","English","Telugu","Hindi",3,7,4,0,0,2,"Deployment-2",1,1,1,1,1,1,0,1,1,1,1,1,1,2,2,2,2,1,1,1
+870,"James Juarez",21,18,0.9,"Machine Learning","Java","AI","English","Japenese","Hindi",4,1,7,1,4,1,"Deployment-1",4,4,4,4,1,1,0,1,3,3,3,2,2,1,1,1,1,1,1,1
+871,"Francisco German",11,18,1.6,"JS","Machine Learning","AI","English","Japenese","Malayalam",5,5,1,1,4,2,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,2,2,4,4,4,4,1,1,1
+872,"David Esquivel",8,8,1,"DotNet","AI","JS","English","Hindi","Tamil",4,1,0,2,0,1,"Programmer-3",1,1,1,1,1,1,0,1,1,1,1,3,3,1,1,1,1,1,1,1
+873,"Eugene Caputo",22,25,1.1,"AI","Machine Learning","JS","English","Japenese","Kannada",4,3,2,7,4,5,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+874,"John Lopez",3,5,1.7,"DotNet","Java","Mobile","English","Hindi","Chinese",0,1,0,0,1,3,"Programmer-2",1,1,1,1,4,4,0,4,1,1,1,0,0,1,0,0,0,2,2,4
+875,"Boyd Smith",9,12,1.3,"Java","Machine Learning","DotNet","English","Tamil","Japenese",3,2,1,0,2,4,"Team Lead",3,3,3,3,2,2,0,2,1,1,1,1,1,1,1,1,1,1,1,2
+876,"Frank Vasquez",24,28,1.2,"JS","AI","Machine Learning","English","Tamil","Chinese",3,4,11,4,2,4,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,3,3,4,4,4,4,1,1,1
+877,"George Ramirez",6,13,2.2,"DotNet","Machine Learning","Java","English","Tamil","Telugu",1,2,3,4,2,1,"Programmer-1",3,3,3,3,4,4,0,4,2,2,2,1,1,1,1,1,1,1,1,4
+878,"Tabatha Ward",6,7,1.2,"Java","Mobile","AI","English","Telugu","Japenese",1,2,0,0,1,3,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,2,2,1,0,0,0,3,3,1
+879,"Teodoro Butler",9,13,1.4,"Java","Machine Learning","AI","English","Malayalam","Telugu",4,7,0,0,1,1,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,2,2,1,0,0,0,1,1,1
+880,"Geoffrey Maulden",23,27,1.2,"Java","Machine Learning","Mobile","English","Japenese","Telugu",5,3,6,6,1,6,"Team Lead",3,3,3,3,1,1,0,1,4,4,4,1,1,1,1,1,1,2,2,1
+881,"Denise Allen",4,2,0.5,"Machine Learning","Java","JS","English","Tamil","Malayalam",0,1,1,0,0,0,"Testing and Debugging",4,4,4,4,0,0,0,1,1,1,1,0,0,2,2,2,2,0,0,0
+882,"Chester Sigler",22,29,1.3,"DotNet","Mobile","AI","English","Telugu","Tamil",9,3,6,5,5,1,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,2,2,1,1,1,1,3,3,4
+883,"Paris Michalik",13,13,1,"JS","Machine Learning","AI","English","Japenese","Chinese",6,3,0,1,1,2,"Testing and Debugging",3,3,3,3,1,1,0,1,1,1,1,2,2,1,1,1,1,1,1,1
+884,"Keith Chavis",12,7,0.6,"AI","Java","JS","English","Hindi","Japenese",1,0,3,1,0,2,"Programmer-3",1,0,0,0,0,0,0,1,3,3,3,4,4,2,2,2,2,1,1,0
+885,"Ronald Heberling",24,16,0.7,"Machine Learning","AI","Mobile","English","Telugu","Hindi",3,5,3,2,2,1,"Deployment-2",4,4,4,4,1,1,0,1,1,1,1,3,3,1,1,1,1,2,2,1
+886,"Jessica Harp",9,9,1,"JS","AI","Mobile","English","Hindi","Japenese",0,0,3,2,1,3,"Programmer-3",1,0,0,0,1,1,0,1,1,1,1,1,1,4,4,4,4,2,2,1
+887,"Juanita Morales",15,15,1,"Java","AI","Machine Learning","English","Malayalam","Kannada",8,5,1,1,0,0,"Testing and Debugging",2,2,2,2,0,0,0,1,4,4,4,3,3,1,1,1,1,0,0,0
+888,"Ramona Kenney",4,6,1.5,"Mobile","JS","DotNet","English","Telugu","Kannada",2,1,2,0,0,1,"Programmer-2",1,1,1,1,1,1,0,1,1,0,0,1,1,3,3,3,3,4,4,1
+889,"Manual Isaac",11,19,1.7,"Java","JS","AI","English","Tamil","Chinese",3,6,2,2,4,2,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,2,2,3,3,3,3,1,1,1
+890,"Michael Bonds",24,22,0.9,"Mobile","Machine Learning","DotNet","English","Tamil","Telugu",2,4,4,4,7,1,"Deployment-1",3,3,3,3,2,2,0,2,1,1,1,1,1,1,1,1,1,4,4,2
+891,"Michael Slaton",15,14,0.9,"Machine Learning","DotNet","JS","English","Chinese","Telugu",4,3,3,3,0,1,"Deployment-1",4,4,4,4,1,1,0,1,1,1,1,1,1,2,2,2,2,1,1,1
+892,"Everett Tatom",3,9,3,"Machine Learning","JS","DotNet","English","Chinese","Malayalam",1,2,5,1,0,0,"Programmer-2",4,4,4,4,1,1,0,1,1,1,1,1,1,3,3,3,3,0,0,1
+893,"Sarah Jones",19,24,1.3,"Java","Mobile","AI","English","Tamil","Kannada",1,5,4,5,5,4,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,2,2,1,1,1,1,3,3,1
+894,"Jake Dunn",3,9,3,"Java","DotNet","AI","English","Malayalam","Kannada",1,1,1,4,2,0,"Programmer-2",1,1,1,1,3,3,0,3,4,4,4,2,2,1,1,1,1,0,0,3
+895,"Eva Mccombs",11,16,1.5,"Machine Learning","Mobile","Java","English","Japenese","Kannada",2,1,3,3,4,3,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,1,1,1,1,1,1,3,3,1
+896,"Tommy Buchanan",6,19,3.2,"Machine Learning","JS","AI","English","Tamil","Telugu",8,3,2,1,4,1,"Programmer-1",4,4,4,4,1,1,0,1,1,1,1,2,2,3,3,3,3,1,1,1
+897,"Franklin Larkin",18,26,1.4,"AI","Mobile","Machine Learning","English","Telugu","Chinese",3,7,2,5,5,4,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,4,4,1,1,1,1,3,3,1
+898,"Damaris Velazquez",9,9,1,"Mobile","Java","AI","English","Hindi","Telugu",4,1,0,3,1,0,"Programmer-3",1,1,1,1,1,1,0,1,3,3,3,2,2,1,0,0,0,1,1,1
+899,"Karen Baichan",4,7,1.8,"JS","DotNet","AI","English","Tamil","Telugu",2,1,1,1,1,1,"Programmer-2",1,1,1,1,3,3,0,3,1,1,1,2,2,4,4,4,4,1,1,3
+900,"Roger Newland",8,16,2,"Mobile","AI","DotNet","English","Malayalam","Japenese",3,2,2,2,4,3,"Programmer-1",1,1,1,1,2,2,0,2,1,1,1,3,3,1,1,1,1,4,4,2
+901,"Dennis Butler",8,19,2.4,"AI","Machine Learning","DotNet","English","Japenese","Telugu",2,3,4,1,4,5,"Programmer-1",3,3,3,3,2,2,0,2,1,1,1,4,4,1,1,1,1,1,1,2
+902,"Carrie Stephens",11,15,1.4,"DotNet","JS","Mobile","English","Telugu","Japenese",2,4,2,4,2,1,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,1,1,3,3,3,3,2,2,4
+903,"Eva Notti",2,4,2,"JS","Mobile","Java","English","Hindi","Telugu",1,2,0,0,1,0,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+904,"Willie Deloach",21,28,1.3,"Mobile","JS","Java","English","Tamil","Japenese",6,5,4,5,6,2,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,1,1,3,3,3,3,4,4,1
+905,"Edith Schmidt",18,25,1.4,"JS","Java","Mobile","English","Kannada","Japenese",9,2,2,4,6,2,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,1,1,4,4,4,4,2,2,1
+906,"James Layton",23,27,1.2,"AI","DotNet","JS","English","Malayalam","Telugu",5,3,9,2,4,4,"Team Lead",1,1,1,1,3,3,0,3,1,1,1,4,4,2,2,2,2,1,1,3
+907,"Bernice Goldson",22,21,1,"Machine Learning","DotNet","Mobile","English","Malayalam","Japenese",4,4,6,3,3,1,"Deployment-1",4,4,4,4,3,3,0,3,1,1,1,1,1,1,1,1,1,2,2,3
+908,"Jeffery Mccalla",15,10,0.7,"AI","DotNet","Machine Learning","English","Hindi","Telugu",0,4,0,4,2,0,"Deployment-1",2,2,2,2,3,3,0,3,1,1,1,1,1,1,0,0,0,0,0,3
+909,"George Butler",24,17,0.7,"Mobile","JS","DotNet","English","Telugu","Japenese",3,3,3,2,3,3,"Deployment-1",1,1,1,1,2,2,0,2,1,1,1,1,1,3,3,3,3,4,4,2
+910,"Gary Jones",11,18,1.6,"Machine Learning","AI","Java","English","Chinese","Tamil",2,3,4,4,2,3,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,3,3,1,1,1,1,1,1,1
+911,"Nancy Hetrick",9,19,2.1,"DotNet","AI","Machine Learning","English","Hindi","Kannada",5,5,1,3,3,2,"Team Lead",2,2,2,2,4,4,0,4,1,1,1,3,3,1,1,1,1,1,1,4
+912,"Edward Joyce",24,16,0.7,"Machine Learning","JS","AI","English","Telugu","Japenese",5,4,2,1,2,2,"Testing and Debugging",4,4,4,4,1,1,0,1,1,1,1,2,2,3,3,3,3,1,1,1
+913,"Terri Hooks",9,16,1.8,"DotNet","Java","Mobile","English","Tamil","Malayalam",3,1,6,3,0,3,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,1,1,1,1,1,1,2,2,1
+914,"Christina Chavis",22,19,0.9,"Java","DotNet","Machine Learning","English","Kannada","Japenese",3,4,4,1,2,5,"Deployment-2",2,2,2,2,3,3,0,3,4,4,4,1,1,1,1,1,1,1,1,3
+915,"Francisco Morris",10,17,1.7,"Java","JS","AI","English","Chinese","Malayalam",6,3,2,0,1,5,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,2,2,3,3,3,3,1,1,1
+916,"Daniel Cody",17,24,1.4,"Mobile","Java","Machine Learning","English","Chinese","Malayalam",4,3,4,8,1,4,"Team Lead",2,2,2,2,1,1,0,1,3,3,3,1,1,1,1,1,1,4,4,1
+917,"Michael Miles",6,19,3.2,"Mobile","AI","JS","English","Japenese","Telugu",5,6,0,1,2,5,"Programmer-1",1,1,1,1,1,1,0,1,1,1,1,3,3,1,1,1,1,4,4,1
+918,"Ryan Cahill",21,28,1.3,"JS","Java","Mobile","English","Malayalam","Japenese",2,8,5,1,6,6,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,1,1,4,4,4,4,2,2,1
+919,"Gail Chesser",5,2,0.4,"DotNet","JS","AI","English","Chinese","Tamil",0,1,1,0,0,0,"Testing and Debugging",1,1,1,1,1,1,0,1,1,0,0,1,1,3,3,3,3,0,0,1
+920,"Diane Daughtry",9,7,0.8,"Machine Learning","JS","Java","English","Tamil","Hindi",3,1,1,0,0,2,"Programmer-3",4,4,4,4,0,0,0,1,1,1,1,1,1,3,3,3,3,1,1,0
+921,"Danielle Powell",6,19,3.2,"Machine Learning","AI","DotNet","English","Malayalam","Japenese",5,4,2,4,3,1,"Programmer-1",4,4,4,4,2,2,0,2,1,1,1,3,3,1,1,1,1,1,1,2
+922,"Lynn Ottesen",2,2,1,"Mobile","DotNet","JS","English","Japenese","Kannada",1,0,1,0,0,0,"Programmer-3",1,0,0,0,1,1,0,1,1,0,0,1,1,2,2,2,2,1,1,1
+923,"Enrique Wakefield",23,17,0.7,"AI","Machine Learning","JS","English","Japenese","Telugu",2,0,7,1,4,3,"Deployment-1",1,1,1,1,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+924,"Ralph Jackson",22,19,0.9,"JS","Java","Mobile","English","Malayalam","Tamil",5,4,2,4,3,1,"Deployment-1",1,1,1,1,1,1,0,1,3,3,3,1,1,4,4,4,4,2,2,1
+925,"Carl Brown",11,19,1.7,"Machine Learning","Java","JS","English","Telugu","Chinese",8,3,4,0,1,3,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,1,1,2,2,2,2,1,1,1
+926,"Sherryl Carey",23,20,0.9,"JS","Machine Learning","Mobile","English","Hindi","Tamil",4,6,4,1,4,1,"Deployment-1",3,3,3,3,1,1,0,1,1,1,1,1,1,4,4,4,4,2,2,1
+927,"Lauren Pawloski",13,16,1.2,"AI","Machine Learning","JS","English","Hindi","Malayalam",1,7,3,1,3,1,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+928,"Richard Trudnowski",10,6,0.6,"JS","Mobile","Java","English","Hindi","Malayalam",2,2,1,0,0,1,"Programmer-3",1,1,1,1,0,0,0,1,1,1,1,1,1,4,4,4,4,3,3,0
+929,"Fran Worthington",3,3,1,"JS","Java","AI","English","Hindi","Tamil",2,0,1,0,0,0,"Programmer-3",1,0,0,0,0,0,0,1,1,1,1,2,2,4,4,4,4,0,0,0
+930,"Robert Hooper",9,14,1.6,"DotNet","Java","Machine Learning","English","Tamil","Malayalam",2,4,1,2,4,1,"Team Lead",2,2,2,2,4,4,0,4,3,3,3,1,1,1,1,1,1,1,1,4
+931,"Duane Rodriguez",2,7,3.5,"Mobile","JS","Machine Learning","English","Chinese","Japenese",2,2,2,1,0,0,"Programmer-2",2,2,2,2,0,0,0,1,1,1,1,1,1,3,3,3,3,1,1,0
+932,"Son Phillips",22,17,0.8,"Mobile","Machine Learning","JS","English","Telugu","Tamil",3,3,3,1,4,3,"Deployment-1",3,3,3,3,1,1,0,1,1,1,1,1,1,2,2,2,2,4,4,1
+933,"Kenneth Bolton",16,23,1.4,"Java","Machine Learning","DotNet","English","Japenese","Kannada",2,5,8,3,2,3,"Team Lead",3,3,3,3,2,2,0,2,4,4,4,1,1,1,1,1,1,1,1,2
+934,"Armando Brown",21,16,0.8,"JS","Mobile","Java","English","Chinese","Japenese",5,3,2,0,3,3,"Deployment-1",1,1,1,1,1,1,0,1,1,1,1,1,1,4,4,4,4,3,3,1
+935,"Cyrus Pollack",17,26,1.5,"JS","AI","DotNet","English","Kannada","Telugu",6,3,6,2,6,3,"Project Manager",1,1,1,1,2,2,0,2,1,1,1,3,3,4,4,4,4,1,1,2
+936,"Stacey Hayes",5,8,1.6,"AI","Machine Learning","Java","English","Japenese","Kannada",2,2,2,1,0,1,"Programmer-2",3,3,3,3,0,0,0,1,2,2,2,4,4,1,1,1,1,1,1,0
+937,"Nicole Wilson",14,6,0.4,"Mobile","Java","DotNet","English","Japenese","Kannada",3,0,0,2,0,1,"Testing and Debugging",1,0,0,0,1,1,0,1,3,3,3,1,1,1,0,0,0,4,4,1
+938,"Chance Knox",20,20,1,"AI","Java","JS","English","Telugu","Japenese",3,3,5,3,2,4,"Deployment-1",1,1,1,1,1,1,0,1,3,3,3,4,4,2,2,2,2,1,1,1
+939,"Donald Dean",19,21,1.1,"Mobile","Java","JS","English","Telugu","Chinese",6,1,5,2,2,5,"Team Lead",1,1,1,1,1,1,0,1,3,3,3,1,1,2,2,2,2,4,4,1
+940,"Mitchell Yeldell",14,7,0.5,"Java","Machine Learning","AI","English","Hindi","Malayalam",2,2,1,0,1,1,"Testing and Debugging",3,3,3,3,1,1,0,1,1,1,1,2,2,1,1,1,1,1,1,1
+941,"Patricia Lesher",15,6,0.4,"Mobile","Machine Learning","Java","English","Kannada","Hindi",2,1,1,0,2,0,"Testing and Debugging",3,3,3,3,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+942,"Lance Crook",11,18,1.6,"Machine Learning","DotNet","JS","English","Chinese","Kannada",5,1,1,6,3,2,"Team Lead",4,4,4,4,3,3,0,3,1,1,1,1,1,2,2,2,2,1,1,3
+943,"Michael Plateroti",4,8,2,"Mobile","DotNet","AI","English","Hindi","Telugu",1,3,2,2,0,0,"Programmer-2",1,1,1,1,1,1,0,1,1,1,1,2,2,1,1,1,1,1,1,1
+944,"James Herndon",2,2,1,"Mobile","JS","DotNet","English","Japenese","Telugu",0,1,1,0,0,0,"Programmer-3",1,1,1,1,1,1,0,1,1,0,0,0,0,3,3,3,3,1,1,1
+945,"Margarita Noll",24,23,1,"DotNet","Machine Learning","Mobile","English","Telugu","Chinese",3,5,6,4,2,3,"Deployment-1",3,3,3,3,4,4,0,4,1,1,1,1,1,1,1,1,1,2,2,4
+946,"Esther Floyd",19,15,0.8,"Machine Learning","Java","Mobile","English","Telugu","Hindi",3,3,4,2,2,1,"Deployment-2",4,4,4,4,1,1,0,1,3,3,3,1,1,1,1,1,1,2,2,1
+947,"Jan Rothwell",22,19,0.9,"Machine Learning","AI","Java","English","Telugu","Hindi",8,1,4,2,2,2,"Deployment-2",4,4,4,4,1,1,0,1,2,2,2,3,3,1,1,1,1,1,1,1
+948,"Vincent Deininger",3,2,0.7,"Machine Learning","JS","Java","English","Telugu","Japenese",0,0,2,0,0,0,"Programmer-3",1,1,1,1,0,0,0,1,1,1,1,0,0,3,3,3,3,0,0,0
+949,"Charles Parker",14,5,0.4,"JS","AI","DotNet","English","Kannada","Hindi",2,0,1,1,0,1,"Testing and Debugging",1,0,0,0,1,1,0,1,1,1,1,3,3,4,4,4,4,1,1,1
+950,"Lorrine Granger",23,22,1,"Java","Mobile","Machine Learning","English","Hindi","Malayalam",2,6,3,3,5,3,"Deployment-1",2,2,2,2,1,1,0,1,4,4,4,1,1,1,1,1,1,3,3,1
+951,"Carl Chien",9,11,1.2,"JS","Machine Learning","AI","English","Tamil","Chinese",3,3,0,1,3,1,"Team Lead",3,3,3,3,1,1,0,1,1,1,1,2,2,1,1,1,1,1,1,1
+952,"George Slayton",3,2,0.7,"Java","AI","JS","English","Japenese","Chinese",1,0,1,0,0,0,"Programmer-3",1,0,0,0,0,0,0,1,1,1,1,3,3,2,2,2,2,0,0,0
+953,"Aaron Donahoe",11,14,1.3,"AI","JS","Machine Learning","English","Tamil","Hindi",5,2,1,2,3,1,"Team Lead",2,2,2,2,1,1,0,1,1,1,1,4,4,3,3,3,3,1,1,1
+954,"Scott Pride",23,22,1,"DotNet","AI","Mobile","English","Kannada","Tamil",3,7,1,3,4,4,"Deployment-1",1,1,1,1,4,4,0,4,1,1,1,3,3,1,1,1,1,2,2,4
+955,"Micheal Shupe",24,24,1,"JS","Mobile","Java","English","Japenese","Hindi",3,6,4,4,5,2,"Deployment-1",1,1,1,1,1,1,0,1,2,2,2,1,1,4,4,4,4,3,3,1
+956,"Robert Nikas",15,7,0.5,"Java","JS","Mobile","English","Japenese","Kannada",0,3,1,0,2,1,"Testing and Debugging",1,1,1,1,1,1,0,1,1,1,1,0,0,3,3,3,3,2,2,1
+957,"Thomas Martin",7,5,0.7,"Java","Machine Learning","Mobile","English","Malayalam","Kannada",1,1,1,1,1,0,"Programmer-3",3,3,3,3,1,1,0,1,4,4,4,1,1,1,1,1,1,1,1,1
+958,"George Shannon",8,17,2.1,"DotNet","JS","Machine Learning","English","Kannada","Hindi",4,4,2,4,1,2,"Programmer-1",2,2,2,2,4,4,0,4,1,1,1,1,1,3,3,3,3,1,1,4
+959,"Wanda Thao",2,5,2.5,"JS","Mobile","Machine Learning","English","Telugu","Japenese",1,2,0,0,2,0,"Programmer-2",2,2,2,2,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1
+960,"June Stoneking",22,21,1,"AI","Machine Learning","JS","English","Hindi","Tamil",4,1,5,2,6,3,"Deployment-1",3,3,3,3,1,1,0,1,1,1,1,4,4,2,2,2,2,1,1,1
+961,"Nina Reed",19,22,1.2,"JS","Machine Learning","Java","English","Tamil","Hindi",4,4,4,4,1,5,"Team Lead",3,3,3,3,1,1,0,1,2,2,2,1,1,4,4,4,4,1,1,1
+962,"William Houghton",22,27,1.2,"Machine Learning","AI","JS","English","Hindi","Malayalam",1,4,8,5,6,3,"Team Lead",4,4,4,4,1,1,0,1,1,1,1,3,3,2,2,2,2,1,1,1
+963,"Margaret Sims",14,11,0.8,"Java","Mobile","DotNet","English","Tamil","Chinese",4,2,3,1,1,0,"Deployment-2",1,1,1,1,2,2,0,2,4,4,4,1,1,1,1,1,1,1,1,2
+964,"Thomas Davis",8,5,0.6,"Mobile","JS","DotNet","English","Chinese","Hindi",2,1,1,0,0,1,"Programmer-3",1,1,1,1,1,1,0,1,1,0,0,1,1,3,3,3,3,4,4,1
+965,"Ofelia Cayea",24,16,0.7,"Java","Mobile","Machine Learning","English","Chinese","Hindi",1,2,1,4,3,5,"Deployment-1",2,2,2,2,1,1,0,1,4,4,4,1,1,1,1,1,1,3,3,1
+966,"Cornelia Gutierrez",11,14,1.3,"Machine Learning","DotNet","JS","English","Kannada","Telugu",4,3,2,1,3,1,"Team Lead",4,4,4,4,3,3,0,3,1,1,1,1,1,2,2,2,2,1,1,3
+967,"Christine Warner",17,23,1.4,"DotNet","AI","Mobile","English","Hindi","Japenese",2,1,3,8,7,2,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,3,3,1,1,1,1,2,2,4
+968,"Richard Tomlin",24,21,0.9,"AI","Java","Machine Learning","English","Malayalam","Chinese",5,3,4,5,2,2,"Deployment-1",2,2,2,2,1,1,0,1,3,3,3,4,4,1,1,1,1,1,1,1
+969,"Jerry Thorn",17,26,1.5,"Machine Learning","Java","JS","English","Hindi","Telugu",4,3,7,5,5,2,"Project Manager",4,4,4,4,1,1,0,1,3,3,3,1,1,2,2,2,2,1,1,1
+970,"Nichole Jantz",14,11,0.8,"Machine Learning","DotNet","JS","English","Hindi","Chinese",3,0,2,4,0,2,"Deployment-1",1,1,1,1,1,1,0,1,1,1,1,1,1,2,2,2,2,1,1,1
+971,"Meredith Flores",2,5,2.5,"AI","Java","Machine Learning","English","Malayalam","Hindi",1,2,0,2,0,0,"Programmer-2",2,2,2,2,0,0,0,1,3,3,3,4,4,1,0,0,0,0,0,0
+972,"Barbara Pang",24,20,0.8,"DotNet","Java","AI","English","Tamil","Chinese",7,3,3,4,2,1,"Deployment-1",1,1,1,1,4,4,0,4,3,3,3,2,2,1,1,1,1,1,1,4
+973,"John Davisson",7,14,2,"AI","DotNet","JS","English","Tamil","Malayalam",5,2,2,0,3,2,"Programmer-1",1,1,1,1,3,3,0,3,1,0,0,4,4,2,2,2,2,1,1,3
+974,"Bryan Chase",23,27,1.2,"DotNet","JS","Mobile","English","Tamil","Chinese",2,3,6,9,4,3,"Team Lead",1,1,1,1,4,4,0,4,1,1,1,1,1,3,3,3,3,2,2,4
+975,"Jonathan Zingaro",5,7,1.4,"DotNet","Mobile","AI","English","Chinese","Hindi",0,4,0,1,1,1,"Programmer-2",1,1,1,1,4,4,0,4,1,1,1,1,1,1,0,0,0,3,3,4
+976,"Adeline Roberts",17,18,1.1,"Mobile","Java","Machine Learning","English","Telugu","Malayalam",3,1,1,5,6,2,"Team Lead",2,2,2,2,1,1,0,1,3,3,3,1,1,1,1,1,1,4,4,1
+977,"Tara Lyons",17,19,1.1,"DotNet","Java","Machine Learning","English","Japenese","Chinese",5,1,1,2,5,5,"Team Lead",2,2,2,2,4,4,0,4,3,3,3,1,1,1,1,1,1,1,1,4
+978,"William Williamson",6,10,1.7,"Java","Machine Learning","AI","English","Chinese","Malayalam",3,2,0,2,1,2,"Testing and Debugging",3,3,3,3,1,1,0,1,4,4,4,2,2,1,0,0,0,1,1,1
+979,"Kathleen Bambacigno",9,14,1.6,"Machine Learning","JS","Java","English","Telugu","Chinese",4,4,0,2,3,1,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,1,1,1,1,1,1,1,1,1
+980,"Mae Hill",24,18,0.8,"JS","AI","DotNet","English","Chinese","Japenese",5,4,2,2,2,3,"Deployment-2",1,1,1,1,2,2,0,2,1,1,1,3,3,4,4,4,4,1,1,2
+981,"Peter Dellinger",6,5,0.8,"JS","DotNet","Java","English","Kannada","Malayalam",0,2,0,1,1,1,"Programmer-3",1,1,1,1,3,3,0,3,2,2,2,0,0,1,1,1,1,1,1,3
+982,"Cynthia Anaya",19,29,1.5,"DotNet","JS","Mobile","English","Malayalam","Tamil",6,2,5,6,6,4,"Project Manager",1,1,1,1,4,4,0,4,1,1,1,1,1,3,3,3,3,2,2,4
+983,"Sylvia Thigpen",2,3,1.5,"Mobile","Machine Learning","JS","English","Kannada","Telugu",0,0,1,2,0,0,"Programmer-2",1,1,1,1,0,0,0,1,1,1,1,0,0,2,2,2,2,1,1,0
+984,"John Gerrald",4,5,1.3,"AI","Mobile","Machine Learning","English","Japenese","Malayalam",1,1,0,1,0,2,"Programmer-2",2,2,2,2,0,0,0,1,1,1,1,4,4,1,0,0,0,3,3,0
+985,"Jose Bond",17,29,1.7,"AI","JS","Mobile","English","Telugu","Chinese",7,2,6,4,7,3,"Project Manager",1,1,1,1,1,1,0,1,1,1,1,4,4,3,3,3,3,2,2,1
+986,"Russell Collyer",8,16,2,"Mobile","AI","Machine Learning","English","Japenese","Hindi",4,3,4,1,2,2,"Programmer-1",2,2,2,2,1,1,0,1,1,1,1,3,3,1,1,1,1,4,4,1
+987,"William Nelson",15,8,0.5,"AI","JS","Machine Learning","English","Malayalam","Japenese",3,1,2,1,1,0,"Programmer-3",2,2,2,2,1,1,0,1,1,1,1,4,4,3,3,3,3,0,0,1
+988,"Thomas Barton",22,21,1,"Mobile","DotNet","AI","English","Tamil","Chinese",5,2,5,3,2,4,"Deployment-1",1,1,1,1,3,3,0,3,1,1,1,2,2,1,1,1,1,4,4,3
+989,"Angelo Houck",23,29,1.3,"JS","Java","Machine Learning","English","Kannada","Chinese",5,3,6,5,4,6,"Team Lead",2,2,2,2,1,1,0,1,3,3,3,1,1,4,4,4,4,1,1,1
+990,"Ricky Hood",20,16,0.8,"Java","AI","DotNet","English","Kannada","Tamil",4,0,5,2,3,2,"Deployment-1",1,0,0,0,2,2,0,2,4,4,4,3,3,1,1,1,1,1,1,2
+991,"Joan Takemura",5,7,1.4,"JS","AI","DotNet","English","Malayalam","Kannada",2,1,1,1,1,1,"Programmer-2",1,1,1,1,2,2,0,2,1,1,1,3,3,4,4,4,4,1,1,2
+992,"Stephen Burritt",19,19,1,"Machine Learning","Mobile","Java","English","Malayalam","Hindi",3,5,3,4,1,3,"Deployment-1",4,4,4,4,1,1,0,1,2,2,2,1,1,1,1,1,1,3,3,1
+993,"Virginia Hamby",13,12,0.9,"AI","DotNet","Machine Learning","English","Malayalam","Kannada",5,4,1,0,0,2,"Testing and Debugging",2,2,2,2,1,1,0,1,1,0,0,4,4,1,1,1,1,1,1,1
+994,"Joseph Buckner",19,26,1.4,"JS","AI","Java","English","Telugu","Chinese",2,5,7,2,6,4,"Team Lead",1,1,1,1,1,1,0,1,2,2,2,3,3,4,4,4,4,1,1,1
+995,"Glenn Bumbrey",15,17,1.1,"Machine Learning","AI","Java","English","Kannada","Malayalam",3,4,2,3,2,3,"Team Lead",4,4,4,4,1,1,0,1,2,2,2,3,3,1,1,1,1,1,1,1
+996,"Nicole Meeks",24,27,1.1,"Java","Mobile","AI","English","Telugu","Tamil",11,3,2,6,4,1,"Team Lead",1,1,1,1,1,1,0,1,4,4,4,2,2,1,1,1,1,3,3,1
+997,"Trista Cheek",3,6,2,"Mobile","Machine Learning","DotNet","English","Chinese","Telugu",1,0,2,1,2,0,"Programmer-2",1,1,1,1,2,2,0,2,1,1,1,1,1,1,1,1,1,1,1,2
+998,"Constance Rozier",14,5,0.4,"AI","Machine Learning","Mobile","English","Kannada","Telugu",2,1,1,1,0,0,"Testing and Debugging",3,3,3,3,0,0,0,1,1,1,1,4,4,1,1,1,1,1,1,0
+999,"Elizabeth Bannister",11,9,0.8,"JS","Machine Learning","DotNet","English","Tamil","Japenese",4,2,1,1,0,1,"Programmer-3",3,3,3,3,1,1,0,1,1,1,1,1,1,4,4,4,4,1,1,1
+1000,"Susan Weber",11,13,1.2,"Machine Learning","AI","JS","English","Telugu","Hindi",4,0,1,2,5,1,"Team Lead",1,1,1,1,1,1,0,1,1,1,1,3,3,2,2,2,2,1,1,1
