@@ -49,7 +49,7 @@ shinyUI <- dashboardPage(
                                          column(12,
                                                 includeText("User.txt"),
                                                 br(),
-                                                pre(includeText("treemap.txt"))
+                                                pre(includeText("Treemap.txt"))
                                          )
                                      ),
                                      withSpinner(plotOutput("treemap"), type = 1),
