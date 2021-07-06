@@ -4,7 +4,7 @@ options(spinner.color="#69A728", spinner.color.background="#ffffff", spinner.siz
 
 shinyUI <- dashboardPage(
     dashboardHeader(
-        ### changing logo
+    ### Setting up ShinyDashboard Logo
         title = shinyDashboardLogo(
             theme = "grey_light",
             boldText = "Shiny",
@@ -14,7 +14,7 @@ shinyUI <- dashboardPage(
     ),
     dashboardSidebar(disable = TRUE),
     dashboardBody(
-    ### changing theme
+    ### changing ShinyDashboard theme
             shinyDashboardThemes(
             theme = "flat_red"
             ),
@@ -23,8 +23,11 @@ shinyUI <- dashboardPage(
                                                                font-weight: bold;font-size: 24px;}
                                           ')))
                 ),
+        
+    ### Using navbarpage layout
     navbarPage(
         title = 'Global IT Consulting Utilization Dashboard',theme = shinytheme("flatly"), collapsible = TRUE,
+        ### tab1 
         tabPanel('Main Dashboard', icon = icon("th"),
                  tags$h2("KEY INDICATORS"),
                  tags$h5("You may see what this firm has achieved so far:"),
@@ -39,6 +42,7 @@ shinyUI <- dashboardPage(
                  tags$h5("Here is a map view about the active projects, client cities, and labeled project funding scale:"),
                  column(withSpinner(leafletOutput("mymap")),width=12)
         ),
+        ### tab2 
         tabPanel('Exploratory Data', icon = icon("dashboard"), column(width=12,
                                      titlePanel("EXPLORATORY DATA - TREE MAP"),
                                      fluidRow(
@@ -53,6 +57,8 @@ shinyUI <- dashboardPage(
                                      withSpinner(plotOutput("treemap2"), type = 1)
                                      )
         ),
+        
+        ### tab3 
         navbarMenu("IT Consulting Engagement",icon = icon("file-code-o"), 
                    tabPanel('List of Consultant',tags$h3("1. IT Consultant Search"), DT::dataTableOutput('ex1')),
                    tabPanel('Area of Interest',tags$h3("2. Areas of Interests"), DT::dataTableOutput('ex2')),
@@ -60,6 +66,8 @@ shinyUI <- dashboardPage(
                    tabPanel('Project Experience',tags$h3("4. Project Experince by type and year"), DT::dataTableOutput('ex4')),
                    tabPanel('Skill Level',tags$h3("5. Project Skill Level"), DT::dataTableOutput('ex5'))
         ),
+        
+        ### tab4 
         tabPanel('Global IT Project Database',icon = icon("file-powerpoint",lib = "font-awesome"),
                  sidebarLayout(
                      sidebarPanel(
@@ -94,7 +102,8 @@ shinyUI <- dashboardPage(
                      ),
                      mainPanel(DT::dataTableOutput("tb1"))
                      )
-                     ),
+       ),
+       ### tab5
         tabPanel('Consultant Profile',icon = icon("address-card",lib = "font-awesome"),
                  fluidRow(
                      selectInput("c1", "Consultant Name:", 
@@ -127,6 +136,8 @@ shinyUI <- dashboardPage(
         
 
        ),
+        
+    ### tab6 
     tabPanel('Expertise Comparison', icon = icon("chart-area",lib = "font-awesome"),
              tags$h2("EXPERTISE COMPARISON"),
              tags$h5("To visualize the graph of the consultant expertise, select the name from the drop-dowm menu. It is worth noting that graphics will be overlapped.:"),
@@ -144,11 +155,12 @@ shinyUI <- dashboardPage(
              
              
     ),
+    ### tab7 
     tabPanel(
         
         "About this App",icon = icon("globe",lib = "font-awesome"),
         
-        # Various tabs.
+        # Various embedded tabs.
         tabsetPanel(
             
             # General info.
