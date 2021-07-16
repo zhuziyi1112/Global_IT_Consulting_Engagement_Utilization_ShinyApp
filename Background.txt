@@ -1,6 +1,6 @@
 This shiny app demonstrates how one can build a basic UI and incorporate R Shiny server logic whilst exploring a global IT consulting internal data.
 
-This is a intergrated part of IT firm-based resource planning system. 
+This is an integrated part of IT firm-based resource planning system. 
 
-The senior management users who review this shiny app would like to decide what action to be taken at the beginning of each year, in order to continue running a IT consulting services,
+The senior management users who review this shiny app would like to decide what action to be taken at the beginning of each year, in order to continue running an IT consulting services,
 serving hundreds of clients on a global scale. 
