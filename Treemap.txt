@@ -1,4 +1,4 @@
-The two treemaps represent how the demands look like for each IT sectors across countires. 
+The two tree maps represent how the demands look like for each IT sectors across countries.
 
 - By IT domain skill / sector / investment 
 - By Countries
