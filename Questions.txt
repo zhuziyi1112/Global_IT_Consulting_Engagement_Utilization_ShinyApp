@@ -3,5 +3,5 @@
 - How many consultants on the bench (with unutilized capacity)?
 - To explore firm-wide consultancy potentials and boost IT specialists' growth, can every resource be fully utilized? Can everyone be assigned to the projects tailored to their own respective
 interests? 
-- What's the best/quickest way to find a IT consultant from the databse who suit with the client's requirements? 
+- What's the best/quickest way to find an IT consultant from the database who suit with the client's requirements? 
 - How to make a visualized comparison between multiple consultants with regards to expertise?
