@@ -179,7 +179,6 @@ shinyUI <- dashboardPage(
                 tags$h1("Scope"),
                 tags$p(HTML("This collection of visualizations addresses the question - ")),
                 pre(includeText("Questions.txt")),
-                tags$p(HTML("The aim is to complement these resources with several interactive features using this app.")),
                 hr(),
                 tags$h1("Approach"),
                 tags$p(HTML("Data are processed using R:")),
